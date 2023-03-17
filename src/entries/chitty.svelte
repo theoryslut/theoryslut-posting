@@ -336,10 +336,13 @@
 
 <p>
 	at this point i think i've established where i'm going with this. gay mastodon, for some
-	immediately economically determined reasons and for other more culturally determined reasons, has
-	developed to resemble the bedroom more than it has a public space in its politics. honestly, i've
-	brought <i>into</i> my bedroom and fucked many people with less vetting and consent discourse than
-	many people require of their mastodon "interactors." and i'm a picky bitch!
+	immediately economically determined reasons and other, perhaps more culturally determined reasons,<a
+		href="#foot-superstructure"
+		class="footnote">^</a
+	><span class="anchor" id="superstructure" /> has developed to resemble the bedroom more than it
+	has a public space in its politics. honestly, i've brought <i>into</i> my bedroom and fucked many people
+	with less vetting and consent discourse than many people require of their mastodon "interactors." and
+	i'm a picky bitch!
 </p>
 <p>
 	gay mastodon isn't public. it has neither the danger nor the excitement nor the unexpected
@@ -520,7 +523,10 @@
 <p>
 	One, Delaney is talking pretty specifically about socioeconomic class in his analysis. I'm going
 	to chance imprecision here by asking my reader to imagine inter-"class" contact of other forms as
-	well. ("gay people as a class," "sex workers as a class," "furries as a class," etc.)
+	well. ("gay people as a class," "sex workers as a class," "furries as a class," etc.)<a
+		href="#foot-vulgar"
+		class="footnote">^</a
+	><span class="anchor" id="vulgar" />
 </p>
 <p>
 	Two, Delaney is mourning the loss of a public sex culture in Times Square in the years leading up
@@ -855,6 +861,16 @@
 		them from here on out. i believe in you. you can figure it out
 	</p>
 	<p>
+		<a href="#superstructure" id="foot-superstructure" class="bottom">^</a>are these reasons
+		eventually boil-downable to economic reasons? perhaps. but they're, as Delaney is so careful to
+		point out, not <i>inevitable</i> cultural quirks; the quirks gay mastodon has developed are not
+		the
+		<i>only</i> way people could respond to and make meaning out of the structures conditioning its existence.
+		is any cultural response rooted in bare economic reality? of course. does that economic reality shape
+		what-can-be-said? who do you think i am! but it's also not totalizing. there are options among the
+		what-can-be-saids. can't believe i've been caught making an argument for free will lol embarrassing
+	</p>
+	<p>
 		<a href="#is-it" id="foot-is-it" class="bottom">^</a>is it fundamentally-- for <i>us</i>-- a
 		gender question? (internet) fash are generally *white, protestant, middle class* men, not just
 		men. for many trans people, it's white *women* we are fleeing from as well. at the same time it
@@ -916,6 +932,9 @@
 		maintain simply witnessing a penis is generally not harmful lmao.
 		<a href="https://twitter.com/JoyceCarolOates/status/1627049821470334977">joyce says it better</a
 		>
+	</p>
+	<p>
+		<a href="#vulgar" id="foot-vulgar" class="bottom">^</a> vulgar marxists HATE this ONE SIMPLE TRICK!
 	</p>
 	<p><a href="#disco" id="foot-disco" class="bottom">^</a> go play disco elysium</p>
 	<p>
