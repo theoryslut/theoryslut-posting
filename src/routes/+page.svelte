@@ -29,7 +29,7 @@
 						<span class="entry-spacer"> {`  `}</span>
 						<span>{new Date(entry.published).toDateString()}</span>
 						<span class="entry-spacer"> {`    `}</span>
-						<a href={`/blog/${entry.slug}`} class="entry-title">{entry.title}</a>
+						<a href={`theoryslut-posting/blog/${entry.slug}`} class="entry-title">{entry.title}</a>
 					</li>
 				{/each}
 			</ul>
