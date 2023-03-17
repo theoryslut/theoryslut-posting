@@ -930,6 +930,7 @@
 <style>
 	.meme {
 		max-height: 400px;
+		max-width: 70vw;
 	}
 
 	.red {
