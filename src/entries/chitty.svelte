@@ -867,8 +867,9 @@
 		of spaces Delaney frequents not relevant to non-cis-men. there are historical reasons why there
 		is no modern lesbian public sex culture on a comparable scale to modern public sodomy culture,
 		and it's infrastructural and hegemonic as much as it is cultural. (there isn't a complaint about
-		working class women pissing in the street in 1840s Paris, it's worth mentioning!). and yet,
-		obviously, men who are not white and wealthy do not encounter public space neutrally either.
+		working class women pissing in the street in 1840s Paris, it's worth mentioning! but there are
+		complaints against women sex workers). and yet, obviously, men who are not white and wealthy do
+		not encounter public space neutrally either.
 	</p>
 	<p>
 		<a href="#alsoo" id="foot-alsoo" class="bottom">^</a> OBVIOUSLY IT'S ALSO ABOUT ~1000 OTHER
