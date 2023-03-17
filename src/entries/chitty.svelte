@@ -615,7 +615,7 @@
 	encouraged low-stakes engagement; gay Mastodon does not.
 </p>
 <blockquote>
-	IV <br />
+	(IV) <br />
 	There is, of course, another way to meet people. It is called networking. . . . But contemporary networking
 	is notably different from contact. At first one is tempted to set contact and networking in opposition.
 	Networking tends to be professional and motive-driven. Contact tends to be more broadly social and
