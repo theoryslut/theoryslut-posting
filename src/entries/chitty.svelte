@@ -788,15 +788,14 @@
 	especially in that final year of high school, was life saving.
 </p>
 <p>
-	I took a quick look at penpals.pk today to see how it was doing. It's still up! And looks probably
-	exactly the same as it did then. Funnily, it does seem to be a prime spot for gay cruising and/or
-	sex work, if what you're after is more of a slow burn. there are posts from people of all ages and
-	genders and parts of the world. it's been around since 2006, and there are plenty of recent posts;
-	it's far from dead. I doubt I am the only person to meet a long-term friend on the site, and I <i
-		>know</i
-	> it's far from the only site that facilitates connections like this. but until I remembered this personal
-	moment of "contact" while re-reading TSRTSB, I never would have thought to connect it to a broader
-	experience of the social internet.
+	I took a quick look at <a href="https://penpals.phk.at/view_nm.php">penpals.phk</a> today to see
+	how it was doing. It's still up! And looks probably exactly the same as it did then. Funnily, it
+	does seem to be a prime spot for gay cruising and/or sex work, if what you're after is more of a
+	slow burn. there are posts from people of all ages and genders and parts of the world. it's been
+	around since 2006, and there are plenty of recent posts; it's far from dead. I doubt I am the only
+	person to meet a long-term friend on the site, and I <i>know</i> it's far from the only site that facilitates
+	connections like this. but until I remembered this personal moment of "contact" while re-reading TSRTSB,
+	I never would have thought to connect it to a broader experience of the social internet.
 </p>
 <p>
 	the depth of my desperation and loneliness in high school is, of course, somewhat embarrassing to
