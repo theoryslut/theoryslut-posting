@@ -1,4 +1,8 @@
-<a href="/theoryslut-posting">
+<script>
+	import { base } from '$app/paths';
+</script>
+
+<a href={`/${base}`}>
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
 		width="38"
