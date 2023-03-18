@@ -37,6 +37,7 @@
 			</ul>
 		</div>
 	</div>
+	<p>want to get in touch? trashfirehell@protonmail.com</p>
 </div>
 
 <style>
