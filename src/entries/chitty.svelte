@@ -346,7 +346,7 @@
 </p>
 <p>
 	gay mastodon isn't public. it has neither the danger nor the excitement nor the unexpected
-	pleasures of public space. To borrow from Sam Delaney talking about urban life, what makes public
+	pleasures of public space. To borrow from Sam Delany talking about urban life, what makes public
 	spaces vital is the chance of <i>contact</i> -- the encounter with something that might be unexpected
 	or unfamiliar, especially social contact across lines of class, race, ethnicity, and gender.
 </p>
@@ -374,9 +374,9 @@
 	> <span class="anchor" id="alsoo" />
 </p>
 <p>
-	perhaps unlike Chitty (and Samuel Delaney<a href="#foot-delaney" class="footnote">^</a><span
+	perhaps unlike Chitty (and Samuel Delany<a href="#foot-delany" class="footnote">^</a><span
 		class="anchor"
-		id="delaney"
+		id="delany"
 	/> ), I think there's sometimes genuine merit in the concerns expressed by such attempts, well hidden
 	underneath the often ridiculous rhetoric they're deployed with.
 </p>
@@ -509,11 +509,11 @@
 </h4>
 <p>
 	all right. you're somehow still here with me, so we're going to jump over to the obvious
-	interlocutor for any discussion of queer people's pleasure in public space: Samuel Delaney's <i
+	interlocutor for any discussion of queer people's pleasure in public space: Samuel Delany's <i
 		>Times Square Red, Times Square Blue</i
 	>. I'll be working specifically with his concept of <b>networking</b> versus <b>contact</b> in public
 	space. If this were an academic essay, I'd have to drop tantalizing little quotes and then expound
-	upon them in my own words. this isn't, though. i think samuel delaney says it better than i could ever
+	upon them in my own words. this isn't, though. i think samuel delany says it better than i could ever
 	attempt to summarize. and in fact, he has structured his definitions seemingly so as to prevent them
 	being easily extracted and quoted as "this is what contact is" and "this is what networking is". their
 	definitions span the entire second half of the book itself. so i'm going to quote him at length, drawing
@@ -521,15 +521,15 @@
 </p>
 <p>Two notes on that connective tissue.</p>
 <p>
-	One, Delaney is talking pretty specifically about socioeconomic class in his analysis. I'm going
-	to chance imprecision here by asking my reader to imagine inter-"class" contact of other forms as
+	One, Delany is talking pretty specifically about socioeconomic class in his analysis. I'm going to
+	chance imprecision here by asking my reader to imagine inter-"class" contact of other forms as
 	well. ("gay people as a class," "sex workers as a class," "furries as a class," etc.)<a
 		href="#foot-vulgar"
 		class="footnote">^</a
 	><span class="anchor" id="vulgar" />
 </p>
 <p>
-	Two, Delaney is mourning the loss of a public sex culture in Times Square in the years leading up
+	Two, Delany is mourning the loss of a public sex culture in Times Square in the years leading up
 	to his book's publication. I'll be mourning the purchasing by Musk (and subsequent, in-process
 	dismantling of infrastructure) of Twitter for convenience. It's far from the only such death in
 	digital space (backpage, anyone? craigslist personals, anyone?), and to be entirely honest it's
@@ -570,11 +570,11 @@
 	relationships— that is, <b>psychologically “dangerous” relations</b>, though the danger is rarely
 	specified in any way other than to suggest its
 	<b>failure to conform to the ideal bourgeois marriage</b>. (emphasis mine, parentheticals
-	Delaney's, p. 121-2)
+	Delany's, p. 121-2)
 </blockquote>
 <p>
 	I would argue (as, I believe, would Chitty, who I've realized in writing this piece was a very
-	close reader of Delaney) that the history of this formulation of "safety" dates back much further,
+	close reader of Delany) that the history of this formulation of "safety" dates back much further,
 	at least to 1841 Paris if not earlier. But holy shit, right? As Twitter is in this ongoing process
 	of dismantling, mourning or analysis of its better parts in posts just like these <i>have</i> been
 	lambasted for glorifying "everything dangerous": the nazis, trump, misinformation, abusive/addictive
@@ -759,7 +759,7 @@
 	middle-class Oregon town. it was not a particularly pleasant place to grow up an intellectually
 	ravenous trans fag, but neither was it a particularly brutal one to me, white and middle class and
 	well-behaved as I was. mostly, it was boring, soul-suckingly boring, and largely free of spaces of
-	networking <i>or</i> contact for youth. (Delaney, of course, is discussing the city. When he discusses
+	networking <i>or</i> contact for youth. (Delany, of course, is discussing the city. When he discusses
 	the country, it is to suggest that other social strategies are required.)
 </p>
 <p>
@@ -803,13 +803,13 @@
 	vulnerability, to see them as personal, as personal failures. social desperation is uncomfortable
 	to experience and uncomfortable to witness, as banally common as it is. and yet-- it <i>is</i> banally
 	common, particularly for elders and children in the US. particularly for gay people. and if we are
-	to take delaney's word for it, it's common in part due to the perpetual dismantling by capitalism of
+	to take delany's word for it, it's common in part due to the perpetual dismantling by capitalism of
 	structures that allow contact between people.
 </p>
 <p>
-	if samuel delaney were not so incredibly generous and dare I say shameless (unshameable?) about
+	if samuel delany were not so incredibly generous and dare I say shameless (unshameable?) about
 	sharing the details of his public sex life, this essay would not exist. (would Chitty's book be
-	the same without Delaney's insights into public sodomy? doubtful.) if we're thinking about what we
+	the same without Delany's insights into public sodomy? doubtful.) if we're thinking about what we
 	want out of the public internet, it might be worth talking about our own moments of social
 	desperation, and where we have gone to quench them. moments caught up in shame, desire,
 	loneliness, and the fear of displaying vulnerability in public-- and where we went to display it
@@ -861,7 +861,7 @@
 	</p>
 	<p>
 		<a href="#superstructure" id="foot-superstructure" class="bottom">^</a>are these reasons
-		eventually boil-downable to economic reasons? perhaps. but they're, as Delaney is so careful to
+		eventually boil-downable to economic reasons? perhaps. but they're, as Delany is so careful to
 		point out, not <i>inevitable</i> cultural quirks; the quirks gay mastodon has developed are not
 		the
 		<i>only</i> way people could respond to and make meaning out of the structures conditioning its existence.
@@ -879,7 +879,7 @@
 		being harangued by mostly cis men. i've seen jewish anti-Zionist twitter get lambasted by mostly
 		jewish men informing them their judaism is fake and/or their antizionism a betrayal. i also
 		think there's something about being a "public woman" (to cite Tourmaline) which makes the sort
-		of spaces Delaney frequents not relevant to non-cis-men. there are historical reasons why there
+		of spaces Delany frequents not relevant to non-cis-men. there are historical reasons why there
 		is no modern lesbian public sex culture on a comparable scale to modern public sodomy culture,
 		and it's infrastructural and hegemonic as much as it is cultural. (there isn't a complaint about
 		working class women pissing in the street in 1840s Paris, it's worth mentioning! but there are
@@ -909,9 +909,8 @@
 		on other angles.
 	</p>
 	<p>
-		<a href="#delaney" id="foot-delaney" class="bottom">^</a> worth mentioning Sam Delaney is on both
-		twitter and facebook and has a delightfully unexpected and idosyncratic posting style. go give him
-		a follow
+		<a href="#delany" id="foot-delany" class="bottom">^</a> worth mentioning Sam Delany is on both twitter
+		and facebook and has a delightfully unexpected and idosyncratic posting style. go give him a follow
 	</p>
 
 	<p>
