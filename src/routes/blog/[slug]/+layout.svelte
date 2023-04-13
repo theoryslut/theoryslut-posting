@@ -2,6 +2,8 @@
 	import BackArrow from '../../../lib/back_arrow.svelte';
 	import ThemeToggle from '../../../lib/ThemeToggle.svelte';
 	import { theme, toggleTheme } from '../../../stores/global_theme';
+
+	import { page } from '$app/stores';
 </script>
 
 <div class="body-wrapper {$theme}">
@@ -9,6 +11,9 @@
 		<ThemeToggle checked={$theme === 'light-theme'} {toggleTheme} />
 		<BackArrow />
 		<div class="blog-body">
+			{#if $page.data.component}
+				<svelte:component this={$page.data.component} />
+			{/if}
 			<slot />
 		</div>
 	</section>
