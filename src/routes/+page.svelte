@@ -13,6 +13,8 @@
 		<ThemeToggle checked={$theme === 'light-theme'} {toggleTheme} />
 		<h1>theoryslut</h1>
 		<Navbar />
+		<h5 class="subtitle">post theory, slut</h5>
+		<hr />
 		<div class="all-posts">
 			<ul>
 				{#each data.entries as entry}

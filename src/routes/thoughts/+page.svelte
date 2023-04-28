@@ -44,10 +44,6 @@
 </div>
 
 <style>
-	.subtitle {
-		font-style: italic;
-	}
-
 	.all-posts {
 		display: flex;
 		flex-direction: row;
