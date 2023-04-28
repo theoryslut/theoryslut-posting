@@ -1,5 +1,5 @@
 <script>
-	import RainbowLink from '../../../sveltekit-blog/src/lib/text_styling/RainbowLink.svelte';
+	import RainbowLink from '$lib/RainbowLink.svelte';
 	import ChainLink from '../lib/ChainLink.svelte';
 </script>
 
