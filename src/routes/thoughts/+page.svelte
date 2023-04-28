@@ -1,9 +1,9 @@
 <script>
-	import ThemeToggle from '../lib/ThemeToggle.svelte';
-	import { theme, toggleTheme } from '../stores/global_theme';
+	import ThemeToggle from '../../lib/ThemeToggle.svelte';
+	import { theme, toggleTheme } from '../../stores/global_theme';
 
 	import { base } from '$app/paths';
-	import Navbar from '../lib/Navbar.svelte';
+	import Navbar from '../../lib/Navbar.svelte';
 
 	export let data;
 </script>
@@ -13,6 +13,8 @@
 		<ThemeToggle checked={$theme === 'light-theme'} {toggleTheme} />
 		<h1>theoryslut</h1>
 		<Navbar />
+		<h5 class="subtitle">no polish lo stakes Posts</h5>
+		<hr />
 		<div class="all-posts">
 			<ul>
 				{#each data.entries as entry}
@@ -32,7 +34,7 @@
 						<span class="entry-spacer"> {`  `}</span>
 						<span>{new Date(entry.published).toDateString().split(' ').slice(1).join(' ')}</span>
 						<span class="entry-spacer"> {`    `}</span>
-						<a href={`${base}/blog/${entry.slug}`} class="entry-title">{entry.title}</a>
+						<a href={`${base}/thoughts/${entry.slug}`} class="entry-title">{entry.title}</a>
 					</li>
 				{/each}
 			</ul>
@@ -42,10 +44,15 @@
 </div>
 
 <style>
+	.subtitle {
+		font-style: italic;
+	}
+
 	.all-posts {
 		display: flex;
 		flex-direction: row;
 		justify-content: flex-start;
+		margin-left: 2rem;
 	}
 
 	.main-body {

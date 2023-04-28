@@ -1,8 +1,10 @@
 <script>
 	import { base } from '$app/paths';
+
+	export let target = '';
 </script>
 
-<a href={`${base}/`}>
+<a href={`${base}/${target}`}>
 	<svg
 		xmlns="http://www.w3.org/2000/svg"
 		width="38"

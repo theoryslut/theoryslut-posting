@@ -91,6 +91,10 @@ p {
 	line-height: 1.5;
 }
 
+hr {
+	color: var(--surface0);
+}
+
 span {
 	line-height: 1.5;
 }
@@ -117,7 +121,8 @@ details p {
 
 span.footnote,
 a.footnote,
-.footnote > p > a:first-child {
+.footnote > p > a:first-child,
+.footnote > div > a:first-child {
 	color: var(--red);
 	font-weight: bolder;
 	position: relative;
@@ -129,7 +134,8 @@ a.footnote,
 	margin-top: 100px;
 }
 
-.footnote p {
+.footnote p,
+.footnote div {
 	color: var(--teal);
 }
 
@@ -155,10 +161,6 @@ a.footnote,
 	background-color: var(--mantle);
 	width: 100%;
 	max-width: min(100vw, 56rem);
-}
-
-.list-star {
-	color: red;
 }
 
 .strikethrough {

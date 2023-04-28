@@ -2,21 +2,10 @@
 	import { onMount } from 'svelte';
 	import sue_meme from '../assets/images/glee.png';
 	import go_piss_girl from '../assets/images/gopissgirl.jpg';
+	import footnoteInit from '../lib/footnoteInit';
 
 	onMount(() => {
-		let notes = document.querySelectorAll('a.footnote');
-		let i = 1;
-		notes.forEach((footnote) => {
-			footnote.innerHTML = `^${i}`;
-			i += 1;
-		});
-
-		i = 1;
-		let feet = document.querySelectorAll('a.bottom');
-		feet.forEach((footnote) => {
-			footnote.innerHTML = `^${i}`;
-			i += 1;
-		});
+		footnoteInit('a.footnote', 'a.bottom');
 	});
 </script>
 
