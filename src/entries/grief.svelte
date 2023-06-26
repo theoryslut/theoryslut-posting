@@ -1150,10 +1150,10 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 	<Footnote id="privilege"
 		>it worked out ofc because of my whiteness and gender as well. at the time, i thought of my
 		position as quite privileged -- being seen as just some college dude doing college dude work. in
-		retrospect being paid $10/hr cash to be a joint therapist and weed puller in very hot weather
-		was not under any rubric "privilege." but the ability to make that work financially through
-		student loan debt was, which eventually allowed for me to get jobs in this field that pay
-		slightly closer to living wage.</Footnote
+		retrospect being paid $10/hr to be a joint therapist and weed puller in very hot weather was not
+		under any rubric "privilege." but the ability to make that work financially through student loan
+		debt was, which eventually allowed for me to get jobs in this field that pay slightly closer to
+		living wage.</Footnote
 	>
 	<Footnote id="gnc"
 		>i was a high femme child and land based work is approximately the only time i butch it up</Footnote
@@ -1202,108 +1202,99 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 			rel="noreferrer"
 		/></Footnote
 	>
-
-	<p>
-		<a href="#missouri" id="foot-missouri" class="bottom">^</a>
+	<Footnote id="missouri">
 		Missouri Dept of Conservation -
 		<ChainLink
 			href="https://mdc.mo.gov/discover-nature/field-guide/indian-strawberry-mock-strawberry"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#cinquefoil" id="foot-cinquefoil" class="bottom">^</a> there's also dwarf cinquefoil / potentilla
-		canadensis, which is also potentilla sp., which also has yellow flowers and a similar habit and shows
-		up in very similar conditions, but has five-pronged leaves rather than three. but i digress.
-	</p>
-	<p>
-		<a href="#robinshit" id="foot-robinshit" class="bottom">^</a>
+		/></Footnote
+	>
+	<Footnote id="cinquefoil">
+		there's also dwarf cinquefoil / potentilla canadensis, which is also potentilla sp., which also
+		has yellow flowers and a similar habit and shows up in very similar conditions, but has
+		five-pronged leaves rather than three. but i digress.</Footnote
+	>
+	<Footnote id="robinshit">
 		Article on robin shit hypothesis
 		<ChainLink
 			href="https://www.phytoneuron.net/2019Phytoneuron/05PhytoN-PotentillaUtah.pdf"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#colonizer" id="foot-colonizer" class="bottom">^</a>
+		/></Footnote
+	>
+	<Footnote id="colonizer">
 		A good example can be found <RainbowLink
 			href="https://www.cal-ipc.org/plants/risk/potentilla-recta-risk/"
 			>here at California Invasive Plant Council,</RainbowLink
-		> though this is a different and rather non-strawbish potentilla
-	</p>
-	<p>
-		<a href="#currentconditions" id="foot-currentconditions" class="bottom">^</a>
-		of climate change, the presence of diasporic species, widespread contamination from industrial waste
-		of various forms (industrial farming, exhaust fumes, chemical runoff, heavy metals), etc etc.
-	</p>
-	<p>
-		<a href="#migrants" id="foot-migrants" class="bottom">^</a>jfc, man. i mean you see what i'm
-		working with here right. gd fckn
-	</p>
-	<p>
-		<a href="#discordinvasion" id="foot-discordinvasion" class="bottom">^</a>
+		> though this is a different and rather non-strawbish potentilla</Footnote
+	>
+	<Footnote id="currentconditions">
+		conditions of climate change, the presence of diasporic species, widespread contamination from
+		industrial waste of various forms (industrial farming, exhaust fumes, chemical runoff, heavy
+		metals), etc etc.</Footnote
+	>
+	<Footnote id="migrants">
+		jfc, man. i mean you see what i'm working with here right. gd fckn</Footnote
+	>
+	<Footnote id="discordinvasion">
 		Calyx - Discord of Invasion Ecology <ChainLink
 			href="https://www.northernappalachiaschool.com/post/discord-of-invasion-ecology"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#doubt" id="foot-doubt" class="bottom">^</a>
-		though I doubt many of them do choose manual labor, usually these are the folks with glyphosate out
-		the ass
-	</p>
-	<p>
-		<a href="#doubt" id="foot-deflate" class="bottom">^</a>
+		/></Footnote
+	>
+	<Footnote id="doubt">
+		though I doubt many of them do choose manual labor, usually these are the folks with glyphosate
+		out the ass</Footnote
+	>
+	<Footnote id="deflate">
 		the textbook example of this of course is carbon footprints and the concept of carbon neutrality
-		through planting monocrop forests. but i'm also thinking of louisiana, where all the "conservation"
-		work is funded by the oil industry. like they litterally are responsible for the majority of the
-		destruction of the entire ecosystem and then throw pennies to joe liberal whoever to make a little
-		park to "help with drainage" and "steward these important plant communities" horrendous and also
-		humiliating that people (i am people) roll over and beg for that funding
-	</p>
-	<p>
-		<a href="#prisonlabor" id="foot-prisonlabor" class="bottom">^</a>
-		i found someone claiming that they were "seeing greater use of prison labor in anti-exotics extermination
-		projects," dated November 1997. while i couldn't find any other people making this claim or any additional
-		info, thus this being a footnote and not a Whole ass thing, it would check the fUck out wouldn't
-		it. link to the essay making this claim - <ChainLink
+		through planting monocrop forests. but i'm also thinking of louisiana, where all the
+		"conservation" work is funded by the oil industry. like they litterally are responsible for the
+		majority of the destruction of the entire ecosystem and then throw pennies to joe liberal
+		whoever to make a little park to "help with drainage" and "steward these important plant
+		communities" horrendous and also humiliating that people (i am people) roll over and beg for
+		that funding</Footnote
+	>
+	<Footnote id="prisonlabor">
+		i found someone claiming that they were "seeing greater use of prison labor in anti-exotics
+		extermination projects," dated November 1997. while i couldn't find any other people making this
+		claim or any additional info, thus this being a footnote and not a Whole ass thing, it would
+		check the fUck out wouldn't it. link to the essay making this claim - <ChainLink
 			href="https://www.dtheo.org/NativesVs.Exotics.htm"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#escape" id="foot-escape" class="bottom">^</a>
-		i'd been put through the american-utopic-thoreau-wendell berry philosophical complex enough times
-		to know that was nothing lol
-	</p>
-	<p>
-		<a href="#collapse" id="foot-collapse" class="bottom">^</a>
-		what can i say, it was mid-pandemic, i was feeling optimistic about industrial collapse
-	</p>
-	<p>
-		<a href="#not" id="foot-not" class="bottom">^</a>
-		'financially viable' is an extremely generous term for an industry where the vast majority of businesses
-		go into massive debt in order to not be able to turn a profit while paying their labor almost to
-		literally nothing and relying on massively illegal working conditions. but ag in the us hasn't been
-		market viable for a long, long time, even conventional ag farms do not turn profits and rely on government
-		subsidies. i'll write on this sometime hopefully, it's kinda its own thing
-	</p>
-	<p>
-		<a href="#roundupstats" id="foot-roundupstats" class="bottom">^</a>
-		i didn't put two and two together until researching for this piece, but the reason so many new plants
-		are being proposed for louisiana's cancer alley (many by Chinese companies) is potentially related
-		to increased regulatory pressure in china. china also happens to be by far the main producer of the
-		world's unbranded/generic glyphosate (before it gets branded by individual companies as, say, roundup).
-		i found numerous articles on conventional ag sites about shortages and price hikes in both generic
-		glyphosate and roundup over the past 10 years, supposedly due to growing environmental regulations
-		in China. i didn't do enough digging to figure out if these were due to actual factories shutting
-		down and supply chain issues (as Monsanto claims) or due to Monsanto buying up a bunch of factories
-		+/ generic glyphosate in order to corner the market (as some industry people were claiming lol).
-		something to look into further.
+		/></Footnote
+	>
+	<Footnote id="escape">
+		i'd been put through the american-utopic-thoreau-wendell berry philosophical complex enough
+		times to know that was nothing lol</Footnote
+	>
+	<Footnote id="collapse">
+		what can i say, it was mid-pandemic, i was feeling optimistic about industrial collapse</Footnote
+	>
+
+	<Footnote id="not">
+		'financially viable' is an extremely generous term for an industry where the vast majority of
+		businesses go into massive debt in order to not be able to turn a profit while paying their
+		labor almost to literally nothing and relying on massively illegal working conditions. but ag in
+		the us hasn't been market viable for a long, long time, even conventional ag farms do not turn
+		profits and rely on government subsidies. i'll write on this sometime hopefully, it's kinda its
+		own thing</Footnote
+	>
+	<Footnote id="roundupstats">
+		i didn't put two and two together until researching for this piece, but the reason so many new
+		plants are being proposed for louisiana's cancer alley (many by Chinese companies) is
+		potentially related to increased regulatory pressure in china. china also happens to be by far
+		the main producer of the world's unbranded/generic glyphosate (before it gets branded by
+		individual companies as, say, roundup). i found numerous articles on conventional ag sites about
+		shortages and price hikes in both generic glyphosate and roundup over the past 10 years,
+		supposedly due to growing environmental regulations in China. i didn't do enough digging to
+		figure out if these were due to actual factories shutting down and supply chain issues (as
+		Monsanto claims) or due to Monsanto buying up a bunch of factories +/ generic glyphosate in
+		order to corner the market (as some industry people were claiming lol). something to look into
+		further.
 		<br />
 		following is a variety of links on this. warning for a heavy dosage of liberal economic theory lol
 		<br />
@@ -1321,134 +1312,112 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 			href="https://www.farmprogress.com/commentary/monsanto-explains-reasons-for-its-roundup-price-hikes"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#funding" id="foot-funding" class="bottom">^</a>
-		essay from way back in 1990 (1990!) criticizing the growth of the field of invasion biology, with
-		updates over the years as invasion biology grew into a whole ass thing. very 1990-white-naturalist-guy-raw-html
-		website in tone, but worth the read. <ChainLink
+		/></Footnote
+	>
+	<Footnote id="funding">
+		essay from way back in 1990 (1990!) criticizing the growth of the field of invasion biology,
+		with updates over the years as invasion biology grew into a whole ass thing. very
+		1990-white-naturalist-guy-raw-html website in tone, but worth the read. <ChainLink
 			href="https://www.dtheo.org/NativesVs.Exotics.htm"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#ghosts" id="foot-ghosts" class="bottom">^</a>
-		you should read this. <ChainLink
+		/></Footnote
+	>
+	<Footnote id="ghosts">
+		you should read this. especially if you don't know what a ghost swamp is <ChainLink
 			href="https://www.e-flux.com/architecture/accumulation/440704/ghost-forest-atlas-of-a-drowning-world/"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#padept" id="foot-padept" class="bottom">^</a>
+		/></Footnote
+	>
+	<Footnote id="padept">
 		link to state dept on slf - <ChainLink
 			href="https://www.agriculture.pa.gov/Plants_Land_Water/PlantIndustry/Entomology/spotted_lanternfly/Pages/default.aspx"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#penn" id="foot-penn" class="bottom">^</a>
+		/></Footnote
+	>
+	<Footnote id="penn">
 		link to penn on slf - <ChainLink
 			href="https://extension.psu.edu/spotted-lanternfly"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#bloodthirsty" id="foot-bloodthirsty" class="bottom">^</a>
-		philadelphians are also famously bloodthirsty and enjoy bonding over violence. another central factor
-	</p>
-	<p>
-		<a href="#wellactually" id="foot-wellactually" class="bottom">^</a>their nymphs rather, at time
-		of writing
-	</p>
-	<p>
-		<a href="#predators" id="foot-predators" class="bottom">^</a>
-		"From hundreds of responses, the No. 1 and 2 reports were of praying mantises seen eating adult lanternflies
-		and garden spiders at least snaring lanternflies in their webs and killing them, if not eating them.
-		Others reported yellow jackets, gray catbirds, wheel bugs, hornets, fishing spiders, green frogs,
-		dogs, cats, goldfish, koi and ducks eating the invasive insects. Some chicken owners reported that
-		their birds ate lanternflies, while others said the chickens avoided the insects after one taste."
-		-
+		/></Footnote
+	>
+	<Footnote id="bloodthirsty">
+		philadelphians are also famously bloodthirsty and enjoy bonding over violence. couldn't neglect
+		mentioning a clearly central factor</Footnote
+	>
+	<Footnote id="wellactually">their nymphs rather, at time of writing</Footnote>
+	<Footnote id="predators">
+		"From hundreds of responses, the No. 1 and 2 reports were of praying mantises seen eating adult
+		lanternflies and garden spiders at least snaring lanternflies in their webs and killing them, if
+		not eating them. Others reported yellow jackets, gray catbirds, wheel bugs, hornets, fishing
+		spiders, green frogs, dogs, cats, goldfish, koi and ducks eating the invasive insects. Some
+		chicken owners reported that their birds ate lanternflies, while others said the chickens
+		avoided the insects after one taste." -
 		<ChainLink
 			href="https://www.pennlive.com/life/2020/09/what-eats-spotted-lanternflies.html"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#soilbac" id="foot-soilbac" class="bottom">^</a>
+		/></Footnote
+	>
+	<Footnote id="soilbac">
 		reference for soil bacteria - <ChainLink
 			href="https://www.phillyvoice.com/spotted-lanternfly-population-decline-pennsylvania-bug-invasive-species/"
 			target="blank"
 			rel="noreferrer"
-		/>
-	</p>
-	<p>
-		<a href="#uwu" id="foot-uwu" class="bottom">^</a> uwu chemical site prep as a good friend said
-	</p>
-	<p>
-		<a href="#criminally" id="foot-criminally" class="bottom">^</a> as in, workers being paid below minimum
-		wage and illegally stipended work
-	</p>
-	<p>
-		<a href="#braiding" id="foot-braiding" class="bottom">^</a>
-		there's this section of braiding sweetgrass where kimmerer talks about her and another researcher
-		making the hypothesis that maybe sweetgrass stands would be more prolific with humans regularly harvesting
-		from them, and basically they get laughed at because the other biologists think "less plant matter
-		= less plant matter." that really stuck with me because anyone who has tended plants for longer than
-		a week could tell you that many/most plants will send out more vigorous growth as a result of regular
-		harvests. for fucks sake, they literally tell you at the garden store to use 1/3 of the herb plant
-		you buy each week so that it grows stronger roots & puts out more growth. the fact that a bunch of
-		biologists didn't know this should be humiliating for them and the field as a whole. tf y'all teaching
-		in these programs!
-	</p>
-	<p>
-		<a href="#ideological" id="foot-ideological" class="bottom">^</a>
-
+		/></Footnote
+	>
+	<Footnote id="uwu">uwu chemical site prep as a good friend said</Footnote>
+	<Footnote id="criminally">
+		as in, workers being paid below minimum wage and illegally stipended work</Footnote
+	>
+	<Footnote id="braiding">
+		there's this section of braiding sweetgrass where kimmerer talks about her and another
+		researcher making the hypothesis that maybe sweetgrass stands would be more prolific with humans
+		regularly harvesting from them, and basically they get laughed at because the other biologists
+		think "less plant matter = less plant matter." that really stuck with me because anyone who has
+		tended plants for longer than a week could tell you that many/most plants will send out more
+		vigorous growth as a result of regular harvests. for fucks sake, they literally tell you at the
+		garden store to harvest 1/3 of the herbs you buy each week so that it grows stronger roots &
+		puts out more growth. the fact that a bunch of biologists didn't know this should be
+		humiliating. tf y'all teaching in these programs!</Footnote
+	>
+	<Footnote id="ideological">
 		IME, rich people's vanity projects do not pay well and are often just as bad or worse to work on
 		than the straight production farms <i>because</i> of the ideological fervor and individual personalities
-		involved
-	</p>
-	<p>
-		<a href="#alienation" id="foot-alienation" class="bottom">^</a>
-		it's almost like the land was enclosed, or something? almost like general alienation could be said
-		to be a condition economically forced upon much of humanity, the establishment of which has taken
-		several centuries and continues to grow? nah it's definitely lack of individual responsibility that
-		got us here. we all need to hike up our loins and rewild ourselves and learn to live simply with
-		the land!
-	</p>
-	<p>
-		<a href="#pet" id="foot-pet" class="bottom">^</a>
-		i think parts of this are potentially exacerbated by the growth of the nonprofit industry and the
-		desire for one's daily work as a left middle class person to be perceived as "for good," as a way
-		to distinguish oneself from the rest of the laboring masses that have to do things "for money to
-		reproduce themselves" (ew) but that's obviously a personal pet theory
-	</p>
-	<p>
-		<a href="#coercion" id="foot-coercion" class="bottom">^</a>vs by strict economic necessity or
-		coercion
-	</p>
-	<p>
-		<a href="#death" id="foot-death" class="bottom">^</a>
-		even if being a part of its healing means by dying off lol closed system farming is fake but closed
-		system earth is not hope the fungi eat well
-	</p>
-	<p>
-		<a href="#herbworld" id="foot-herbworld" class="bottom">^</a>i'm talking about the
-		left-and-adjacent whole plant medicine world, not the herbal supplement world, though of course
-		they're deeply and fuckedly intertwined.
-	</p>
-	<p>
-		<a href="#philly" id="foot-philly" class="bottom">^</a>
-		would bet money the wildlife in philly has picked up the vibes lol if there's any birds i would trust
-		to duke it out en masse it is the se pa ones
-	</p>
-	<Footnote id="cockedtail"
-		>young shoots make a great rhubarbey cocktail syrup for starters! make sure where you're
+		involved</Footnote
+	>
+	<Footnote id="alienation">
+		it's almost like the land was enclosed, or something? almost like general alienation could be
+		said to be a condition economically forced upon much of humanity, the establishment of which has
+		taken several centuries and continues to grow? nah it's definitely lack of individual
+		responsibility that got us here. we all need to hike up our loins and rewild ourselves and learn
+		to live simply with the land!</Footnote
+	>
+	<Footnote id="pet">
+		i think parts of this are potentially exacerbated by the growth of the nonprofit industry and
+		the desire for one's daily work as a left middle class person to be perceived as "for good," as
+		a way to distinguish oneself from the rest of the laboring masses that have to do things "for
+		money to reproduce themselves" (ew) but that's obviously a personal pet theory
+	</Footnote>
+	<Footnote id="coercion">vs by strict economic necessity or coercion</Footnote>
+	<Footnote id="death">
+		even if being a part of its healing means by dying off lol closed system farming is fake but
+		closed system earth is not hope the fungi eat well</Footnote
+	>
+	<Footnote id="herbworld">
+		i'm talking about the left-and-adjacent whole plant medicine world, not the herbal supplement
+		world, though of course they're deeply and fuckedly intertwined.</Footnote
+	>
+	<Footnote id="philly">
+		would bet money the wildlife in philly has picked up the vibes lol if there's any birds i would
+		trust to duke it out en masse it is the se pa ones</Footnote
+	>
+
+	<Footnote id="cockedtail">
+		young shoots make a great rhubarbey cocktail syrup for starters! make sure where you're
 		harvesting hasn't been sprayed tho, it's one of those that many people are trying to do chemical
 		warfare on</Footnote
 	>
