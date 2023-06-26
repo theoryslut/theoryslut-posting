@@ -5,6 +5,12 @@ export const metadata = {
 			title: 'Sexual Hegemony and Mastodon',
 			description: 'public space',
 			published: 'March 15, 2023 00:00:00'
+		},
+		{
+			slug: 'grief',
+			title: 'grief on land',
+			description: 'grief on land',
+			published: 'May 08, 2023 00:00:00'
 		}
 		// {
 		// 	slug: 'vanguard',

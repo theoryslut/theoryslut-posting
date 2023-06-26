@@ -1,8 +1,12 @@
 <script>
 	import { onMount } from 'svelte';
+
+	import Footnote from '../lib/footnote/Footnote.svelte';
+	import SuperScript from '../lib/footnote/SuperScript.svelte';
+	import footnoteInit from '../lib/footnote/footnoteInit';
+
 	import sue_meme from '../assets/images/glee.png';
 	import go_piss_girl from '../assets/images/gopissgirl.jpg';
-	import footnoteInit from '../lib/footnoteInit';
 
 	onMount(() => {
 		footnoteInit('a.footnote', 'a.bottom');
@@ -78,9 +82,8 @@
 	and how that prioritization should be enforced. Banally, the historical answer to the question of priority
 	has been "whoever's interest lines up with the interest of capital," of course, and thus "whoever's
 	desires can be mobilized for policing and monetization." Since approximately the invention of the public
-	urinal, pursuing the supposed "protection"<a href="#foot-abuse" class="footnote">^</a>
-	<span class="anchor" id="abuse" />of white middle class women and children has dovetailed quite
-	nicely with the interests of capital in modern cities.
+	urinal, pursuing the supposed "protection"<SuperScript id="abuse" /> of white middle class women and
+	children has dovetailed quite nicely with the interests of capital in modern cities.
 </p>
 <p>
 	Without putting that very real distinction in power aside-- no, for real, we'll come back here-- I
@@ -116,9 +119,8 @@
 	guess would be mostly trans adults. It's got a server block list that is in the high dozens and
 	includes most of the more popular instances for listed reasons of mostly transphobia, bigotry,
 	racism, and nazis (I assume mostly deserved). What this means in practice is that most of the
-	posts I see, even on the Federated timeline,<a href="#foot-mastodon" class="footnote">^</a>
-	<span class="anchor" id="mastodon" />are on other small instances run mostly by queer individuals
-	with strong moderation policies.
+	posts I see, even on the Federated timeline,<SuperScript id="mastodon" /> are on other small instances
+	run mostly by queer individuals with strong moderation policies.
 </p>
 <p>
 	These moderation policies are, to put it mildly, Quite Different from Twitter or Instagram or
@@ -197,13 +199,10 @@
 	moderation policy can ban the latter without banning the former.
 </p>
 <p>
-	i'd like to draw particular attention to the language of consent<a
-		href="#foot-consent"
-		class="footnote">^</a
-	><span class="anchor" id="consent" /> here, because it so closely parallels Chitty's language in the
-	block quote above. The suggestion of asking for consent before a disagreement is a transparent mirroring
-	of "the domestic norms of sexual consent" to a space which is neither properly sexual nor properly
-	domestic.
+	i'd like to draw particular attention to the language of consent<SuperScript id="consent" /> here,
+	because it so closely parallels Chitty's language in the block quote above. The suggestion of asking
+	for consent before a disagreement is a transparent mirroring of "the domestic norms of sexual consent"
+	to a space which is neither properly sexual nor properly domestic.
 </p>
 <h6>DNI (or you WILL be BLOCKED)</h6>
 <p>
@@ -232,14 +231,11 @@
 	transparently-- they're for flagging, but make it politics. and the pure length of gay mastodon
 	profiles makes this pretty explicit. there is often a long list of "types" of people which are not
 	allowed to interact with a given account (eg, white vegans, people who base their identity on
-	parenthood, state-happy communists, etc etc)<a href="#foot-get-it" class="footnote">^</a><span
-		class="anchor"
-		id="get-it"
-	/> Some accounts take this further and ask that before favoriting, boosting, replying, or (hEaven forbid)
-	following, potential "interacters" essentially apply to be allowed to interact. many accounts will
-	block you or deny your follow request if you don't have a pfp, a lengthy bio, an established canon
-	of Politically Fine Posts, and/or if (gasp) you follow or are followed by one of the above types of
-	people.
+	parenthood, state-happy communists, etc etc)<SuperScript id="get-it" /> Some accounts take this further
+	and ask that before favoriting, boosting, replying, or (hEaven forbid) following, potential "interacters"
+	essentially apply to be allowed to interact. many accounts will block you or deny your follow request
+	if you don't have a pfp, a lengthy bio, an established canon of Politically Fine Posts, and/or if (gasp)
+	you follow or are followed by one of the above types of people.
 </p>
 <p>
 	yeah, obviously i don't have a lot of time for this one. but i also think the proliferation of DNI
@@ -280,12 +276,12 @@
 	<span class="hljs">anti-trans legal violence in the US</span> CWs in a row informs me exactly what
 	is happening in the world, and feels worse because I frequently have to go digging elsewhere to
 	find the actual news-- the alternative is clicking through dozens of individual despairposts
-	trying to find one that mentions what everyone is in despair <i>about.</i>
-	<a class="footnote" href="#foot-inb4">^</a> <span class="anchor" id="inb4" /> Under other circumstances
-	I might be forced to comment about how this structure might improve access for some people, but I'm
-	not in this case, because the instance I'm on has a fork of mastodon which literally doesn't support
-	image descriptions lmao so clearly these are not coming from a particularly robust analysis around
-	access.
+	trying to find one that mentions what everyone is in despair <i>about.</i><SuperScript
+		id="inb4"
+	/> Under other circumstances I might be forced to comment about how this structure might improve access
+	for some people, but I'm not in this case, because the instance I'm on has a fork of mastodon which
+	literally doesn't support image descriptions lmao so clearly these are not coming from a particularly
+	robust analysis around access.
 </p>
 <p>
 	From a horizontal mingling of ideas and people, into santized and hierarchical relations: content
@@ -297,16 +293,15 @@
 	a prison, each post in its carefully labeled cell?
 </p>
 <p>
-	i am forced<a href="#foot-foucault" class="footnote">^</a> <span class="anchor" id="foucault" /> by
-	internet law to clarify that the above was a shitpost. I am not actually suggesting that gay mastodon
-	is a prison. it would make pretty shit politics to make such a comparison. which is why i'm not actually
-	making the argument that gay mastodon is a prison. i wouldn't do such a thing.
+	i am forced<SuperScript id="foucault" /> by internet law to clarify that the above was a shitpost.
+	I am not actually suggesting that gay mastodon is a prison. it would make pretty shit politics to make
+	such a comparison. which is why i'm not actually making the argument that gay mastodon is a prison.
+	i wouldn't do such a thing.
 </p>
 <h5>but</h5>
 <p>
 	i <b>am</b> arguing gay mastodon is something potentially even more offensive to gays. It's
-	boring!<a class="footnote" href="#foot-shitpost">^</a> <span class="anchor" id="shitpost" /> And
-	it is boring for <i>political reasons.</i>
+	boring!<SuperScript id="shitpost" /> And it is boring for <i>political reasons.</i>
 </p>
 <h5>tldr: mastodon boring</h5>
 <p>
@@ -325,13 +320,11 @@
 
 <p>
 	at this point i think i've established where i'm going with this. gay mastodon, for some
-	immediately economically determined reasons and other, perhaps more culturally determined reasons,<a
-		href="#foot-superstructure"
-		class="footnote">^</a
-	><span class="anchor" id="superstructure" /> has developed to resemble the bedroom more than it
-	has a public space in its politics. honestly, i've brought <i>into</i> my bedroom and fucked many people
-	with less vetting and consent discourse than many people require of their mastodon "interactors." and
-	i'm a picky bitch!
+	immediately economically determined reasons and other, perhaps more culturally determined reasons,<SuperScript
+		id="superstructure"
+	/> has developed to resemble the bedroom more than it has a public space in its politics. honestly,
+	i've brought <i>into</i> my bedroom and fucked many people with less vetting and consent discourse
+	than many people require of their mastodon "interactors." and i'm a picky bitch!
 </p>
 <p>
 	gay mastodon isn't public. it has neither the danger nor the excitement nor the unexpected
@@ -354,20 +347,15 @@
 <p>
 	while i've touched on it some, I think it's worth emphasizing how much "the battle over public
 	space" is, and always has been, cast through the politics of <i>gendered space</i>.
-	<a href="#foot-is-it" class="footnote">^</a><span class="anchor" id="is-it" /> the enclosing of
-	public space until it resembles something more private is, for the bourgeois social reformers of
-	19th century Paris as for trans internet users today, an attempt to protect certain forms of peace
-	and comfort against a perceived onslaught of largely male indecency and refuse.<a
-		class="footnote"
-		href="#foot-alsoo">^</a
-	> <span class="anchor" id="alsoo" />
+	<SuperScript id="is-it" /> the enclosing of public space until it resembles something more private
+	is, for the bourgeois social reformers of 19th century Paris as for trans internet users today, an
+	attempt to protect certain forms of peace and comfort against a perceived onslaught of largely male
+	indecency and refuse.<SuperScript id="alsoo" />
 </p>
 <p>
-	perhaps unlike Chitty (and Samuel Delany<a href="#foot-delany" class="footnote">^</a><span
-		class="anchor"
-		id="delany"
-	/> ), I think there's sometimes genuine merit in the concerns expressed by such attempts, well hidden
-	underneath the often ridiculous rhetoric they're deployed with.
+	perhaps unlike Chitty (and Samuel Delany<SuperScript id="delany" /> ), I think there's sometimes genuine
+	merit in the concerns expressed by such attempts, well hidden underneath the often ridiculous rhetoric
+	they're deployed with.
 </p>
 <p>
 	To put it bluntly: men often have an easier time of it in public. The bodies of men are understood
@@ -375,10 +363,7 @@
 	environment and other bodies; the furor over public sodomy is partially a furor over the perceived
 	violation of this assumption (see Kristeva et al). gendered bodies, especially those marked as
 	well by racialization and class, are not understood this way. when you enter public space as a
-	body marked by gender,<a href="#foot-hollow" class="footnote">^</a><span
-		class="anchor"
-		id="hollow"
-	/>
+	body marked by gender,<SuperScript id="hollow" />
 	be it the subway or twitter dot com, your body and being is understood as available for consumption---
 	through comments, through harrassment, through assault, through abstract discussion, through displays
 	of desire and disgust. gendered bodies do not move through public space neutrally and naturally. and
@@ -436,7 +421,7 @@
 		the public internet being safe from being scraped or mined behind the scenes by one actor or
 		another for various purposes is slim. <b
 			>nothing is ever truly private in the sense of control or scope.</b
-		> your mentalhealthposting is, potentially, tomorrow's novel.
+		>
 	</li>
 </ol>
 <h5>the cop virus</h5>
@@ -447,10 +432,9 @@
 <p>
 	this is a really politically relevant and touchy point so I'm going to pause here and clarify some
 	things. in making these comparisons, I hope my reader understands I am <i>not</i>
-	arguing that seeing a penis when one does not wish to universally constitutes "harm."<a
-		class="footnote"
-		href="#foot-bad-faith">^</a
-	><span class="anchor" id="bad-faith" />
+	arguing that seeing a penis when one does not wish to universally constitutes "harm."<SuperScript
+		id="bad-faith"
+	/>
 	Neither am I suggesting that bourgeois white women actually <i>do</i> represent some absolute peak
 	of victimhood, to which all other grievances pale and whose "protection" by the state outweighs all
 	violence done in its name. jesus! rather, i'm suggesting that the hypervigilant victim strategy --
@@ -468,13 +452,13 @@
 	it's not that deep
 </p>
 <p>
-	i'm going to borrow from Ayin North's excellent sea witch books and label this strategy of social
-	hypervigilance as "catching the cops virus." i like this framing--- it emphasizes the episodic
-	nature of freakouts about external "dangers", their social nature and transmission, and is
-	entirely neutral about what "types" of people can be caught up in them. the cops virus is endemic
-	to capitalism, not to particular sorts of people. it can name how queer people who want to post
-	pussy--- the very behavior that our own generation of bourgeois white women are so desperate to
-	get out of their line of sight--- end up using the exact same logics as as the state to police
+	i'm going to borrow from Never Angeline North's excellent sea witch books and label this strategy
+	of social hypervigilance as "catching the cops virus." i like this framing--- it emphasizes the
+	episodic nature of freakouts about external "dangers", their social nature and transmission, and
+	is entirely neutral about what "types" of people can be caught up in them. the cops virus is
+	endemic to capitalism, not to particular sorts of people. it can name how queer people who want to
+	post pussy--- the very behavior that our own generation of bourgeois white women are so desperate
+	to get out of their line of sight--- end up using the exact same logics as as the state to police
 	their own spaces.
 </p>
 <p>
@@ -512,10 +496,9 @@
 <p>
 	One, Delany is talking pretty specifically about socioeconomic class in his analysis. I'm going to
 	chance imprecision here by asking my reader to imagine inter-"class" contact of other forms as
-	well. ("gay people as a class," "sex workers as a class," "furries as a class," etc.)<a
-		href="#foot-vulgar"
-		class="footnote">^</a
-	><span class="anchor" id="vulgar" />
+	well. ("gay people as a class," "sex workers as a class," "furries as a class," etc.)<SuperScript
+		id="vulgar"
+	/>
 </p>
 <p>
 	Two, Delany is mourning the loss of a public sex culture in Times Square in the years leading up
@@ -642,10 +625,7 @@
 <h4>okayokay you've sold me. we need contact. but h0w</h4>
 
 <h5>
-	INB4: absolutely the real issue is not having built communism<a
-		href="#foot-disco"
-		class="footnote">^</a
-	><span class="anchor" id="disco" />
+	INB4: absolutely the real issue is not having built communism<SuperScript id="disco" />
 </h5>
 <p>
 	So! elephant in the room time. there's a real limitation of any critique of "how public space is
@@ -807,86 +787,82 @@
 <p>
 	we need contact. in the words of tourmaline and cyrus dunham, "[5]0 years after no-touch laws,
 	[5]0 years after wild bill parker, the vice squads, and the fruit tank, [we are all] just trying
-	to figure out how to be outside, together, without so much fear and embarrassment."<a
-		class="footnote"
-		href="#foot-touch">^</a
-	><span class="anchor" id="touch" />
+	to figure out how to be outside, together, without so much fear and embarrassment."<SuperScript
+		id="touch"
+	/>
 </p>
 <p>anyway lol. fuck mastodon</p>
 <h2>~</h2>
 <div class="footnote">
-	<p>
-		<a href="#abuse" id="foot-abuse" class="bottom">^</a> or, the negotiation of who has the legal and
-		extralegal right to abuse, coerce, control, and generally harm them inside the confines of the private
-		nuclear family
-	</p>
-	<p>
-		<a href="#mastodon" id="foot-mastodon" class="bottom">^</a> explaining how Mastodon works is outside
-		the scope of this lol if you need a primer go find one
-	</p>
-	<p>
-		<a href="#consent" id="foot-consent" class="bottom">^</a> it's not the literal word used in the policy.
-		i'd like to be attentive to phrasing but i don't want to close read for anonymity reasons
-	</p>
-	<p><a href="#get-it" id="foot-get-it" class="bottom">^</a> i mean like. i get it. and also</p>
-	<p>
-		<a href="#inb4" id="foot-inb4" class="bottom">^</a> INB4 the "this is also how Twitter works though":
-		On Twitter this is not a thing. If there's violence happening, especially against trans people, Twitter
-		makes damn well sure I as a trans person see that news no matter how many times I block their "suggested
-		posts". Twitter, as a platform, wants me angry and nominally informed, though not necessarily of
-		the truth-- that's a primary aspect of both its selling point to its userbase and its basis of monetization.
-	</p>
-	<p>
-		<a href="#foucault" id="foot-foucault" class="bottom">^</a> but the Panopticon was also a
-		laboratory; it could be used as a machine to carry out experiments, to alter behaviour,
+	<Footnote id="abuse">
+		or, the negotiation of who has the legal and extralegal right to abuse, coerce, control, and
+		generally harm them inside the confines of the private nuclear family
+	</Footnote>
+	<Footnote id="mastodon">
+		explaining how Mastodon works is outside the scope of this lol if you need a primer go find one</Footnote
+	>
+	<Footnote id="consent">
+		it's not the literal word used in the policy. i'd like to be attentive to phrasing but i don't
+		want to close read for anonymity reasons</Footnote
+	>
+	<Footnote id="get-it">i mean like. i get it. and also</Footnote>
+	<Footnote id="inb4">
+		INB4 the "this is also how Twitter works though": On Twitter this is not a thing. If there's
+		violence happening, especially against trans people, Twitter makes damn well sure I as a trans
+		person see that news no matter how many times I block their "suggested posts". Twitter, as a
+		platform, wants me angry and nominally informed, though not necessarily of the truth-- that's a
+		primary aspect of both its selling point to its userbase and its basis of monetization.
+	</Footnote>
+	<Footnote id="foucault">
+		but the Panopticon was also a laboratory; it could be used as a machine to carry out
+		experiments, to alter behaviour,
 		<b>to train or correct individuals.</b>. . . I found this quote on
 		<a href="https://genius.com/Michel-foucault-discipline-and-punish-panopticon-excerpt-annotated"
 			>genius dot com</a
-		> i kid you not. the kids are alright. yes, this is also a shitpost
-	</p>
-	<p>
-		<a href="#shitpost" id="foot-shitpost" class="bottom">^</a> this is also a shitpost. i won't be marking
-		them from here on out. i believe in you. you can figure it out
-	</p>
-	<p>
-		<a href="#superstructure" id="foot-superstructure" class="bottom">^</a>are these reasons
-		eventually boil-downable to economic reasons? perhaps. but they're, as Delany is so careful to
-		point out, not <i>inevitable</i> cultural quirks; the quirks gay mastodon has developed are not
-		the
+		> i kid you not. the kids are alright. yes, this is also a shitpost</Footnote
+	>
+	<Footnote id="shitpost">
+		this is also a shitpost. i won't be marking them from here on out. i believe in you. you can
+		figure it out
+	</Footnote>
+	<Footnote id="superstructure">
+		are these reasons eventually boil-downable to economic reasons? perhaps. but they're, as Delany
+		is so careful to point out, not <i>inevitable</i> cultural quirks; the quirks gay mastodon has
+		developed are not the
 		<i>only</i> way people could respond to and make meaning out of the structures conditioning its existence.
 		is any cultural response rooted in bare economic reality? of course. does that economic reality shape
 		what-can-be-said? who do you think i am! but it's also not totalizing. there are options among the
-		what-can-be-saids. can't believe i've been caught making an argument for free will lol embarrassing
-	</p>
-	<p>
-		<a href="#is-it" id="foot-is-it" class="bottom">^</a>is it fundamentally-- for <i>us</i>-- a
-		gender question? (internet) fash are generally *white, protestant, middle class* men, not just
-		men. for many trans people, it's white *women* we are fleeing from as well. at the same time it
-		does kinda seem to be a men in public space feeling the freedom to argue and harrass thing?
-		there is a reason they are called reply Guys, though it goes without mentioning that there is an
-		abundance of women reply guys. thinking about hoteps as another example of feminine/queer scenes
-		being harangued by mostly cis men. i've seen jewish anti-Zionist twitter get lambasted by mostly
-		jewish men informing them their judaism is fake and/or their antizionism a betrayal. i also
-		think there's something about being a "public woman" (to cite Tourmaline) which makes the sort
-		of spaces Delany frequents not relevant to non-cis-men. there are historical reasons why there
-		is no modern lesbian public sex culture on a comparable scale to modern public sodomy culture,
-		and it's infrastructural and hegemonic as much as it is cultural. (there isn't a complaint about
-		working class women pissing in the street in 1840s Paris, it's worth mentioning! but there are
-		complaints against women sex workers). and yet, obviously, men who are not white and wealthy do
-		not encounter public space neutrally either.
-	</p>
-	<p>
-		<a href="#alsoo" id="foot-alsoo" class="bottom">^</a> OBVIOUSLY IT'S ALSO ABOUT ~1000 OTHER
-		THINGS. Immediately-- for Chitty, it's also about class. Working class women in Paris in 1841
-		saw dicks regularly, because they lived in such cramped conditions that the middle class
-		separation of what is done in the private space of the bedroom versus the public space of the
-		parlor or the street simply did not apply if you have 4+ adults and potentially several children
-		living out of the same room. So the complaints about dickspotting are largely coming from middle
-		class women. While obviously this continues to be relevant today in the policing of public
-		space, and digital space is not somehow "less classed" than in-person space, i think it's a
-		little less relevant to specifically gay people not wanting to see nazi shit and be harrassed on
-		the internet. Genitals are evenly distributed cross-class--- everyone has them, but middle class
-		women see less and want to see less of others'. Fash shit is
+		what-can-be-saids. can't believe i've been caught making an argument for free will lol embarrassing</Footnote
+	>
+	<Footnote id="is-it">
+		is it fundamentally-- for <i>us</i>-- a gender question? (internet) fash are generally *white,
+		protestant, middle class* men, not just men. for many trans people, it's white *women* we are
+		fleeing from as well. at the same time it does kinda seem to be a men in public space feeling
+		the freedom to argue and harrass thing? there is a reason they are called reply Guys, though it
+		goes without mentioning that there is an abundance of women reply guys. thinking about hoteps as
+		another example of feminine/queer scenes being harangued by mostly cis men. i've seen jewish
+		anti-Zionist twitter get lambasted by mostly jewish men informing them their judaism is fake
+		and/or their antizionism a betrayal. i also think there's something about being a "public woman"
+		(to cite Tourmaline) which makes the sort of spaces Delany frequents not relevant to
+		non-cis-men. there are historical reasons why there is no modern lesbian public sex culture on a
+		comparable scale to modern public sodomy culture, and it's infrastructural and hegemonic as much
+		as it is cultural. (there isn't a complaint about working class women pissing in the street in
+		1840s Paris, it's worth mentioning! but there are complaints against women sex workers). and
+		yet, obviously, men who are not white and wealthy do not encounter public space neutrally
+		either.</Footnote
+	>
+	<Footnote id="alsoo">
+		OBVIOUSLY IT'S ALSO ABOUT ~1000 OTHER THINGS. Immediately-- for Chitty, it's also about class.
+		Working class women in Paris in 1841 saw dicks regularly, because they lived in such cramped
+		conditions that the middle class separation of what is done in the private space of the bedroom
+		versus the public space of the parlor or the street simply did not apply if you have 4+ adults
+		and potentially several children living out of the same room. So the complaints about
+		dickspotting are largely coming from middle class women. While obviously this continues to be
+		relevant today in the policing of public space, and digital space is not somehow "less classed"
+		than in-person space, i think it's a little less relevant to specifically gay people not wanting
+		to see nazi shit and be harrassed on the internet. Genitals are evenly distributed
+		cross-class--- everyone has them, but middle class women see less and want to see less of
+		others'. Fash shit is
 		<i>not</i> evenly distributed across internet space, and IME encountering it more/less has less to
 		do with class and more to do with where and who you hang out with, as well as whether you're targeted.
 		there's currently no "pay to see less fash shit" tiers on popular platforms. internet spaces that
@@ -895,42 +871,39 @@
 		you're likely to see a lot more of it than anyone who isn't, period. hanging out on the internet
 		itself is a classed activity (you have to have access to a device and a connection) and there's interesting
 		dynamics in all of this so maybe i'll write another essay about that-- but for now, i'm focusing
-		on other angles.
-	</p>
-	<p>
-		<a href="#delany" id="foot-delany" class="bottom">^</a> worth mentioning Sam Delany is on both twitter
-		and facebook and has a delightfully unexpected and idosyncratic posting style. go give him a follow
-	</p>
+		on other angles.</Footnote
+	>
+	<Footnote id="delany">
+		worth mentioning Sam Delany is on both twitter and facebook and has a delightfully unexpected
+		and idosyncratic posting style. go give him a follow</Footnote
+	>
 
-	<p>
-		<a href="#hollow" id="foot-hollow" class="bottom">^</a> you can thank Hollow Knight calling Hornet
-		the "gendered child" for this formulation of "women and trans people but make it less yucky." by
-		marking i do not mean to reify the hegemonic subject as "unmarked" by the structures of gender and
-		therefore somehow prior to gender, but to draw attention to exactly that formulation of whiteness
-		and maleness as "unmarked," because it's exactly this structure at play in public space.
-	</p>
-	<p>
-		<a href="#bad-faith" id="foot-bad-faith" class="bottom">^</a> like, yeah. . . if you're getting
-		dick pics or being flashed as a part of targeted harrassment then for sure. the broader politics
-		of dick pics on dating apps are outside of the scope of this essay lmao because there's a Lot
-		going on there purely in the differences structurally and culturally between ostensibly male and
-		ostensibly female online dating cultures that cishet women (not having been on grindr) and cis
-		gay people (not having been on Both grindr and lesbian tinder / lex) rarely appreciate. but i
-		maintain simply witnessing a penis is generally not harmful lmao.
+	<Footnote id="hollow">
+		you can thank Hollow Knight calling Hornet the "gendered child" for this formulation of "women
+		and trans people but make it less yucky." by marking i do not mean to reify the hegemonic
+		subject as "unmarked" by the structures of gender and therefore somehow prior to gender, but to
+		draw attention to exactly that formulation of whiteness and maleness as "unmarked," because it's
+		exactly this structure at play in public space.</Footnote
+	>
+	<Footnote id="bad-faith">
+		like, yeah. . . if you're getting dick pics or being flashed as a part of targeted harrassment
+		then for sure. the broader politics of dick pics on dating apps are outside of the scope of this
+		essay lmao because there's a Lot going on there purely in the differences structurally and
+		culturally between ostensibly male and ostensibly female online dating cultures that cishet
+		women (not having been on grindr) and cis gay people (not having been on Both grindr and lesbian
+		tinder / lex) rarely appreciate. but i maintain simply witnessing a penis is generally not
+		harmful lmao.
 		<a href="https://twitter.com/JoyceCarolOates/status/1627049821470334977">joyce says it better</a
-		>
-	</p>
-	<p>
-		<a href="#vulgar" id="foot-vulgar" class="bottom">^</a> vulgar marxists HATE this ONE SIMPLE TRICK!
-	</p>
-	<p><a href="#disco" id="foot-disco" class="bottom">^</a> go play disco elysium</p>
-	<p>
-		<a href="#touch" id="foot-touch" class="bottom">^</a>
-		<a
+		></Footnote
+	>
+	<Footnote id="vulgar">vulgar marxists HATE this ONE SIMPLE TRICK!</Footnote>
+	<Footnote id="disco">go play disco elysium</Footnote>
+	<Footnote id="touch"
+		><a
 			href="https://web.archive.org/web/20180221104324/http://www.reinagossett.com/touch-one-another/"
 			>Touch One Another, 2015</a
-		>
-	</p>
+		></Footnote
+	>
 </div>
 
 <style>
