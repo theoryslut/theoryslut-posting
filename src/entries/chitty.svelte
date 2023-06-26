@@ -13,6 +13,9 @@
 	});
 </script>
 
+<svelte:head>
+	<title>Sexual Hegemony and Mastodon</title>
+</svelte:head>
 <h1>Sexual Hegemony and Mastodon</h1>
 <h2>15 March 2023</h2>
 <h5>CW politics around public space and (queer) people's behavior in it. also urinals</h5>

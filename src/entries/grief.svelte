@@ -18,13 +18,17 @@
 	});
 </script>
 
+<svelte:head>
+	<title>grief on land</title>
+</svelte:head>
+
 <h1>grief on land</h1>
-<h3>16 June 2023</h3>
+<h3>26 June 2023</h3>
 <h6>note on originality & expertise</h6>
 <p>
 	there's an existent critique of many aspects of the white plant world that i am building on and
 	engaging with here. exactly none of this is my original contribution, not least of which because
-	if there's any knowledge that does not belong or originate with the indiviual, it's relationship
+	if there's any knowledge that does not belong or originate with the individual, it's relationship
 	to the (natural) world at large. but most of the critiques i read while writing this piece missed
 	the mark for me in some way or another. this piece is an attempt to fill in those gaps. i'll do my
 	best to provide a list of folks i'm thinking with and alongside, folks whose work i'm indebted to,
@@ -115,7 +119,7 @@
 </p>
 <p>
 	As you hopefully have picked out, the language people use for common plants is famously xenophobic
-	and eugenicist. If all this sounds straight from original Nazi propoganda, that's because it quite
+	and eugenicist. If all this sounds straight from original Nazi propaganda, that's because it quite
 	literally is. The Nazis had a native plant movement. In fact the first organic farming movement<SuperScript
 		id="first"
 	/>
@@ -460,7 +464,7 @@
 <p>
 	I'd like to quote an essay I read while writing this piece at length, because it fucks and says it
 	better than I can. In "The Discord of Invasion Ecology," author Calyx is talking about the effect
-	of diasporic honeysuckle species on this contintent:
+	of diasporic honeysuckle species on this continent:
 </p>
 <blockquote>
 	<p>
@@ -567,7 +571,7 @@
 	one of the only ways to scalably introduce native plants is to nuke the diasporic species with glyphosate.
 	Damages to soil health, pollinator and animal health, and laborers' health aside, unwanted plants are
 	also developing resistance to glyphosate, requiring more and more production and application of an
-	incredibly damaging-to-produce and damaging-to-apply susbtance. Not to mention that the damage to the
+	incredibly damaging-to-produce and damaging-to-apply substance. Not to mention that the damage to the
 	broader ecosystem by production and application of herbicides makes the conditions even
 	<i>more</i>
 	hospitable to prolific diasporic plants.
@@ -584,7 +588,7 @@
 	produced. even soil testing is sent off to a lab. there's a reason it took to the late 20th century
 	in the US specifically for organic/small farming to take off as financially viable,<SuperScript
 		id="not"
-	/> and it's because it's (shocker) just as reliant on the technologic advancements and beholden to
+	/> and it's because it's (shocker) just as reliant on the technological advancements and beholden to
 	the markets of capitalism as conventional ag. the only difference is the consumer class, as natural-grown
 	food is almost universally a luxury good.
 </p>
@@ -786,7 +790,7 @@
 	/>
 </div>
 <p>
-	as a result of these very noticeable new bugs combined with the propoganda put out by the
+	as a result of these very noticeable new bugs combined with the propaganda put out by the
 	government & university ag depts and amplified by local news,<SuperScript id="bloodthirsty" /> there's
 	been a relatively widespread understanding that these bugs are "bad" and should be killed on sight.
 	here's a collage i made of a bunch of stickers i found on the internet (mostly on etsy)
@@ -810,11 +814,11 @@
 	incredibly kitschy commercial art about it that i sell for a profit, about how much we should be
 	trying to mass kill this species of bug specifically because it ain't from around here and it's
 	threatening my patio furniture and my local wine, in ways kinda resembling the way people make
-	kitcschy commerical art about <b>people</b> who aren't from around here that they feel are threatening
+	kitschy commerical art about <b>people</b> who aren't from around here that they feel are threatening
 	their local-wine-and-patio-furniture way of life." and that's perhaps not great
 </p>
 <p>
-	ANYWAY. inflamatory anti-wine-mom sentiments aside. . . it's three years later, and while i still
+	ANYWAY. inflammatory anti-wine-mom sentiments aside. . . it's three years later, and while i still
 	see SLFs<SuperScript id="wellactually" />around, I don't see them in nearly the quantities I did
 	in 2021 when I moved up here -- which was significantly less dramatic than 2020 already. the
 	hypotheses i've seen as to why they've been so much less prolific in this area are
@@ -849,7 +853,7 @@
 	and lefts has been with the language "invasive species" and "damage to native ecosystems." this
 	is, i think, how this generally works. research gets funded for economists to throw a fuckin fit
 	about xyz diasporic species' threat to $$$. the ag depts and state depts go cwazy with BAD BUG
-	propoganda to try to mitigate this threat, using pre-existing cultural narratives about the "evil"
+	propaganda to try to mitigate this threat, using preexisting cultural narratives about the "evil"
 	of invasive species being impact on "native ecosystems" to do the work of "why is this bad"
 	despite having no such proof. and then people uptake this as the truth of the matter and backfill
 	their own reasoning and assumptions about why something is "bad" if it's been labeled "invasive."
@@ -919,7 +923,7 @@
 	in terms of jobs on the more ecological side versus commercial crop production, there are people
 	working in landscaping/farming/nonprofits/other non-higher-ed economies, whose knowledge comes
 	mostly from the internet and hearsay. the plant stories i mention, the mythologies, they get
-	handed down geneologically just like other belief systems. I've picked up my opinions mostly from
+	handed down genealogically just like other belief systems. I've picked up my opinions mostly from
 	working under and alongside people and either taking them at their word or doing my own research
 	-- mostly based on how much i liked their politics and trusted their knowledge, lol. this essay so
 	far has largely been focusing on the limits and shortfalls of this sort of knowledgemaking in the
@@ -973,7 +977,7 @@
 	our disposal to determine long-scale, large-scale ecological impact of diasporic species. we have
 	endless data about what's causing the life-on-earth crisis (capitalism) and what its effects are
 	(massive ecological collapse of intact human, plant, critter communities) and what the risks are
-	(annhilation of life on earth). But I don't see how the scientific method -- whose main tools are
+	(annihilation of life on earth). But I don't see how the scientific method -- whose main tools are
 	fucking around, finding out, and seeing if the same results occur from fucking around and finding
 	out a few more times -- could <i>possibly</i>
 	determine the longrange effects of plants and species who have only been on this continent since the
@@ -1071,7 +1075,7 @@
 	to this systemwide crisis, is foreclosed by this assumption. you end up with language that assumes
 	that when humans move species from place to place in order to eat more easily, we're active exploiters
 	of an externalized "nature;" whereas when birds move species from place to place in order to eat more
-	easily, they're part of a passive, ignorant, static "nature" which doen't know what's best for itself.
+	easily, they're part of a passive, ignorant, static "nature" which doesn't know what's best for itself.
 	that nature might have a set of intelligences of its own is precluded and scoffed at.
 </p>
 <p>
@@ -1196,8 +1200,8 @@
 	for plants like sunchoke and goldenrod and purple loosestrife.
 </p>
 <p>
-	oregon grape root is on the united plant savers' "to-watch" list in its native range, which just
-	so happens to be where i grew up. as herbalists get into listserv wars (lol) about how best to
+	oregon grape is on the united plant savers' "to-watch" list in its native range, which just so
+	happens to be where i grew up. as herbalists get into listserv wars (lol) about how best to
 	harvest from the plant, to both preserve its life energy and get the most potent medicine for the
 	amount of material harvested, the same plant that is at risk in its historical range is considered
 	"wildly invasive" in much of the east coast and europe.<SuperScript id="ogr" /> one reason is that
@@ -1207,11 +1211,11 @@
 	writing all the way back in 1990. this person (David I. Theodoropoulos)<SuperScript id="david" /> was
 	suggesting that instead of trying to dig a shit ton of newly introduced diasporic species out of the
 	places where they're currently thriving, we should actually be trying to distribute <b>more</b>
-	species around to places where they might do well. rather than trying desperately to make OGR happy
-	solely in its native range, under this formulation, humans would try to find other species from its
-	habitat that might do better in the places OGR is now thriving in hopes of preserving these species'
-	existence in a rapidly changing climate. i'll be extremely frank with you--- i super don't have enough
-	ecological knowledge to have a sense of whether this is a great plan or a
+	species around to places where they might do well. rather than trying desperately to make oregon grape
+	happy solely in its native range, under this formulation, humans would try to find other species from
+	its habitat that might do better in the places oregon grape is now thriving in hopes of preserving
+	these species' existence in a rapidly changing climate. i'll be extremely frank with you--- i super
+	don't have enough ecological knowledge to have a sense of whether this is a great plan or a
 	<i>really fucking terrible one</i>. but what i <i>do</i> know is that i'd literally never heard of
 	this as a potential strategy for responding to the biodiversity crisis, whereas i
 	<i>have</i> heard endlessly about strategies for managing "invasives" that after a few seconds' thought
@@ -1233,7 +1237,7 @@
 	so many of the ways the natural world operates, symmetries that get lost in eradication-oriented approaches
 	to disease and disorder and disability.
 </p>
-<h4>curiousity and humility</h4>
+<h4>curiosity and humility</h4>
 <p>
 	part of the grief i feel doing this work is that even as i try to move away from some of these
 	mythologies' hold on my own understandings, i inescapably continue doing work furthering their
@@ -1491,7 +1495,7 @@
 	<Footnote id="deflate">
 		the textbook example of this of course is carbon footprints and the concept of carbon neutrality
 		through planting monocrop forests. but i'm also thinking of louisiana, where all the
-		"conservation" work is funded by the oil industry. like they litterally are responsible for the
+		"conservation" work is funded by the oil industry. like they literally are responsible for the
 		majority of the destruction of the entire ecosystem and then throw pennies to joe liberal
 		whoever to make a little park to "help with drainage" and "steward these important plant
 		communities" horrendous and also humiliating that people (i am people) roll over and beg for

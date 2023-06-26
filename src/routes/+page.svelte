@@ -8,6 +8,10 @@
 	export let data;
 </script>
 
+<svelte:head>
+	<title>theoryslut</title>
+</svelte:head>
+
 <div class="body-wrapper {$theme}">
 	<div class="main-body">
 		<ThemeToggle checked={$theme === 'light-theme'} {toggleTheme} />

@@ -3,6 +3,9 @@
 	import ChainLink from '../lib/ChainLink.svelte';
 </script>
 
+<svelte:head>
+	<title>work in progress</title>
+</svelte:head>
 <h1>work in progress</h1>
 <h2>27 April 2023</h2>
 <h3>what im workin on</h3>

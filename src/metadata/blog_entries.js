@@ -10,7 +10,7 @@ export const metadata = {
 			slug: 'grief',
 			title: 'grief on land',
 			description: 'grief on land',
-			published: 'May 08, 2023 00:00:00'
+			published: 'June 26, 2023 00:00:00'
 		}
 		// {
 		// 	slug: 'vanguard',
