@@ -1214,8 +1214,8 @@
 	ecological knowledge to have a sense of whether this is a great plan or a
 	<i>really fucking terrible one</i>. but what i <i>do</i> know is that i'd literally never heard of
 	this as a potential strategy for responding to the biodiversity crisis, whereas i
-	<i>have</i> heard endlessly about strategies for managing "invasives" that with a few seconds could
-	not possibly scale and probably wouldn't help much even if they could.
+	<i>have</i> heard endlessly about strategies for managing "invasives" that after a few seconds' thought
+	could not possibly scale and probably wouldn't help much even if they could.
 </p>
 <p>
 	lyme disease is on the rise in n. america, a problem which has its roots in the explosion of the

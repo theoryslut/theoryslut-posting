@@ -16,11 +16,6 @@
 		text-decoration: none;
 	}
 
-	.footnote b {
-		color: var(--red);
-		margin-right: 5px;
-	}
-
 	.anchor {
 		position: absolute;
 		transform: translateY(-30vh);
