@@ -20,15 +20,19 @@
 
 <h1>grief on land</h1>
 <h3>16 June 2023</h3>
-<h6>note on originality</h6>
+<h6>note on originality & expertise</h6>
 <p>
 	there's an existent critique of many aspects of the white plant world that i am building on and
 	engaging with here. exactly none of this is my original contribution, not least of which because
 	if there's any knowledge that does not belong or originate with the indiviual, it's relationship
 	to the (natural) world at large. but most of the critiques i read while writing this piece missed
-	the mark for me in some way. this piece is an attempt to fill in those gaps. i'll do my best to
-	provide a list of folks i'm thinking with and alongside, folks whose work i'm indebted to, at the
-	end.
+	the mark for me in some way or another. this piece is an attempt to fill in those gaps. i'll do my
+	best to provide a list of folks i'm thinking with and alongside, folks whose work i'm indebted to,
+	at the end. also, i intentionally left some homework for myself to do <i>after</i> this piece was finished.
+	i wanted to sort through the emotional-political logics i was seeing for myself before hearing how
+	others, particularly the professional scientific world, was making sense of it all. the resources i
+	have yet to engage with will also be at the bottom. perhaps future me will come back and tend to this
+	piece with their insights.
 </p>
 <h2>part I: loss</h2>
 
@@ -38,6 +42,13 @@
 	should be adding "mugwort murderer" and "precision mulch sweeper" to my resume, to give you a
 	sense of the full miscellany of what i end up doing for pay.
 </p>
+<p>
+	going back to this work has felt full of grief in ways both familiar and unexpected. as i return
+	to spend time with plants and with people working with plants, the confusion and sadness has been
+	rising up again, making itself known. this piece is an attempt to sort through for myself where
+	that grief is felt and what i want to be doing with it.
+</p>
+<h3>healing</h3>
 <p>
 	this form of work has been a mainstay and a fallback for me for about as long as i've had my
 	current form, as long as i've been transitioning, as long as i've been moving away from my natal
@@ -52,7 +63,6 @@
 	didn't want to pay much. i needed a job i could pay rent on, and a flexible schedule that i could
 	bail on if i had a bad disability day. so, it worked out. <SuperScript id="privilege" />
 </p>
-<h3>healing</h3>
 <p>
 	when i started this work, i would pull weeds for about 8 hours a day, listening to podcasts and
 	music and trying to find the resources i needed to change who i was in the world. i was going
@@ -99,9 +109,9 @@
 	(for nativity, for naturalness, for health, for a tasteful and safe amount of wildness) into a
 	holy war against the state of things-as-they-are. i get instructed to "clean" a bed of mugwort,
 	because it is such an "evil, invasive" plant that "wants to take over the world." i'm asked to
-	remove "invasive" plants that "threaten the native landscape," "prolific" plants that "reproduce
-	aggressively," and even regulate "abundance" in certain species "threatening endangered
-	populations" of native plants. "Is that a <b>bad</b> plant?" people love to ask.
+	remove "invasive" plants that "threaten the native landscape," remove "prolific" plants that
+	"reproduce aggressively," and even asked to regulate "abundance" in certain species "threatening
+	endangered populations" of native plants. "Is that a <b>bad</b> plant?" people love to ask.
 </p>
 <p>
 	As you hopefully have picked out, the language people use for common plants is famously xenophobic
@@ -134,33 +144,40 @@
 
 <h3>a brief note on approach and influence</h3>
 <p>
-	a lot of the critiques of the white eco plant world (permaculture, biodynamic farming, white
-	settler herbalists, etc) frame it as stealing indigenous knowledge<SuperScript id="definitions" />
-	directly or indirectly and then turning around and profiting off it directly (by selling knowledge)
-	or indirectly (by selling the products of that knowledge applied). this is a critique that i think
-	is probably accurate in many ways, but it is not the critique i'm making here.
+	i'm indebted to jenny liou for the term "diasporic species" as an alternative to "non-native." her
+	piece <RainbowLink
+		href="https://www.hcn.org/issues/52.8/north-race-and-racism-am-i-an-invasive-species?"
+		>"am i an invasive species?"</RainbowLink
+	> is well worth the read and if you've gotten this far, you'd probably really appreciate its insights.
+	go give it a read.
 </p>
 <p>
-	i'm not making it here because it doesn't feel like the critique i can personally make well, as a
-	white settler with no close ties to indigenous land stewards. while i fully believe that most of
-	what passes for land stewardship and plant medicine knowledge on this continent continues to be
-	learned from and/or taken forcibly from indigenous and African heritage people, i'm not situated
-	well for litigating which knowledge was stolen from whom and how. that's like, numerous whole ass
-	research projects, and generally people getting "who does this thing belong to" info wrong on the
-	internet<SuperScript id="research" /> has had pretty terrible repercussions for indigenous communities
-	and particularly indigenous land stewardship.<SuperScript id="nativeland" /> and besides -- i'm skeptical
-	of the projects themselves, regardless of the source of parts of their knowledge, and i think it's
-	probably a safe bet that the parts of the white plant world i am skeptical about +/ hostile to did
-	not originate with indigenous knowledge systems, because to me they seem to be coming directly from
-	the racist-imperial-scientific methodology complex i
+	a lot of the critiques of the white eco plant world (permaculture, biodynamic farming, white
+	settler herbalists, etc) focus on its habit of stealing indigenous knowledge<SuperScript
+		id="definitions"
+	/>
+	directly or indirectly and then turning around and profiting off it directly (by selling knowledge)
+	or indirectly (by selling the products of that knowledge applied).
+</p>
+<p>
+	i'm not focusing on extending this critique here because it doesn't feel like a critique i can
+	personally make well, as a white settler with no close ties to indigenous land stewards. generally
+	people getting "who does this thing belong to" info wrong on the internet<SuperScript
+		id="research"
+	/> has had pretty terrible repercussions for indigenous communities and particularly indigenous land
+	stewardship.<SuperScript id="nativeland" /> and besides -- i'm skeptical of the projects themselves,
+	regardless of the source of parts of their knowledge, and i think it's probably a safe bet that the
+	parts of the white plant world i am skeptical about +/ hostile to did not originate with indigenous
+	knowledge systems, because to me they seem to be coming directly from the racist-imperial-scientific
+	methodology complex i
 	<i>am</i> quite well versed in.
 </p>
 <p>
 	i'm also focusing mostly on plants, which is an artificial and stupid approach to this subject on
-	a "let's write an essay about land" level, but is a side effect of "it's much easier to get paid
-	to tend plants in private homes than it is to get paid to do literally any stewarding of
-	animals/fungi/etc."
+	a "let's write an essay about the ecosystem" level, but is a side effect of where my knowledge is
+	and isn't.
 </p>
+<p>speaking of,</p>
 <h3>ignorance</h3>
 <p>
 	you'll notice in the previous section that i said people use eugenicist language for <i>common</i>
@@ -191,12 +208,12 @@
 <p>
 	there's another message here too that i want to draw attention to. the plants that are desirable
 	are plants that are <i>easy to control.</i> the plants most likely to get dubbed "native" (therefore
-	morally upright) by my clients are plants like milkweed, sedum, tiarella -- things that have pretty
-	foliage, pretty blooms, and stay right where you put them without spreading quickly. the plants that
-	fall over (if they're not cut back by humans or grazed by critters), the plants that spread well by
-	seed, the plants that send out runners to different parts of beds -- they pose a threat to human control
-	and curation (not to mention building foundations and concrete paths etc) and are less beloved or even
-	tolerated.
+	morally upright) by my clients are plants like butterfly milkweed, sedum, tiarella -- things that have
+	pretty foliage, pretty blooms, and stay right where you put them without spreading quickly. the plants
+	that fall over (if they're not cut back by humans or grazed by critters), the plants that spread well
+	by seed, the plants that send out runners to different parts of beds -- they pose a threat to human
+	control and curation (not to mention building foundations and concrete paths etc) and are less beloved
+	or even tolerated.
 </p>
 <h3>knowledge</h3>
 <p>
@@ -215,9 +232,15 @@
 	plant-by-plant. "Do you keep this, or pull it out?" "What's your take on virginia creeper?"
 </p>
 <p>
-	i'll use a couple cases of my own plant storybindings as an example of what this plant-by-plant,
-	person-by-person mythology looks like.
+	these stories have, i think, an outsized effect on how people manage land in the white plant
+	world. so many people, myself included, have mostly learned their trade by oral knowledge-sharing
+	on-the-job. plant mythologies (like all mythologies) transmit worldviews as much as they transmit
+	as the "content" of the information imparted. it's these worldviews, communicated through
+	individual stories about plants and humans, that i'm interested in digging into. i'll use a couple
+	cases of my own plant storybindings as an example of what this plant-by-plant, person-by-person
+	mythology looks like.
 </p>
+
 <h3>mythologies</h3>
 <h5>violets</h5>
 <p>
@@ -238,7 +261,7 @@
 </p>
 <p>
 	while i fucking love violets (so sweet! so sexy! we love a resilient demulcent bb!), the violets
-	that grow here certainly aren't exclusively native to this part of the world, though I've mostly
+	that grow here certainly don't exclusively originate in this part of the world, though I've mostly
 	heard them spoken of as such.
 </p>
 <h5>strawbs</h5>
@@ -303,10 +326,10 @@
 	and all of which look fairly similar on first sight. <SuperScript id="cinquefoil" />
 </p>
 <p>
-	on one of the teams I'm working on right now, volunteer plants we see that look like a strawberry
-	are considered beneficial to pollinators/insects and left in beds when we find them and can get
-	away with it. on another team i'm working on, we plant wild strawberries with white flowers, but
-	pull all the mock strawberries with yellow flowers as they're considered invasive.
+	on one of the teams I'm working on right now, volunteer plants<SuperScript id="volunteer" /> we see
+	that look like a strawberry are considered beneficial to pollinators/insects and left in beds when
+	we find them and can get away with it. on another team i'm working on, we plant wild strawberries with
+	white flowers, but pull all the mock strawberries with yellow flowers as they're considered invasive.
 </p>
 <p>
 	these plants are hard to tell apart in many states of growth. even the most obvious difference,
@@ -333,7 +356,13 @@
 	hell and where nothing else can grow," which is consistent with my experience of where I've seen
 	it cropping up. But "does well on fucked land" is a distinct and different ecosystem function from
 	"does really well in mostly undisturbed, less-industrially-fucked, established ecosystems and
-	crowds the species there out."
+	crowds the species there out." Plants that do well on fucked land are often soil remediators,
+	healing the soil so that a wider variety plants are able to grow in it. They're also often
+	early-succession plants, meaning their dominance within the first few years of
+	presence/remediation often gives way to integration with a larger variety of plants once soil/air
+	quality conditions have changed. It's a lot harder/rarer for a newly introduced plant to dominate
+	a mature ecosystem; possible, but rare in comparison to introduced plants cropping up in areas
+	that have seen the introduction of other "things" (heavy metals, exhaust fumes, etc) as well.
 </p>
 <p>
 	i also see many places saying various diasporic potentilla species are a threat to livestock; if a
@@ -391,7 +420,7 @@
 	are "model" migrants and which ones are "harmful" migrants.
 	<SuperScript id="migrants" /> The native plant movement generally desires the ecosystem that existed
 	in whatever place before the changes associated with global, industrial capitalism-colonialism took
-	place. Their rationality as to<i>why</i> these plants are desirable is generally that they comprise
+	place. Their rationality as to <i>why</i> these plants are desirable is generally that they comprise
 	a whole ecosystem. Because these beings evolved together for thousands of years, they help stabilize
 	the conditions for life on earth and mitigate some of the worst effects of industrial extraction.
 </p>
@@ -430,35 +459,46 @@
 </figure>
 <p>
 	I'd like to quote an essay I read while writing this piece at length, because it fucks and says it
-	better than I can. In "The Discord of Invasion Ecology," author Calyx is talking about the
-	American Chestnut's tenure on this contintent:
+	better than I can. In "The Discord of Invasion Ecology," author Calyx is talking about the effect
+	of diasporic honeysuckle species on this contintent:
 </p>
 <blockquote>
 	<p>
-		If we look at the pollen record for the post-glacial period starting from about 20,000 years
-		ago, the trees that began to move into the northeast [US] and cover the landscape included Ash,
-		Oak, Birch, and Ironwood arrived first. Maples moved in shortly thereafter, followed by Beech,
-		and then Hickory at around 8,000-6,000 years ago. As the climate and habitat continued to
-		change, the last major tree appeared, around 2,000 years ago: the American chestnut. The tree
-		thrived and soon made up a substantial portion of the canopy. While some debate exists about how
-		much of the population it made up (ranging from 3% to 25% on average, with some landscapes
-		reaching upwards of 45% dominance (areas, I hypothesize, where indigenous populations stewarded
-		their stands)), there is no debate about the profundity of the tree.
+		The sale of non-native Lonicera species were banned in 25 states after they were deemed invasive
+		by the USDA. In 2011, the University of Pennsylvania conducted a study illustrating that
+		non-native honeysuckles were a key factor in supporting communities of native bird populations
+		and biodiversity, which ironically, as it turns out, was the original purpose for why the
+		honeysuckle species were introduced into the area in the beginning. There are numerous studies
+		that indicate that non-native species provide habitat and food for wild birds. In some cases,
+		the removal of non-native species has caused bird populations to plummet because of the loss of
+		nesting sites. Climate change is altering the timing of migratory birds, causing them to
+		interact with more northern regions later into the season. Many non-native species fruit later
+		in the season than native species, providing food in areas that would otherwise be
+		slim-pickings. Most studies indicate that birds do not discriminate between native or non-native
+		forage options. Many species deemed invasive are highly problematic due to their dispersal by
+		birds, so to suggest they are not a wildlife food source is contradictory. Multiflora rose,
+		non-native Honeysuckles, Autumn olive, Chinese privet, Oriental bittersweet, Porcelainberry,
+		English Ivy, and Callery pear are known for being favored by the birds and thus dispersed
+		widely.
 	</p>
-	<p>...</p>
 	<p>
-		It is difficult to follow this summarization of the history of the American chestnut while
-		ascribing to the strict definitions set out by invasion and conservation biologists without
-		scratching your head. Under the modern definitions, imagine if a tree species moved from the
-		south into our north eastern forests and spread so vigorously as to make up nearly 25% of tree
-		populations of many forested regions. Would we not call it an “invasive species?” Well, it takes
-		a long time for a species to move into an area and coevolve with the other species there in a
-		way that is mutually beneficial (this may be true, but evidence is now demonstrating it may not
-		always take as much time as we thought). So, how then is this different from any other
-		aggressive non-native species we encounter today? If we give it enough time, who's to say [that
-		species today] won’t naturalize, just at a different rate than say, dandelions? <SuperScript
-			id="discordinvasion"
-		/>
+		There is also the concern also that non-native fruits frequented by birds are much higher in
+		carbohydrates and contain far less fat compared to native fruits. It is potentially of concern
+		to see such a rapid shift in macronutrient selection, and it is unclear how this will effect the
+		vitality of birds in the near future. There is evidence, however, that migratory birds increase
+		their fat reserves more quickly by feeding on carbs than they do by feeding in fats. It is
+		possible that these birds will quickly adapt to their new diets. And make no mistake- this is
+		their new diet, because even if we increase the abundance of native species, if they aren't
+		fruiting late enough into the season, the birds will be looking for food elsewhere. Increasing
+		temperatures may extend the fruiting period of some native species, but no amount of climate
+		change will change the photoperiod that affects phenology. It is possible that in an effort to
+		protect wild birds by eradicating non-natives, we are eliminating the food sources they need to
+		adapt to their new migratory patterns. It is also important that we stop repeating the fallacy
+		that invasive species are the reason why native species are in decline. Keeping in mind that it
+		is habitat loss, not invasive species, that is the greatest threat to biodiversity, but more
+		importantly is that in most cases it is habitat loss that is enabling invasive species to take
+		hold and thrive. Many of the same factors contributing to habitat loss are also contributing to
+		climate change.<SuperScript id="discordinvasion" />
 	</p>
 </blockquote>
 <p>
@@ -470,10 +510,10 @@
 	biodiversity doesn't necessarily make sense historically, let alone on an ecological scale.
 </p>
 <p>
-	Okay, so we're not sure which species are from here. Nor are we sure that those ("native") species
-	will do well under the current conditions that the diasporic plants are thriving in. Nor do we
-	really understand the long-scale implications of them being here. But! I want my gddm tree of
-	heaven gone! and the lantern flies with it!
+	Okay, so we're not sure which species are "from here." Nor are we sure that those ("native")
+	species will do well under the current conditions that the diasporic plants are thriving in. Nor
+	do we really understand the long-scale implications of them being here. But! I want my gddm tree
+	of heaven gone! and the lantern flies with it!
 </p>
 <div class="center-flex">
 	<img
@@ -600,9 +640,9 @@
 	exhaust the seedbank and rhizomes of the property you're on (which will certainly take a fucking
 	while.) <i>Heaven</i> forbid there's a fenceline; there's a little set of plants I like to call "the
 	fence ecosystem" that will be an eternal timesink. It's worth noting that most seeded meadows and other
-	wilder plantings kinda look like shit for the first little while they're coming in; if the landowner
-	doesn't fire you about this, the neighbors might not be too happy. Especially if your seeds start making
-	their way over to their pristinely mulched beds. But even if you've got land galore and chill neighbors,
+	wilder plantings kinda look like shit for the first few years they're coming in; if the landowner doesn't
+	fire you about this, the neighbors might not be too happy. Especially if your seeds start making their
+	way over to their pristinely mulched beds. But even if you've got land galore and chill neighbors,
 	you'll definitely meet the deer that are so very grateful for their new snacks, and the birds distributing
 	diasporic plant seeds right back into your beautiful new beds, and the paper mulberry and ailanthus
 	trees your neighbor chopped down last week and swore they fckin killed for sure this time (and did
@@ -623,9 +663,9 @@
 	ways. Either they were planted for ornamental/medicinal/desirable properties by humans; they were brought
 	here accidentally by humans as seeds/root fragments via international trade (ship/train/boat/plane);
 	other species like birds brought them here as a result of changes in population/migration; or the government
-	introduced them in an attempt to control issues (eg erosion) or other diasporic species. none of the
-	aforementioned methods of migration have stopped or slowed; new species will continue cropping up and
-	presenting unique challenges to cultivated and wild spaces.
+	introduced them in an attempt to control various issues (eg erosion) or other diasporic species. none
+	of the aforementioned methods of migration have stopped or slowed; new species will continue cropping
+	up and presenting unique challenges to cultivated and wild spaces.
 </p>
 <h4>so</h4>
 <p>
@@ -633,20 +673,19 @@
 	you've figured out how native landscaping operates; it's a lot of billable work to try and
 	establish these sorts of plantings. Perhaps contrary to the impression I'm giving here, it's not
 	that creating these plant communities is <i>impossible</i>. It's very doable; it just requires the
-	input of a significant amount of raw inputs (plugs, seeds, soil additives) and a heavy amount of
-	labor to keep intact. it's a strat that reaches its limit in the suburban meadow in terms of
-	practicality.
+	introduction of lots of raw inputs (plugs, seeds, soil additives) and a heavy amount of labor to
+	keep intact. it's a strat that reaches its limit in the suburban meadow in terms of practicality.
 </p>
 <p>
 	and that's the thing, right? it's not scalable. if the suburban meadow is about as grand of a
 	scheme as can be reasonably executed with these tools, it's not really a viable strategy in terms
 	of ecological change. putting enough of the land in the US into cultivation to have an actual
 	impact on the proliferation of diasporic species would probably require the labor and efforts of a
-	significant portion of the population. it goes w/out saying capitalism can't sustain that in the
-	US because it does not produce value (money). without an actual impact, it's essentially a visual
-	deflection, a comforting sleight of hand. look here, not there. look at this beautiful "native"
-	pollinator garden, not at the people tending it who can barely afford to eat. look at this little
-	wetland rain garden that's helping with drainage and habitat, not at the ghost swamps<SuperScript
+	significant portion of the population.<SuperScript id="portion" /> it goes w/out saying capitalism
+	can't sustain that in the US because it does not produce value (money). without an actual impact, it's
+	essentially a visual deflection, a comforting sleight of hand. look here, not there. look at this beautiful
+	"native" pollinator garden, not at the people tending it who can barely afford to eat. look at this
+	little wetland rain garden that's helping with drainage and habitat, not at the ghost swamps<SuperScript
 		id="ghosts"
 	/>
 	surrounding the factory where the glyphosate gets produced.
@@ -660,19 +699,20 @@
 	interests of big ag and industry, managed through the state and university research depts, as the
 	impacts of many diasporic plants to industrial ag can be ruinous. "we" want them gone as a result
 	of the interests of herbicide and pesticide industries, which have poured much of the funding into
-	native plant conferences and invasion biology research since its beginnings in the 90s. look here,
+	native plant conferences and invasion biology research since its takeoff in the 90s. look here,
 	not there. eradicate this plant, not the conditions of its being there in the first place.
 </p>
-<h4>case study time: the spotted lantern fly</h4>
 <p>
 	the above explanation isn't where i'm landing, to be clear. but i think it's part of the answer,
 	so i'm going to slow down a bit to make the stakes a little more explicit.
 </p>
+<h4>case study time: the spotted lantern fly</h4>
+
 <p>
 	the spotted lantern fly is a planthopper indigenous to parts of eastern asia (china, vietnam).
-	they started showing up in the area i currently live in summer of 2020, and though i was not here
-	at the time, i heard it was the talk of the town that year. there are wild pictures of them
-	blanketing trees, porches covered in them, etc etc from around this time.
+	they started showing up in the area i currently live in during the summer of 2020, and though i
+	was not here at the time, i heard it was the talk of the town that year. there are wild pictures
+	of them blanketing trees, porches covered in them, etc etc from around this time.
 </p>
 <p>
 	they feed pretty indiscriminantly on woody host plants, sucking out juices (which can be harmful
@@ -706,15 +746,16 @@
 	<p>Report SLF sightings: <b>1-888-4BAD-FLY</b><SuperScript id="padept" /></p>
 </blockquote>
 <p>
-	cool haha. so that's pretty explicit. not much mention at all even of native plant communities,
-	except insofar as they form a part of pa's vital extraction industries and agriculture.
+	cool haha. 1-800-4BAD-FLY, super chill. soooo it's pretty explicit here why the state wants em
+	dead. no mention at all of ecosystem impact, and mention of native plant communities only insofar
+	as they form a part of pa's vital extraction industries and agriculture.
 </p>
 <p>
 	it's also like, super not true that they have "a strong preference for plants important to PA's
-	economy" lol. they really like ailanthus or tree of heaven as a host plant, which is also a
-	diasporic species often regarded as a pest, and they feed pretty widely on other species as well.
-	it would be shocking if any animal had a preference for like, solely plants of economic worth?
-	anyway. so that's the pa state department takes
+	economy" lol. they prefer ailanthus or tree of heaven as a host plant, which is also a diasporic
+	species often regarded as a pest, and they feed pretty widely on other species as well. it would
+	be shocking if any animal had a preference for like, solely plants of economic worth? anyway. so
+	that's the pa state department takes
 </p>
 <p>here's penn state (farm) extension's take:</p>
 <blockquote>
@@ -733,7 +774,9 @@
 <p>
 	guess we know exactly where the state dept got its information and phrasing. again, no mention of
 	ecological impact and a heavy focus on the impacts to industry and leisure (not the patio
-	furniture!). also, this study? on planthoppers? was done by the <i>economists?</i>
+	furniture!). also, this study everyone's citing? on planthoppers' impacts? was done by the <i
+		>economists?</i
+	>
 </p>
 <div class="center-flex">
 	<img
@@ -757,14 +800,18 @@
 </div>
 <p>yeah.</p>
 <p>
-	this isn't to like demonize people stomping on SLFs lol. ive stomped em too. just....yeah. i think
-	(white) people see things that someone at a university put out saying "this is how you save the
-	planet" and are like "cool I'm going to take that at face value and produce incredibly kitschy
-	commercial art about it that i sell for a profit, about how much we should be trying to mass kill
-	this species of bug specifically because it ain't from around here and it's threatening my patio
-	furniture and my local wine, in ways kinda resembling the way people make kitcschy commerical art
-	about <b>people</b> who aren't from around here that they feel are threatening their local-wine-and-patio-furniture
-	way of life." and that's perhaps not great
+	this isn't to like demonize people stomping on SLFs lol. ive stomped em too. i also don't want the
+	pa economy to collapse due to a very pretty bug that likes to suck juices, though i do sympathize
+	with its proclivities.
+</p>
+<p>
+	just....yeah. i think (white) people see things that someone at a university put out saying "this
+	is how you save the planet" and are like "cool I'm going to take that at face value and produce
+	incredibly kitschy commercial art about it that i sell for a profit, about how much we should be
+	trying to mass kill this species of bug specifically because it ain't from around here and it's
+	threatening my patio furniture and my local wine, in ways kinda resembling the way people make
+	kitcschy commerical art about <b>people</b> who aren't from around here that they feel are threatening
+	their local-wine-and-patio-furniture way of life." and that's perhaps not great
 </p>
 <p>
 	ANYWAY. inflamatory anti-wine-mom sentiments aside. . . it's three years later, and while i still
@@ -792,7 +839,7 @@
 	being seen in new places every year. the change is ongoing.
 </p>
 <p>
-	there's massive evidence that they pose threat to commercial industry. but how could you <i
+	there's certainly evidence that they pose threat to commercial industry. but how could you <i
 		>possibly</i
 	> figure out ecosystem impact in as short a time as 5yrs?
 </p>
@@ -813,13 +860,13 @@
 	correct; i doubt native restoration would be as big of a thing particularly in the academic world<SuperScript
 		id="uwu"
 	/>
-	without glyphosate and without monsanto pumping massive amounts of money into both research and propaganda
+	without the existence glyphosate and without monsanto pumping massive amounts of money into research/propaganda
 	regarding native species restoration. but white plant people are like, famously libertarians? they
 	like, really love a conspiracy theory? particularly if big ag and big industry and the government are
 	conspiring against ~nature~?
 </p>
 <p>
-	the demographics are wrong for the above explanation to be the entire picture, the psychology is
+	the demographics are wrong for the above explanation to be the entire picture. the psychology is
 	off for the target demographic buying what big ag is selling hook line and sinker. so here's my
 	preliminary thoughts on why the above can be true and <i>still</i> white environmental types often
 	buy into the importance of mass killing diasporic species.
@@ -859,15 +906,14 @@
 </p>
 <p>
 	as work it is usually very low paid and hazardous. even my work at a "high end" gardening business
-	is paid significantly below cost-of-living and seasonally, forcing most of its employees to go
-	into living expenses debt for two months in order to stay employed for the rest of the year. and
-	we're the labor aristocracy of the plant world! my guess would be that the vast majority of people
-	who work outdoors / with plants in the US are undocumented and/or paid criminally low wages.<SuperScript
-		id="criminally"
-	/> ag and seasonal workers in the US are excluded from most labor protections including overtime and
-	minimum wage law due to those industries being predominantly Black at the passage of the original Farm
-	Bill and National Labor Relations Act of 1935, which ensures that the average working conditions are
-	incredibly exploitative and the opportunities for organizing slim.
+	is seasonal and paid significantly below cost-of-living. and we're the labor aristocracy of the
+	plant world! my guess would be that the vast majority of people who work outdoors / with plants in
+	the US are undocumented and/or paid criminally low wages.<SuperScript id="criminally" /> ag and seasonal
+	workers in the US are excluded from most labor protections including overtime and minimum wage law
+	due to those industries being predominantly Black at the passage of the original Farm Bill and National
+	Labor Relations Act of 1935. for the better part of a century this has helped ensure that the average
+	working conditions are incredibly exploitative and the opportunities for effective legal organizing
+	slim.
 </p>
 <p>
 	in terms of jobs on the more ecological side versus commercial crop production, there are people
@@ -927,7 +973,7 @@
 	our disposal to determine long-scale, large-scale ecological impact of diasporic species. we have
 	endless data about what's causing the life-on-earth crisis (capitalism) and what its effects are
 	(massive ecological collapse of intact human, plant, critter communities) and what the risks are
-	(annhilation of life on earth). But I don't know how the scientific method -- whose main tools are
+	(annhilation of life on earth). But I don't see how the scientific method -- whose main tools are
 	fucking around, finding out, and seeing if the same results occur from fucking around and finding
 	out a few more times -- could <i>possibly</i>
 	determine the longrange effects of plants and species who have only been on this continent since the
@@ -942,59 +988,102 @@
 <p>
 	& there is simply no knowing what all this looks like in the long term, on an ecological scale.
 	and that makes categorizing the behavior of other beings as "bad" or "good", "desirable" or
-	"undesirable", "healing" or "ruining," simply impossible.
+	"undesirable", "healing" or "harmful," simply impossible.
 </p>
-<h4>control</h4>
-<h2>WORK ON ME</h2>
-<p>
-	the white "knowledge" response to widespread and un"solveable" ignorance is not to stay humble. it
-	is to try and maintain control.
-</p>
-<p>it's painful to witness change.</p>
-
 <h4>suffering, or the protestant ethic she strike again</h4>
 <p>
-	the last note i want to hit here is a delicate one. there's a relationship to suffering and hard
-	work that i think plays a part here, though it's not quite as straightforward as the other
-	sentiments.
+	there's a relationship to suffering and hard work that i think plays a part here, though it's not
+	quite as straightforward as some of the other sentiments.
 </p>
 <p>
 	first, there's a commitment to suffering, doing things that seem hard, and defeatism in the us
 	left in general. the left response to "trying to change xyz didn't work" is, IME, often "fucking
-	try harder then," not "maybe it wasn't the right moment for change xyz to occur, and we should
-	wait and watch." the list of things-that-are-wrong is unimaginably long and urgent, and culturally
-	there's a demand to <i>look like you're doing something.</i><SuperScript id="pet" />
+	try harder then." the list of things-that-are-wrong is unimaginably long and urgent, and
+	culturally there's a demand to <i>look like you're doing something.</i><SuperScript id="pet" /> there's
+	a sense that "being a good person" is equivalent to "doing hard work and lots of it" that somehow goes
+	largely uncriticized despite being in the encyclopedia under the header "the protestant ethic and the
+	spirit of capitalism" and "bourgeois individualist systems of morality."
 </p>
 <p>
 	secondly, i think people who go into plant work <i>like doing work</i> for the most part. compared
-	to many desk jobs in the us, working with plants generally requires a ton of hard work. there are
-	people who really like doing a little task and seeing the impact of that little task, and there
-	are also people who can stare into space or browse amazon for 8 hours happily. i am part of the
-	former group quite distinctly, and i think this is true of many/most people who work with plants
-	for a living by choice.<SuperScript id="coercion" />
+	to many desk jobs in the us, working with plants generally requires a ton of hard work. when i
+	worked at a library, i mostly worked around people with a very high tolerance for "do essentially
+	nothing for hours at a time;" in plant world, i mostly work around people with a low tolerance for
+	doing nothing, and i think "having something concrete and attention-consuming to do" is a pretty
+	widespread preference in this field.<SuperScript id="coercion" />
 </p>
 <p>
 	thirdly, you can make a living for yourself doing any sort of work as long as you convince someone
-	to pay you. you can't make a living <i>not</i> doing any work whatsoever for the most part, at least
-	not under a completely dismantled welfare state. nobody pays for no work to occur. there's a real sense
-	that there's a climate crisis on the left, and a desire for people to be doing full-time work that
-	addresses this, and extractive industries ready to improve their PR by funding that work that supposedly
-	addresses the crisis but really does no such thing.
+	to pay you. you can't make a living <i>not</i> doing any work whatsoever for the most part, at
+	least not under a completely dismantled welfare state. nobody pays for no work to occur. there's a
+	real sense that there's a climate crisis on the left, and a desire for people to be doing
+	full-time work that addresses this, and extractive industries and rich individuals ready to
+	improve their PR by funding that work that supposedly addresses the crisis but really does no such
+	thing. work without clear metrics for being "done" (such as endlessly removing diasporic species
+	from the same bed season after season), work whose existence which purportedly helps
+	<i>something</i>, work which doesn't threaten any existing land management paradigms, work which
+	creates demand for specific commodities such as glyphosate, gets proliferated.
 </p>
 <p>
 	all of this combines i think to make people predisposed to think that "being good to the earth"
 	involves a shit ton of very difficult manual labor with very little payoff. the desire is to
 	immediately intervene in ways that are absolutely destined to fail; you get the twofold
-	psychosocial benefit of having done something about it, while not having succeeded, because
-	success of course is a symptom of having sold out to capital. the idea that we might want to wait
-	and see how ecosystems respond to massive climate change --- might want to look at natural systems
-	and figure out how to gently shape them rather than doing bloody fucking battle with their
-	fundamental workings --- is not attractive under this worldview. there's a layer of the protestant
-	ethic here that's wildly out of context and yet perfectly in context. there's some irony here that
-	a movement that is supposedly looking to dismantle capitalism for the sake of life on earth has
-	doubled down on the very spirit of industriousness that was famously produced with capitalism
-	itself.
+	psychosocial benefit of having done something about it, while at the same time not having
+	succeeded. (success, of course, is always a symptom of having sold out to capital.) the idea that
+	we might want to wait and see how ecosystems respond to massive climate change --- might want to
+	look at natural systems and figure out how to shape them and assist their natural mechanisms
+	rather than doing bloody fucking battle with their fundamental workings --- is not attractive
+	under this worldview. humans are assumed to be outside nature and fundamentally opposed to its
+	workings (eg the concept that "humans ARE the virus" to a supposedly pre-existent, natural state
+	of health), forced to battle endlessly and industriously against its idiotic, naiive bumblings.
+	there's a nice thick substrate of protestant ethic and white saviorism here that's perfectly and
+	ironically consistent with the white supremacist, (settler) colonial scientific management system
+	which birthed the white/native plant movement in the first place.
 </p>
+<h4>control</h4>
+<p>
+	i saved this one for last because i think it goes without saying, yeah? if there's one word to
+	summarize the colonio-capitalist worldview regarding the natural world, it's "control." the
+	hegemonic systemic and psychic response to widespread and un"solveable" ignorance and fear of
+	change in the capitalist system is, currently and historically, to try and maintain control at all
+	costs.
+</p>
+<p>
+	there is <i>so much change</i> coming for this world, and the climate crisis we are living through
+	will pose an existential threat to the premises and stability of the value-based global economy. when
+	threatened with drastic change to the system your life gains coherency within, it's a pretty typical
+	response IMO to try and control whatever the fuck you think you can. even or especially if those "things"
+	have a life and autonomy outside you, were never within your control to begin with.
+</p>
+<p>
+	it manifests differently in different people, in different lifeways. but i think the need to feel
+	in control of what changes are happening is pretty central to a lot of the ways predominantly
+	white US movements and orgs interact with the world and seek to shape it.
+</p>
+<p>
+	at its center, this assumption is heartbreakingly naiive and anthropocentric, even as it loudly
+	proclaims selflessness and impartiality. the need to be <b>in control</b> has at its root an
+	assumption that only (white) humans can possess knowledge, and as an extension of this that all
+	real knowledge can be easily understood by (white) humans. believing that humans have to be in
+	control, rather than in community, creates all sorts of ideological contradictions. the concept
+	that other species might
+	<i>also</i> be intelligently responding to climate change, might have any agency of their own in responding
+	to this systemwide crisis, is foreclosed by this assumption. you end up with language that assumes
+	that when humans move species from place to place in order to eat more easily, we're active exploiters
+	of an externalized "nature;" whereas when birds move species from place to place in order to eat more
+	easily, they're part of a passive, ignorant, static "nature" which doen't know what's best for itself.
+	that nature might have a set of intelligences of its own is precluded and scoffed at.
+</p>
+<p>
+	imo, the concept that humans are in control of a passive, receptive nature is not a side issue or
+	a philosophical nitpick or something that can be worked around practically. it's a fundamental
+	misunderstanding of the existential problems that face life right now and what solutions we have
+	to face them. the perception of agential knowledge as passive ignorance, whether that be in the
+	knowledge systems of racialized people or the knowledge systems of feminized humans or the
+	knowledge systems of all other life, is impossible to integrate with a true understanding of the
+	world and humans' place in it.
+</p>
+
 <h2>pt III: grief</h2>
 <p>
 	when i started writing this piece, i was feeling angry and prickly. there are so many opinions on
@@ -1042,11 +1131,9 @@
 	/>compared to biologists or landscapers or farmers, plant medicine people generally appreciate
 	"weeds" and other unwanted plants for each's unique and current use to humans, rather than
 	primarily their impacts on crops or livestock or aesthetics-morality or even ecology. because
-	like, without abundant stands of plants, there IS no plant medicine people. there's a vested
-	interest in keeping those mugwort and japanese knotweed stands around for a bit. and because of
-	this, there's a general skepticism of saying xyz plant is "bad" or "invasive" versus figuring out
-	why it's growing somewhere and how it can be of medicine to the life it grows around, and vice
-	versa.
+	like, without abundant stands of plants, there IS no plant medicine people. and because of this,
+	there's a general skepticism of saying xyz plant is "bad" or "invasive" versus figuring out why
+	it's growing somewhere and how it can be of medicine to the life it grows around, and vice versa.
 </p>
 <p>
 	this perspective among plant people, a perspective whose insight has been really central to the
@@ -1061,7 +1148,7 @@
 	particularly don't want to make out my halfassed thoughts on all this to be coming from any storied
 	indigenous tradition rather than me, and my well-storied ass.
 </p>
-<h4>curiousity and humility</h4>
+<h4>close reading</h4>
 <p>
 	there's so much that plants can tell you if you know how to listen. i used to see this talked
 	about by plant medicine people and my sorta-autistic ass thought they meant like, they were
@@ -1082,23 +1169,22 @@
 	half-bloomed state is always a reminder to me to not be so hard on myself, not be so uptight about
 	how i am in the world.
 </p>
-<p>
-	above are some personal stories of plants, a strategy of close reading if you will. plants can
-	also carry hints as to plot, themes, the trajectory of a story.
-</p>
-
+<h4>plot and themes</h4>
 <p>
 	just as the great mix of ethnicities present in the US traces the story of wars and conflict both
 	local to this settler colony and global to its proxy wars and financial imperialism: so too might
 	the presence of massive stands of phragmites and garlic mustard be used to tell us the histories
-	of the land we're on, and signal the qualities and quantities of changes elsewhere. i'm thinking
-	about <i>potentilla indica</i> entering the state of Utah via robin shit, thinking about the SLF
-	beginning to be eaten by predators after only a year or so of presence in this part of the world.
-	thinking about SLF that've been feeding on the bitter ailanthus trees being eaten as well,
-	wondering what that says about the availability of food for birds and bugs. perhaps the birds have
-	developed a taste for bitterness? perhaps they're excited by the new flavors and forms of life
-	around them? perhaps they, too, have been circulating the KILL KILL KILL stickers around their
-	neighborhoods?<SuperScript id="philly" />
+	of the land we're on, and signal the qualities and quantities of changes elsewhere. "we are here
+	because you were there."<SuperScript id="there" /> i'm thinking about <i>potentilla indica</i>
+	entering the state of Utah via robin shit. thinking about what we can learn about the climate by what
+	seeds the birds are shitting, which we can learn in turn by watching what plants are thriving. thinking
+	about the SLF beginning to be eaten by predators after only a year or so of presence in this part of
+	the world. thinking that SLF that've been feeding on the bitter ailanthus trees are being eaten as
+	well, wondering what that says about the availability of food for birds and bugs. perhaps the birds
+	have developed a taste for bitterness? perhaps they're excited by the new flavors and forms of life
+	around them? perhaps they, too, have been circulating the KILL KILL KILL stickers around their neighborhoods?<SuperScript
+		id="philly"
+	/> probably, they're just trying to eat. just like us.
 </p>
 <p>
 	if a heavy thistle population is often an indicator of poorly tended or abandoned farmland, so too
@@ -1106,8 +1192,30 @@
 	been contaminated with heavy metals. the same plants that thrive in contaminated soil are often
 	soil remediators -- through phytostabilization and phytoextraction, they can slowly work to
 	contain or remove contaminants in the soil they are found in. thick thistle monocultures often
-	simply disappear after a few seasons of more attentive farming; i wonder if the same would be true
-	for plants like sunchoke and goldenrod.
+	simply disappear after a few seasons of more attentive farming; i would bet the same would be true
+	for plants like sunchoke and goldenrod and purple loosestrife.
+</p>
+<p>
+	oregon grape root is on the united plant savers' "to-watch" list in its native range, which just
+	so happens to be where i grew up. as herbalists get into listserv wars (lol) about how best to
+	harvest from the plant, to both preserve its life energy and get the most potent medicine for the
+	amount of material harvested, the same plant that is at risk in its historical range is considered
+	"wildly invasive" in much of the east coast and europe.<SuperScript id="ogr" /> one reason is that
+	it spreads really well by rhizome; another is that birds seem to <i>love</i> its "grapes" in its
+	new range, and keep distributing its seeds outside the easy reach of park rangers (also lol). one
+	of the interesting opinions on plants i came across while writing this piece was by someone
+	writing all the way back in 1990. this person (David I. Theodoropoulos)<SuperScript id="david" /> was
+	suggesting that instead of trying to dig a shit ton of newly introduced diasporic species out of the
+	places where they're currently thriving, we should actually be trying to distribute <b>more</b>
+	species around to places where they might do well. rather than trying desperately to make OGR happy
+	solely in its native range, under this formulation, humans would try to find other species from its
+	habitat that might do better in the places OGR is now thriving in hopes of preserving these species'
+	existence in a rapidly changing climate. i'll be extremely frank with you--- i super don't have enough
+	ecological knowledge to have a sense of whether this is a great plan or a
+	<i>really fucking terrible one</i>. but what i <i>do</i> know is that i'd literally never heard of
+	this as a potential strategy for responding to the biodiversity crisis, whereas i
+	<i>have</i> heard endlessly about strategies for managing "invasives" that with a few seconds could
+	not possibly scale and probably wouldn't help much even if they could.
 </p>
 <p>
 	lyme disease is on the rise in n. america, a problem which has its roots in the explosion of the
@@ -1121,30 +1229,113 @@
 	follows the classic plant medicine adage of the cure being found by the disease. often this phrase
 	refers to pairs of plants like poison ivy and jewelweed (whose juices help neutralize urushiol), or
 	stinging nettle and plantain/dock (whose juices help soothe nettle stings). it's almost a dialectic
-	relationship here between disease, medicine, and cure.
+	relationship here between disease, medicine, and cure. there's a symmetry here that is mirrored in
+	so many of the ways the natural world operates, symmetries that get lost in eradication-oriented approaches
+	to disease and disorder and disability.
 </p>
+<h4>curiousity and humility</h4>
+<p>
+	part of the grief i feel doing this work is that even as i try to move away from some of these
+	mythologies' hold on my own understandings, i inescapably continue doing work furthering their
+	hegemony. i spend my days removing death and disease from view, curating and controlling the
+	natural world, holding my tongue as people discuss nativity and desirability. all (capitalist)
+	work is predicated on this split, but land work involves less layers of abstraction to cushion the
+	pain and contradictions. it feels like both a privilege and a burden to be so physically present
+	and witness to this split, inside myself, inside my coworkers, inside the ecosystem itself.
+</p>
+<p>holding this split is where the work is for me right now, i think.</p>
+<p>thanks for reading.</p>
+<h2>~</h2>
+<h3>resources</h3>
+<h4>further resources i <b>have</b> read, in no particular order</h4>
+<ul>
+	<li>
+		<RainbowLink href="https://www.northernappalachiaschool.com/post/discord-of-invasion-ecology"
+			>discord of invasion ecology -- calyx</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink
+			href="https://www.northernappalachiaschool.com/post/differential-morphology-mock-strawberry-wild-strawberry"
+			>differential morphology: mock strawberry and wild strawberry - calyx</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink
+			href="https://www.hcn.org/issues/52.8/north-race-and-racism-am-i-an-invasive-species?"
+			>am i an invasive species? - jenny liou
+		</RainbowLink>
+	</li>
 
-<!-- <h1>content farm</h1>
-<h2>~</h2> -->
+	<li>
+		<RainbowLink href="https://www.dtheo.org/NativesVs.Exotics.htm"
+			>natives vs exotics - david i. theodoropoulos</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://milkweed.org/book/braiding-sweetgrass"
+			>braiding sweetgrass - robin wall kimmerer</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink
+			href="https://www.e-flux.com/architecture/accumulation/440704/ghost-forest-atlas-of-a-drowning-world/"
+			>ghost forest: atlas of a drowning world - anne mcclintock
+		</RainbowLink>
+	</li>
+</ul>
+<h4>further resources i have <b>not</b> read/vetted</h4>
+<ul>
+	<li>
+		<RainbowLink href="https://www.bloomsbury.com/us/rambunctious-garden-9781608194544/"
+			>rambunctious garden: saving nature in a post-wild world - emma marris</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://www.barnesandnoble.com/w/the-new-wild-fred-pearce/1120112532"
+			>the new wild - why invasive species will be nature's salvation</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://onlinelibrary.wiley.com/doi/book/10.1002/9781444329988"
+			>fifty years of invasion ecology: the legacy of charles elton - matthew k. chew and andrew l.
+			hamilton
+		</RainbowLink>
+	</li>
+	<li>
+		<RainbowLink href="https://muse.jhu.edu/article/667742"
+			>invasive species, indigenous stewards, and vulnerability discourse - reo, n.j., whyte, k.,
+			ranco, d., brandt, j., blackmer, e., & elliott, b.
+		</RainbowLink>
+	</li>
+</ul>
+<h4>
+	reliable online/free resources for plant medicine information because i can't help myself i think
+	you learn as much esp emotionally from forming relationships w plants+critters as u do reading
+</h4>
+<h5>note i do not necessarily condone authors' politics or takes!</h5>
+<ul>
+	<li>
+		<RainbowLink href="https://www.herbrally.com/monographs">herb rally monographs</RainbowLink>
+	</li>
+	<li><RainbowLink href="https://botanical.com/">a modern herbal (maud grieve)</RainbowLink></li>
+	<li>
+		<RainbowLink href="https://www.swsbm.com/HOMEPAGE/HomePage.html"
+			>sw school of botanical medicine (michael moore)</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://www.herbcraft.org/articleindex.html"
+			>herbcraft (jim mcdonald)</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://www.henriettes-herb.com/"
+			>henriette's herbal homepage (henriette kress)</RainbowLink
+		>
+	</li>
+</ul>
 
-<!-- <p> 
-	in light of the dismal state of popular ecological knowledge, i wanna slow down and talk about
-	what large scale ecosystem knowledge even <i>is</i>.
-</p> -->
-<!-- <p>
-	(shame on you! you say. i, a probably white plant person, am a land steward on a public
-	meadow/park/ecological reserve, not a private estate! and to that i say: tell me who it's
-	literally named after and who the top 5 donors are and explain how that is not, in fact, a little
-	embroidery over top of the same reality. and if you work directly for the state you're a glorified
-	tree cop which is fine but don't @ me!)
-</p> -->
-<!-- Knowingly or unknowingly, gardeners participate in this process. Through their lifeways, all organisms
-modify their environment and participate in the creation of the landscapes in which they live. Corals
-build reefs, plants create soil, and animals transport seeds & nutrients long distances. Part of the
-lifeways of bluejays & squirrels is to plant acorns far from the oak, helping the forest migrate or heal
-burned or cleared areas. Our own lifeways of traveling about and admiring beauty cause us to gather useful
-and beautiful plants to grow around our homes, initiating the process of diversification. Many primates
-are key seed dispersal vectors in tropical ecosystems, and this is part of our evolutionary heritage. 1994 https://www.dtheo.org/NativesVs.Exotics.htm -->
 <h2>~</h2>
 <div class="footnote">
 	<Footnote id="privilege"
@@ -1214,6 +1405,9 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 		there's also dwarf cinquefoil / potentilla canadensis, which is also potentilla sp., which also
 		has yellow flowers and a similar habit and shows up in very similar conditions, but has
 		five-pronged leaves rather than three. but i digress.</Footnote
+	>
+	<Footnote id="volunteer"
+		>as in, nobody (human) planted them, they "volunteered" to live there</Footnote
 	>
 	<Footnote id="robinshit">
 		Article on robin shit hypothesis
@@ -1285,9 +1479,9 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 	>
 	<Footnote id="roundupstats">
 		i didn't put two and two together until researching for this piece, but the reason so many new
-		plants are being proposed for louisiana's cancer alley (many by Chinese companies) is
-		potentially related to increased regulatory pressure in china. china also happens to be by far
-		the main producer of the world's unbranded/generic glyphosate (before it gets branded by
+		plants are being proposed for louisiana's cancer alley (some by chinese and taiwanese companies)
+		is potentially related to increased regulatory pressure in china. china also happens to be by
+		far the main producer of the world's unbranded/generic glyphosate (before it gets branded by
 		individual companies as, say, roundup). i found numerous articles on conventional ag sites about
 		shortages and price hikes in both generic glyphosate and roundup over the past 10 years,
 		supposedly due to growing environmental regulations in China. i didn't do enough digging to
@@ -1298,6 +1492,11 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 		<br />
 		following is a variety of links on this. warning for a heavy dosage of liberal economic theory lol
 		<br />
+		Welcome to “Cancer Alley,” Where Toxic Air Is About to Get Worse - <ChainLink
+			href="https://www.propublica.org/article/welcome-to-cancer-alley-where-toxic-air-is-about-to-get-worse"
+			target="blank"
+			rel="noreferrer"
+		/> <br />
 		Chinese glyphosate manufacturers decrease production (2022) - <ChainLink
 			href="https://news.agropages.com/News/NewsDetail---44736.htm"
 			target="blank"
@@ -1323,6 +1522,10 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 			rel="noreferrer"
 		/></Footnote
 	>
+	<Footnote id="portion">
+		almost like wildly abundant ecosystems are invariably a result of societies' whose main labor
+		goes towards tending them or something
+	</Footnote>
 	<Footnote id="ghosts">
 		you should read this. especially if you don't know what a ghost swamp is <ChainLink
 			href="https://www.e-flux.com/architecture/accumulation/440704/ghost-forest-atlas-of-a-drowning-world/"
@@ -1411,11 +1614,32 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 		i'm talking about the left-and-adjacent whole plant medicine world, not the herbal supplement
 		world, though of course they're deeply and fuckedly intertwined.</Footnote
 	>
+	<Footnote id="there">
+		quote from Ambalavaner Sivanandan. link for context - <ChainLink
+			target="blank"
+			rel="noreferrer"
+			href="https://blogs.lse.ac.uk/lsereviewofbooks/2021/04/16/author-interview-q-and-a-with-dr-ian-sanjay-patel-on-were-here-because-you-were-there-immigration-and-the-end-of-empire/"
+		/></Footnote
+	>
 	<Footnote id="philly">
 		would bet money the wildlife in philly has picked up the vibes lol if there's any birds i would
 		trust to duke it out en masse it is the se pa ones</Footnote
 	>
+	<Footnote id="ogr">
+		"Experiment suggests the best ways to tackle invasive Oregon grape in Belgian coastal dunes" - <ChainLink
+			target="blank"
+			rel="noreferrer"
+			href="https://phys.org/news/2019-12-ways-tackle-invasive-oregon-grape.html"
+		/>
+	</Footnote>
 
+	<Footnote id="david"
+		>Natives vs Exotics - <ChainLink
+			target="blank"
+			rel="noreferrer"
+			href="https://www.dtheo.org/NativesVs.Exotics.htm"
+		/></Footnote
+	>
 	<Footnote id="cockedtail">
 		young shoots make a great rhubarbey cocktail syrup for starters! make sure where you're
 		harvesting hasn't been sprayed tho, it's one of those that many people are trying to do chemical
@@ -1434,7 +1658,7 @@ are key seed dispersal vectors in tropical ecosystems, and this is part of our e
 	}
 
 	.image {
-		max-height: 400px;
+		max-height: 700px;
 		max-width: 70vw;
 	}
 	.white {
