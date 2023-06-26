@@ -1313,8 +1313,31 @@
 	reliable online/free resources for plant medicine information because i can't help myself i think
 	you learn as much esp emotionally from forming relationships w plants+critters as u do reading
 </h4>
-<h5>note i do not necessarily condone authors' politics or takes!</h5>
+<p>
+	<b>
+		note i do not necessarily condone authors' politics or takes! you'll note this list is mostly
+		white herbalists from the pre-web-2.0 era. there's a ton out there by bipoc & queer herbalists
+		but much/most of that content is behind web 2.0 walls (eg instagram etc) that makes it a spoons
+		intensive task for me to find the accts let alone find any actual info once i'm there. most of
+		the stuff below is search engine or hyperlink directory based which is personally easier for me
+		to navigate. if you're ISO bipoc +/ gay herbalists to learn from do hmu @ the email in my
+		footer, i do have a list of instagram accts etsy pages etc. i can pass along. ive also been out
+		of the herb world social media game for like 3-4 years so. if you want someone added... just
+		email me...
+	</b>
+</p>
 <ul>
+	<li>
+		<RainbowLink href="https://queerherbalism.blogspot.com/"
+			>queering herbalism (toi scott)</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink
+			href="https://dandelionessherbals.blogspot.com/2011/01/radical-roots-of-community-acupuncture.html?m=1"
+			>dandilioness herbals (dana l woodruff)
+		</RainbowLink>
+	</li>
 	<li>
 		<RainbowLink href="https://www.herbrally.com/monographs">herb rally monographs</RainbowLink>
 	</li>
@@ -1332,6 +1355,29 @@
 	<li>
 		<RainbowLink href="https://www.henriettes-herb.com/"
 			>henriette's herbal homepage (henriette kress)</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="http://medherb.com/articles.htm">medical herbalism journal</RainbowLink>
+	</li>
+	<li>
+		<RainbowLink href="https://7song.com/resources/"
+			>northeast school of botanical medicine (7song)</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://www.alleanzaverde.com/blog/category/english/herbs/"
+			>alleanza verde – green alliance</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://radicalvitalism.wordpress.com/"
+			>radical vitalism (dave meesters and janet kent)</RainbowLink
+		>
+	</li>
+	<li>
+		<RainbowLink href="https://web.archive.org/web/20190105235913/http://herbsformentalhealth.com/"
+			>herbs for mental health (defunct but VITAL resource)</RainbowLink
 		>
 	</li>
 </ul>
