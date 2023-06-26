@@ -120,9 +120,8 @@
 <p>
 	As you hopefully have picked out, the language people use for common plants is famously xenophobic
 	and eugenicist. If all this sounds straight from original Nazi propaganda, that's because it quite
-	literally is. The Nazis had a native plant movement. In fact the first organic farming movement<SuperScript
-		id="first"
-	/>
+	literally is. The Nazis had a native plant movement.<SuperScript id="nazis" /> In fact the first organic
+	farming movement<SuperScript id="first" />
 	was led by Rudolf Steiner, an occultist and possible-Nazi-but-certain-racist-antisemite whose works
 	were influential among the fascist right. The German Nazis and their offshoots and collaborators had
 	all sorts of eco-feminist, queer masculinist, pagan, and cultural heritage programmes and philosophies.
@@ -1270,7 +1269,12 @@
 			>am i an invasive species? - jenny liou
 		</RainbowLink>
 	</li>
-
+	<li>
+		<RainbowLink href="https://www.jstor.org/stable/43323079"
+			>some notes on the mania for native plants in germany - gert groening and joachim
+			wolschke-bulmahn
+		</RainbowLink>
+	</li>
 	<li>
 		<RainbowLink href="https://www.dtheo.org/NativesVs.Exotics.htm"
 			>natives vs exotics - david i. theodoropoulos</RainbowLink
@@ -1398,6 +1402,13 @@
 	>
 	<Footnote id="gnc"
 		>i was a high femme child and land based work is approximately the only time i butch it up</Footnote
+	>
+	<Footnote id="nazis"
+		>some notes on the mania for native plants in germany - <ChainLink
+			href="https://www.jstor.org/stable/43323079"
+			target="blank"
+			rel="noreferrer"
+		/></Footnote
 	>
 	<Footnote id="first">in modernity, by white people</Footnote>
 	<Footnote id="definitions"
