@@ -34,9 +34,9 @@
 	best to provide a list of folks i'm thinking with and alongside, folks whose work i'm indebted to,
 	at the end. also, i intentionally left some homework for myself to do <i>after</i> this piece was finished.
 	i wanted to sort through the emotional-political logics i was seeing for myself before hearing how
-	others, particularly the professional scientific world, was making sense of it all. the resources i
-	have yet to engage with will also be at the bottom. perhaps future me will come back and tend to this
-	piece with their insights.
+	others, particularly the professional scientific world, were making sense of it all. the resources
+	i have yet to engage with will also be at the bottom. perhaps future me will come back and tend to
+	this piece with their insights.
 </p>
 <h2>part I: loss</h2>
 
@@ -238,10 +238,10 @@
 	these stories have, i think, an outsized effect on how people manage land in the white plant
 	world. so many people, myself included, have mostly learned their trade by oral knowledge-sharing
 	on-the-job. plant mythologies (like all mythologies) transmit worldviews as much as they transmit
-	as the "content" of the information imparted. it's these worldviews, communicated through
-	individual stories about plants and humans, that i'm interested in digging into. i'll use a couple
-	cases of my own plant storybindings as an example of what this plant-by-plant, person-by-person
-	mythology looks like.
+	the "content" of imparted information. it's these worldviews, communicated through individual
+	stories about plants and humans, that i'm interested in digging into. i'll use a couple cases of
+	my own plant storybindings as an example of what this plant-by-plant, person-by-person mythology
+	looks like.
 </p>
 
 <h3>mythologies</h3>
@@ -903,9 +903,9 @@
 <h5>economically</h5>
 <p>
 	in late capitalist countries, time outdoors is far and wide either a luxury or a part of work.
-	there's not really a lifeway in existence in the US which involves spending a lot of time building
-	relationships with the natural world outside either an agenda (to make a living) or a marked
-	non-agenda (this time is leisure).
+	there's not really a common lifeway in existence in the US which involves spending a lot of time
+	building relationships with the natural world outside either an agenda (to make a living) or a
+	marked non-agenda (this time is leisure).
 </p>
 <p>
 	as work it is usually very low paid and hazardous. even my work at a "high end" gardening business
@@ -936,7 +936,7 @@
 	industries, abysmal literacy regarding social reality, and often general ignorance of actually
 	tending plants (the job is research, not spending time tending plants).<SuperScript
 		id="braiding"
-	/> the big lists of INVASIVE PLANTS that federal and state governments list are driven by concern for
+	/> the big lists of INVASIVE PLANTS that federal and state governments have are driven by concern for
 	industry (crops, livestock, drainage and pests in cities), not large scale ecosystem knowledge, as
 	is the funding for natural sciences in general. there is a reason the war against diasporic species
 	is framed as a war, framed as a matter of national security, and that's because the National Invasive
@@ -1023,9 +1023,9 @@
 	full-time work that addresses this, and extractive industries and rich individuals ready to
 	improve their PR by funding that work that supposedly addresses the crisis but really does no such
 	thing. work without clear metrics for being "done" (such as endlessly removing diasporic species
-	from the same bed season after season), work whose existence which purportedly helps
+	from the same bed season after season), work whose existence purportedly helps
 	<i>something</i>, work which doesn't threaten any existing land management paradigms, work which
-	creates demand for specific commodities such as glyphosate, gets proliferated.
+	increases demand for specific commodities such as glyphosate, gets proliferated.
 </p>
 <p>
 	all of this combines i think to make people predisposed to think that "being good to the earth"
@@ -1052,11 +1052,11 @@
 	costs.
 </p>
 <p>
-	there is <i>so much change</i> coming for this world, and the climate crisis we are living through
-	will pose an existential threat to the premises and stability of the value-based global economy. when
-	threatened with drastic change to the system your life gains coherency within, it's a pretty typical
-	response IMO to try and control whatever the fuck you think you can. even or especially if those "things"
-	have a life and autonomy outside you, were never within your control to begin with.
+	there is <i>so much change</i> coming for this world. the climate crisis we are living through will
+	pose an existential threat to the premises and stability of the value-based global economy. when threatened
+	with drastic change to the system your life gains coherency within, it's a pretty typical response
+	IMO to try and control whatever the fuck you think you can. even or especially if those "things" have
+	a life and autonomy outside you, were never within your control to begin with.
 </p>
 <p>
 	it manifests differently in different people, in different lifeways. but i think the need to feel
@@ -1065,7 +1065,7 @@
 </p>
 <p>
 	at its center, this assumption is heartbreakingly naiive and anthropocentric, even as it loudly
-	proclaims selflessness and impartiality. the need to be <b>in control</b> has at its root an
+	proclaims its selflessness and impartiality. the need to be <b>in control</b> has at its root an
 	assumption that only (white) humans can possess knowledge, and as an extension of this that all
 	real knowledge can be easily understood by (white) humans. believing that humans have to be in
 	control, rather than in community, creates all sorts of ideological contradictions. the concept
@@ -1164,13 +1164,13 @@
 	horticultural beds that are well-tended, and their appearance tells you a plot has been getting
 	regular attention. other plants, like mugwort, thrive in soil that has been disturbed, then sorta
 	ignored for years; i'll often see stands of mugwort alongside the paths in public parks, for
-	instance. there's japanese knotweed, which thrives more and more happily the harder you try to
-	kill it to an almost alarming extent (aspirational). yellow dock really likes it kinda gross; i've
-	seen dock looking especially abundant & happy in compost piles, where there's plenty of decaying
-	matter about. blue vervain, a plant whose main indication for use as medicine in humans is "a
-	person who is uptight as shit," often,, kinda looks like shit in the wild; its mildewey
-	half-bloomed state is always a reminder to me to not be so hard on myself, not be so uptight about
-	how i am in the world.
+	instance. there's japanese knotweed, which flips out under assault and ends up thriving more and
+	more tenaciously the harder you try to kill it to an almost alarming extent (aspirational). yellow
+	dock really likes it kinda gross; i've seen dock looking especially abundant & happy in compost
+	piles, where there's plenty of decaying matter about. blue vervain, a plant whose main indication
+	for use as medicine in humans is "a person who is uptight as shit," often,, kinda looks like shit
+	in the wild; its mildewey half-bloomed state is always a reminder to me to not be so hard on
+	myself, not be so uptight about how i am in the world.
 </p>
 <h4>plot and themes</h4>
 <p>
@@ -1231,10 +1231,10 @@
 	there's a certain irony and beauty in this symmetry that several herb people i read have noted. it
 	follows the classic plant medicine adage of the cure being found by the disease. often this phrase
 	refers to pairs of plants like poison ivy and jewelweed (whose juices help neutralize urushiol), or
-	stinging nettle and plantain/dock (whose juices help soothe nettle stings). it's almost a dialectic
-	relationship here between disease, medicine, and cure. there's a symmetry here that is mirrored in
-	so many of the ways the natural world operates, symmetries that get lost in eradication-oriented approaches
-	to disease and disorder and disability.
+	stinging nettle and plantain/dock (whose juices help soothe nettle stings) often appearing next to
+	each other in the wild. it's almost a dialectic relationship here between disease, medicine, and cure.
+	there's a symmetry here that is mirrored in so many of the ways the natural world operates, symmetries
+	that get lost in eradication-oriented approaches to disease and disorder and disability.
 </p>
 <h4>curiosity and humility</h4>
 <p>
