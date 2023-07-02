@@ -12,7 +12,7 @@
 	import slf from '../assets/images/stompme.png';
 	import ariana from '../assets/images/ariana.jpg';
 	import dicksize from '../assets/images/dicksize.png';
-
+	import curious from '../assets/images/weshouldimprove.png';
 	onMount(() => {
 		footnoteInit('a.footnote', 'a.bottom');
 	});
@@ -71,7 +71,7 @@
 	when i started this work, i would pull weeds for about 8 hours a day, listening to podcasts and
 	music and trying to find the resources i needed to change who i was in the world. i was going
 	through an intense healing process at the time, relearning how to be with other people and how to
-	care for myself. in the moment healing felt like long, slow death. i was about 4 months on T, and
+	care for myself. in the moment healing felt like long, slow death. i was about 6 months on T, and
 	my clients for the most part decided i was a cis guy, which was the first time I had passed
 	consistently or even been read as GNC. <SuperScript id="gnc" /> i felt bonedead grief, ache in my chest,
 	terror and anxiety, and all the other early transition symptoms that never quite go away but eventually
@@ -106,7 +106,7 @@
 	as a sidebar, it is hard to over-emphasize how much the aesthetic (taste, desire, pleasure, ease)
 	produces the moral in the american suburb. i've got more to say on that subject, but for now i'll
 	constrain myself to commenting on how it affects suburban land management among liberal white
-	people, who are the majority of the people I work for/with.
+	people, who are the majority of the people I work for(/with).
 </p>
 <p>
 	the language used to instruct landscapers/gardeners is explicit in making aesthetic preferences
@@ -139,10 +139,12 @@
 	clothed.
 </p>
 <p>
-	I want to make my way here through, among other things, the "problem" of the existence of
-	diasporic plants. i want to move slowly, take a bit of a winding path, so bear with me if you
-	will. i think a lot of what i want to convey in this piece is the feeling of working in the dirt,
-	not a critique of specific behaviors. so come, wriggle around in the mulch with me for a bit.
+	i want to make my way here through, among other things, the framing of the "problem" of the
+	existence of diasporic plants, as a way to get at larger contradictions and confusions around
+	human relationships to the rest of the world. i want to move slowly, take a bit of a winding path,
+	so bear with me if you will. i think a lot of what i want to convey in this piece is the feeling
+	of working in the dirt, not a critique of specific behaviors. so come, wriggle around in the mulch
+	with me for a bit.
 </p>
 
 <h3>a brief note on approach and influence</h3>
@@ -221,8 +223,8 @@
 <h3>knowledge</h3>
 <p>
 	this season i'm working for and with people who do know their shit (unlike most of the clients
-	i've worked for the longest). they know their shit much, much better than i do. i bullshat my way
-	into horticulture work; they've mostly done it for years in this exact area, many have
+	i've done work for the longest). they know their shit much, much better than i do. i bullshat my
+	way into horticulture work; they've mostly done it for years in this exact area, many have
 	professional degrees and certifications.
 </p>
 <h4>and yet</h4>
@@ -335,7 +337,7 @@
 	white flowers, but pull all the mock strawberries with yellow flowers as they're considered invasive.
 </p>
 <p>
-	these plants are hard to tell apart in many states of growth. even the most obvious difference,
+	these plants are hard to tell apart in many stages of growth. even the most obvious difference,
 	flower color, is not helpful in determining nativity; there are from-here strawbish things with
 	yellow flowers, and diasporic strawbish things with white flowers. the cultivated/garden
 	strawberry <i>itself</i> is a technology native to this continent, before its pit stop in europe.
@@ -394,15 +396,16 @@
 	stakes over being a "good" steward or tender of land, which of course are all tied up in
 	aesthetics (<i>looking</i> like a good tender of land, tending land that <i>looks</i> well kept). most
 	of this information is contradictory, often self-contradictory, even/especially when it's coming from
-	invasion biologists and university ag departments and other professional plant people (who are supposedly
-	the source of truth for "real/reliable" plant knowledge).
+	invasion biologists and university ag departments and other professional plant people.
 </p>
 <p>
 	i'd like to take a moment, step back from the actual specific plants themselves, and walk through
 	what it takes to have a cultivated garden or stand of land look "well-kept" in a "native plants"
-	or "permaculture" way, under current conditions.<SuperScript id="currentconditions" /> I'll be discussing
-	this in the context of "amount of land one person could potentially own and want tended," whether that's
-	a tiny rowhome front bed or dozens of acres in the suburbs or country.
+	or "permaculture" way, under current conditions.<SuperScript id="currentconditions" /> I'll mostly
+	be discussing this in the context of "amount of land one person could potentially own and want tended,"
+	whether that's a tiny rowhome front bed or dozens of acres in the suburbs or country. but the implications
+	of the amount of labor<SuperScript id="dead" /> required have direct implications on broader land and
+	ecosystem "management" policies and strategies.
 </p>
 <h4>nativity</h4>
 <p>
@@ -540,10 +543,10 @@
 	Manually removing things and putting something else in their place that has half a chance of
 	success takes an <i>incredible</i> amount of labor and upkeep. Even in small garden beds on small properties
 	(quarter acre or less), you're probably looking at weekly maintenance for the first season. Scaled
-	up, for properties larger than an acre or so, you'd need a whole team of workers working part to full
-	time during the growing season. For smaller organizations with more grassroots budgets, or for organizations
-	such as landscaping businesses operating under market constraints, doing stuff purely via manual labor
-	is largely financially unviable due to the amount of paid labor necessary.
+	up, for properties larger than an acre or so (generous estimates here), you'd need a whole team of
+	workers working part to full time during the growing season. For smaller organizations with more grassroots
+	budgets, or for organizations such as landscaping businesses operating under market constraints, doing
+	stuff purely via manual labor is largely financially unviable due to the amount of paid labor necessary.
 </p>
 <p>
 	While many private individuals are willing to fund some part time work, fewer are willing/able to
@@ -863,10 +866,10 @@
 	correct; i doubt native restoration would be as big of a thing particularly in the academic world<SuperScript
 		id="uwu"
 	/>
-	without the existence glyphosate and without monsanto pumping massive amounts of money into research/propaganda
+	without the existence of glyphosate and without monsanto pumping massive amounts of money into research/propaganda
 	regarding native species restoration. but white plant people are like, famously libertarians? they
-	like, really love a conspiracy theory? particularly if big ag and big industry and the government are
-	conspiring against ~nature~?
+	(we) like, really love a conspiracy theory? particularly if big ag and big industry and the government
+	are conspiring against ~nature~?
 </p>
 <p>
 	the demographics are wrong for the above explanation to be the entire picture. the psychology is
@@ -909,14 +912,13 @@
 </p>
 <p>
 	as work it is usually very low paid and hazardous. even my work at a "high end" gardening business
-	is seasonal and paid significantly below cost-of-living. and we're the labor aristocracy of the
-	plant world! my guess would be that the vast majority of people who work outdoors / with plants in
-	the US are undocumented and/or paid criminally low wages.<SuperScript id="criminally" /> ag and seasonal
-	workers in the US are excluded from most labor protections including overtime and minimum wage law
-	due to those industries being predominantly Black at the passage of the original Farm Bill and National
-	Labor Relations Act of 1935. for the better part of a century this has helped ensure that the average
-	working conditions are incredibly exploitative and the opportunities for effective legal organizing
-	slim.
+	is seasonal and paid below cost-of-living. and we're the labor aristocracy of the plant world! my
+	guess would be that the vast majority of people who work outdoors / with plants in the US are
+	undocumented and/or paid criminally low wages.<SuperScript id="criminally" /> ag and seasonal workers
+	in the US are excluded from most labor protections including overtime and minimum wage law due to those
+	industries being predominantly Black at the passage of the original Farm Bill and National Labor Relations
+	Act of 1935. for the better part of a century this has helped ensure that the average working conditions
+	are incredibly exploitative and the opportunities for effective legal organizing slim.
 </p>
 <p>
 	in terms of jobs on the more ecological side versus commercial crop production, there are people
@@ -930,8 +932,8 @@
 	a profit or get the next grant.
 </p>
 <p>
-	the formal plant world in the academies and institutions, on the other hand, is rife with all the
-	usual problems of bourgeois science: mistaking the symptom for the disease, inability to see
+	the formal ecology world in the academies and institutions, on the other hand, is rife with all
+	the usual problems of bourgeois science: mistaking the symptom for the disease, inability to see
 	beyond a very short time span due to the practicalities of research, funding by extractive
 	industries, abysmal literacy regarding social reality, and often general ignorance of actually
 	tending plants (the job is research, not spending time tending plants).<SuperScript
@@ -942,15 +944,16 @@
 	is framed as a war, framed as a matter of national security, and that's because the National Invasive
 	Species Council is part of the
 	<i>department of the interior.</i> the exact department tasked with the genocide of native peoples
-	over the past couple centuries. none of this is a mistake.
+	over the past couple centuries. none of this is a mistake.<SuperScript id="tobeclear" />
 </p>
 <p>
 	and then there's leisure. in terms of significant non-work time spent outdoors, i suppose there's
 	the independently wealthy eccentrist or retired permaculture types. but even they have to hire
 	people if they want to scale at all.<SuperScript id="ideological" />
 	there's herbalists, and indigenous communities that have managed to retain connection and relationship
-	to land and lifeways. but you see what i mean-- they're exceptions to the general rule of alienation
-	from surrounding ecosystems. <SuperScript id="alienation" />
+	to land and lifeways. (more on this later, because obviously these exceptions largely comprise what
+	embodied knowledge DOES exist.) but you see what i mean-- they're exceptions to the general rule of
+	alienation from surrounding ecosystems. <SuperScript id="alienation" />
 </p>
 <p>
 	it also bears mentioning that the natural world is largely inaccessible even if you
@@ -985,8 +988,9 @@
 </p>
 <p>
 	the world of what gets called western knowledge or science is very comfortable with
-	categorization. it's even somewhat comfortable with ignorance; today's <b>~idk~</b> is tomorrow's grant
-	proposal is next year's publication. but it is very, very bad with the unknowable.
+	categorization, with putting knowledge into boxed-and-labeled order. it's even somewhat
+	comfortable with ignorance; today's <b>~idk~</b> is tomorrow's grant proposal is next year's publication.
+	but it is very, very bad with the unknowable.
 </p>
 <p>
 	& there is simply no knowing what all this looks like in the long term, on an ecological scale.
@@ -1005,7 +1009,9 @@
 	culturally there's a demand to <i>look like you're doing something.</i><SuperScript id="pet" /> there's
 	a sense that "being a good person" is equivalent to "doing hard work and lots of it" that somehow goes
 	largely uncriticized despite being in the encyclopedia under the header "the protestant ethic and the
-	spirit of capitalism" and "bourgeois individualist systems of morality."
+	spirit of capitalism" and "bourgeois individualist systems of morality."<SuperScript
+		id="luddite"
+	/>
 </p>
 <p>
 	secondly, i think people who go into plant work <i>like doing work</i> for the most part. compared
@@ -1043,6 +1049,7 @@
 	ironically consistent with the white supremacist, (settler) colonial scientific management system
 	which birthed the white/native plant movement in the first place.
 </p>
+
 <h4>control</h4>
 <p>
 	i saved this one for last because i think it goes without saying, yeah? if there's one word to
@@ -1052,8 +1059,8 @@
 	costs.
 </p>
 <p>
-	there is <i>so much change</i> coming for this world. the climate crisis we are living through will
-	pose an existential threat to the premises and stability of the value-based global economy. when threatened
+	there is <i>so much change</i> coming for this world. the climate crisis we are living through is posing
+	an existential threat to the premises and stability of the value-based global economy. when threatened
 	with drastic change to the system your life gains coherency within, it's a pretty typical response
 	IMO to try and control whatever the fuck you think you can. even or especially if those "things" have
 	a life and autonomy outside you, were never within your control to begin with.
@@ -1070,12 +1077,13 @@
 	real knowledge can be easily understood by (white) humans. believing that humans have to be in
 	control, rather than in community, creates all sorts of ideological contradictions. the concept
 	that other species might
-	<i>also</i> be intelligently responding to climate change, might have any agency of their own in responding
-	to this systemwide crisis, is foreclosed by this assumption. you end up with language that assumes
-	that when humans move species from place to place in order to eat more easily, we're active exploiters
-	of an externalized "nature;" whereas when birds move species from place to place in order to eat more
-	easily, they're part of a passive, ignorant, static "nature" which doesn't know what's best for itself.
-	that nature might have a set of intelligences of its own is precluded and scoffed at.
+	<i>also</i> be intelligently responding to climate change, might have any agency of their own in
+	responding to this systemwide crisis, is foreclosed by this assumption. you end up with language
+	that assumes that when humans move species from place to place in order to eat more easily, we're
+	active exploiters of an externalized "nature;"<SuperScript id="especially" /> whereas when birds move
+	species from place to place in order to eat more easily, they're part of a passive, ignorant, static
+	"nature" which doesn't know what's best for itself. that nature might have a set of intelligences of
+	its own is precluded and scoffed at.
 </p>
 <p>
 	imo, the concept that humans are in control of a passive, receptive nature is not a side issue or
@@ -1124,7 +1132,25 @@
 		id="death"
 	/>
 </p>
-
+<div class="center-flex">
+	<img
+		src={curious}
+		class="image"
+		alt="the meme where one illustrated feudal peasant goes 'we should improve society somewhat' and the other goes 'yet you participate in society. curious! i am very intelligent.' "
+	/>
+</div>
+<p>
+	i said this earlier but it's been a long journey thru the diasporic weeds so i'll reiterate: this
+	really isn't a criticism of specific behaviors. i drive to my job in my car guzzling gasoline and
+	while there i mostly, as a coworker put it quite well, "tend to the mausoleum of stolen wealth."
+	while i'm tending the mausoleum(s), i <b>really enjoy</b> getting to work with from-here plants that
+	humans are trying to keep extant despite ecological difficulty. i think it's really amazing that humans
+	have the capacity to try to do such a thing. and i hope we can foster and tend to as much biodiversity
+	as we can. death is inevitable but that doesn't mean we shouldn't fight to save our loved ones. it's
+	just the framing of this work as "tending land ecologically" rather than "mostly just tending white
+	egos" that i'm mainly objecting to.
+</p>
+<h5>roots</h5>
 <p>
 	i was first put onto skepticism about the native plant industry by the plant medicine world, as i
 	think many people have been. plant medicine people have a natural, some might say a structural,
@@ -1230,11 +1256,11 @@
 	affinity for helping treat lyme disease, an affinity even conventional medicine has taken note of.
 	there's a certain irony and beauty in this symmetry that several herb people i read have noted. it
 	follows the classic plant medicine adage of the cure being found by the disease. often this phrase
-	refers to pairs of plants like poison ivy and jewelweed (whose juices help neutralize urushiol), or
-	stinging nettle and plantain/dock (whose juices help soothe nettle stings) often appearing next to
-	each other in the wild. it's almost a dialectic relationship here between disease, medicine, and cure.
-	there's a symmetry here that is mirrored in so many of the ways the natural world operates, symmetries
-	that get lost in eradication-oriented approaches to disease and disorder and disability.
+	refers to pairs of plants like poison ivy and jewelweed (whose juices help neutralize the active irritant
+	in poison ivy, urushiol), or stinging nettle and plantain/dock (whose juices help soothe nettle stings)
+	often appearing next to each other in the wild. it's almost a dialectic relationship here between disease,
+	medicine, and cure. there's a symmetry here that is mirrored in so many of the ways the natural world
+	operates, symmetries that get lost in eradication-oriented approaches to disease and disorder and disability.
 </p>
 <h4>curiosity and humility</h4>
 <p>
@@ -1285,6 +1311,7 @@
 			>braiding sweetgrass - robin wall kimmerer</RainbowLink
 		>
 	</li>
+
 	<li>
 		<RainbowLink
 			href="https://www.e-flux.com/architecture/accumulation/440704/ghost-forest-atlas-of-a-drowning-world/"
@@ -1489,6 +1516,9 @@
 		industrial waste of various forms (industrial farming, exhaust fumes, chemical runoff, heavy
 		metals), etc etc.</Footnote
 	>
+	<Footnote id="dead">
+		dead labor (aka shovels and roundup and tractors etc) and live (aka me and my ass)
+	</Footnote>
 	<Footnote id="migrants">
 		jfc, man. i mean you see what i'm working with here right. gd fckn</Footnote
 	>
@@ -1648,6 +1678,12 @@
 		puts out more growth. the fact that a bunch of biologists didn't know this should be
 		humiliating. tf y'all teaching in these programs!</Footnote
 	>
+	<Footnote id="tobeclear">
+		TO BE CLEAR--- a shit ton of very very important stuff also comes out of the professional plant
+		world and academic science. you won't find me hating on the concept of all science!! i am simply
+		hating on particular flaws the institutions we got for doing science currently have, due to
+		their enmeshment in western-imperio-capitalism!
+	</Footnote>
 	<Footnote id="ideological">
 		IME, rich people's vanity projects do not pay well and are often just as bad or worse to work on
 		than the straight production farms <i>because</i> of the ideological fervor and individual personalities
@@ -1666,7 +1702,18 @@
 		a way to distinguish oneself from the rest of the laboring masses that have to do things "for
 		money to reproduce themselves" (ew) but that's obviously a personal pet theory
 	</Footnote>
-	<Footnote id="coercion">vs by strict economic necessity or coercion</Footnote>
+	<Footnote id="luddite"
+		>pandemic really launched me into my luddite era. none of this work is necessary! we should all
+		be stealing time! "work" is out, stealing (time) is the new moral standard to hold everyone by!
+	</Footnote>
+	<Footnote id="coercion"
+		>for people who are in this field by choice and not by strict economic necessity or coercion
+		that is</Footnote
+	>
+	<Footnote id="especially"
+		><i>especially</i> if it's black and brown people doing the tending/moving of species. see: land
+		management and "conservation" in africa for the past 100+ years</Footnote
+	>
 	<Footnote id="death">
 		even if being a part of its healing means by dying off lol closed system farming is fake but
 		closed system earth is not hope the fungi eat well</Footnote
@@ -1720,7 +1767,7 @@
 
 	.image {
 		max-height: 700px;
-		max-width: 70vw;
+		max-width: 90%;
 	}
 	.white {
 		color: white;
