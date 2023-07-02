@@ -1146,9 +1146,10 @@
 	while i'm tending the mausoleum(s), i <b>really enjoy</b> getting to work with from-here plants that
 	humans are trying to keep extant despite ecological difficulty. i think it's really amazing that humans
 	have the capacity to try to do such a thing. and i hope we can foster and tend to as much biodiversity
-	as we can. death is inevitable but that doesn't mean we shouldn't fight to save our loved ones. it's
-	just the framing of this work as "tending land ecologically" rather than "mostly just tending white
-	egos" that i'm mainly objecting to.
+	as we can. death is inevitable but that doesn't mean we shouldn't fight to save our loved ones. but
+	"keeping seed banks in existence and accessible to humans" is a very different thing than "materially
+	making a difference on an ecological scale;" it's the latter framing, the framing of this work as "tending
+	land ecologically" rather than "mostly just tending white egos" that i'm objecting to.
 </p>
 <h5>roots</h5>
 <p>
