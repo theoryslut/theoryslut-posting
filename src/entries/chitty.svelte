@@ -3,6 +3,8 @@
 
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
+	import RainbowLink from '../lib/RainbowLink.svelte';
+
 	import footnoteInit from '../lib/footnote/footnoteInit';
 
 	import sue_meme from '../assets/images/glee.png';
@@ -16,7 +18,26 @@
 <svelte:head>
 	<title>Sexual Hegemony and Mastodon</title>
 </svelte:head>
+
 <h1>Sexual Hegemony and Mastodon</h1>
+<h5>UPDATE 8 July 2023:</h5>
+<p>
+	My thoughts on this have changed a little over time. I'm working on a full follow-up post to this
+	// a potential rework of this piece (don't hold your breath lol), but in the meantime,
+</p>
+<ol>
+	<li>
+		it was silly of me to neglect to place sex work at the center of any conversation around
+		sex/public space/the internet, and
+	</li>
+	<li>
+		mastodon/ActivityPub/the fediverse is actually <i>really insecure</i> and therefore probably not
+		a great place to post ur nudes tbh. more on that <RainbowLink
+			href="https://blog.bloonface.com/2023/07/04/the-fediverse-is-a-privacy-nightmare/"
+			>here.</RainbowLink
+		>
+	</li>
+</ol>
 <h2>15 March 2023</h2>
 <h5>CW politics around public space and (queer) people's behavior in it. also urinals</h5>
 <h3>urinal politics but make it social media</h3>
@@ -389,7 +410,12 @@
 		physically around you taking offense, for the duration of your piss +/ outdoors existence. By
 		posting online you're opening yourself up to anyone with an internet connection viewing your
 		content for as long as it's hosted, and then making it your problem. revenge porn is the most
-		dramatic example of this.
+		dramatic example of this. <b
+			>update 8 july 2023: all of mastodon/the fediverse is actually another good example of this! <RainbowLink
+				href="https://blog.bloonface.com/2023/07/04/the-fediverse-is-a-privacy-nightmare/"
+				>this post explains it v thoroughly</RainbowLink
+			></b
+		>
 	</li>
 	<li>
 		Similarly, physical publics are limited in ways the internet is not. you want to beat up on a
@@ -681,6 +707,20 @@
 	to broadening porn regulations, it is still fucking legal in the US to post dick on the internet.
 	it's even legal to post trans dick on the internet. and yet you would not know it from the
 	policies of corporate social media. this is one area where mastodon shines.
+</p>
+<p>
+	<b
+		>update 8 july 2023: as i've referenced a couple times, my thoughts on all this have shifted p
+		significantly after realizing how <RainbowLink
+			href="https://blog.bloonface.com/2023/07/04/the-fediverse-is-a-privacy-nightmare/"
+			>insecure</RainbowLink
+		> the fediverse is; everything you do on the platform, <i>even</i> a very small instance, should
+		be considered as completely and irrevocably public. like, "the fbi and hate groups have p easy access"
+		levels of public. dont let that stop u from posting dick i suppose, but there are certainly safer
+		ways. there's an absolute irony here that the thing that mastodon seems to be good at (private social
+		clubs) it actually is really bad at (because all content is public). take all the below (my original
+		thoughts) with this added irony in mind! i don't stand by the takes below anymore!
+	</b>
 </p>
 <p>
 	it's like, literally some girl in like st louis who is hosting any tittie pics I put up on

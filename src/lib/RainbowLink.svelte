@@ -1,8 +1,8 @@
 <script>
 	export let href;
 	export let add_class = '';
-	export let target = '';
-	export let rel = '';
+	export let target = 'blank';
+	export let rel = 'noreferrer';
 </script>
 
 <a {href} class={add_class} {target} {rel}><slot /></a>
