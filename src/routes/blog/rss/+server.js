@@ -20,7 +20,7 @@ const render_xml = (posts) => `<?xml version="1.0" encoding="UTF-8" ?>
 <description>theoryslut :)</description>
 <language>en-us</language>
 <docs>http://blogs.law.harvard.edu/tech/rss</docs>
-<managingEditor>trashfirehell@protonmail.com</managingEditor>
+<managingEditor>theoryslut@protonmail.com</managingEditor>
 ${posts
 	.map(
 		(post) =>
