@@ -1,7 +1,7 @@
 <script>
 	export let href = '';
-	export let target = '';
-	export let rel = '';
+	export let target = 'blank';
+	export let rel = 'noreferrer';
 </script>
 
 <a {href} {target} {rel} class="link">

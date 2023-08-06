@@ -1,4 +1,4 @@
-import { metadata } from '../../../metadata/thoughts';
+import { metadata } from '../../../metadata/log';
 import { error } from '@sveltejs/kit';
 
 export async function load({ params }) {
@@ -12,7 +12,7 @@ export async function load({ params }) {
 
 	let component = await (async () =>
 		(
-			await import(`../../../thoughts/${params.slug}.svelte`)
+			await import(`../../../log/${params.slug}.svelte`)
 		).default)();
 
 	return {

@@ -13,6 +13,12 @@ export const metadata = {
 			published: 'June 26, 2023 00:00:00'
 		}
 		// {
+		// 	slug: 'crisis',
+		// 	title: 'Moral Panic Or Legitimacy Crisis?',
+		// 	description: 'Moral Panic Or Legitimacy Crisis?',
+		// 	published: 'July 26, 2023 00:00:00'
+		// }
+		// {
 		// 	slug: 'vanguard',
 		// 	title: 'Vanguard Time',
 		// 	description: "it's vanguard time",

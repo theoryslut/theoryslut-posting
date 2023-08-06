@@ -1,6 +1,6 @@
 <script>
-	import RainbowLink from '$lib/RainbowLink.svelte';
-	import ChainLink from '../lib/ChainLink.svelte';
+	import RainbowLink from '../lib/links/RainbowLink.svelte';
+	import ChainLink from '../lib/links/ChainLink.svelte';
 </script>
 
 <svelte:head>
