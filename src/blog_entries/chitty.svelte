@@ -3,12 +3,13 @@
 
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
-	import RainbowLink from '../lib/RainbowLink.svelte';
+	import RainbowLink from '../lib/links/RainbowLink.svelte';
 
 	import footnoteInit from '../lib/footnote/footnoteInit';
 
 	import sue_meme from '../assets/images/glee.png';
 	import go_piss_girl from '../assets/images/gopissgirl.jpg';
+	import CenterFlex from '../lib/layout/wrappers/CenterFlex.svelte';
 
 	onMount(() => {
 		footnoteInit('a.footnote', 'a.bottom');
@@ -338,9 +339,9 @@
 	people mentalhealthposting and complaining about c++ headers. and even that you have to opt in to
 	see!
 </p>
-<div class="center-flex">
+<CenterFlex>
 	<img src={sue_meme} alt="the sue sylvester meme" class="meme" />
-</div>
+</CenterFlex>
 
 <p>
 	at this point i think i've established where i'm going with this. gay mastodon, for some
@@ -683,13 +684,13 @@
 </p>
 
 <h5>back to piss back to piss back to piss</h5>
-<div class="center-flex">
+<CenterFlex>
 	<img
 		src={go_piss_girl}
 		alt="the gossip girl meme with the text changed to 'go piss girl' meme"
 		class="meme"
 	/>
-</div>
+</CenterFlex>
 
 <p>
 	okay, so we've established i think we can do better. we'll get there. but first: you came here for

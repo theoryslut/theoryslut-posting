@@ -127,30 +127,6 @@ blockquote p {
 	color: var(--flamingo);
 }
 
-.body-wrapper {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-	min-height: 100vh;
-	width: 100%;
-	background-color: var(--base);
-}
-
-.main-body {
-	box-sizing: border-box;
-	margin: 1rem;
-	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
-	background-color: var(--mantle);
-	width: 100%;
-	max-width: min(100vw, 56rem);
-}
-
-.center-flex {
-	display: flex;
-	flex-direction: column;
-	align-items: center;
-}
-
 /*  scroll behavior */
 
 html {
@@ -162,9 +138,8 @@ html {
 		scroll-behavior: auto;
 	}
 }
-
 /* footnote animation */
-
+/* used for both footnote and superscript components */
 .pulse {
 	animation: pulse ease-in-out 0.8s 2;
 }

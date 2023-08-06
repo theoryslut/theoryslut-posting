@@ -1,4 +1,4 @@
-import { metadata } from '../../metadata/thoughts';
+import { metadata } from '../../metadata/log';
 
 export async function load() {
 	return {

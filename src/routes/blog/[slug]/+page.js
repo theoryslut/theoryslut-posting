@@ -12,7 +12,7 @@ export async function load({ params }) {
 
 	let component = await (async () =>
 		(
-			await import(`../../../entries/${params.slug}.svelte`)
+			await import(`../../../blog_entries/${params.slug}.svelte`)
 		).default)();
 
 	return {

@@ -4,7 +4,8 @@
 
 <nav class="navbar">
 	<a href={`${base}/`}>Longform</a>
-	<a href={`${base}/thoughts`}>Log</a>
+	<a href={`${base}/log`}>Log</a>
+	<a href={`${base}/feed`}>Feed</a>
 </nav>
 
 <style>

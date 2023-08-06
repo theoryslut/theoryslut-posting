@@ -1,13 +1,15 @@
 <script>
-	import BackArrow from '../../../lib/back_arrow.svelte';
-	import ThemeToggle from '../../../lib/ThemeToggle.svelte';
+	import BackArrow from '../../../lib/icons/BackArrow.svelte';
+	import ThemeToggle from '../../../lib/icons/ThemeToggle.svelte';
 	import { theme, toggleTheme } from '../../../stores/global_theme';
 
 	import { page } from '$app/stores';
+	import BodyWrapper from '../../../lib/layout/wrappers/BodyWrapper.svelte';
+	import MainBody from '../../../lib/layout/wrappers/MainBody.svelte';
 </script>
 
-<div class="body-wrapper {$theme}">
-	<section class="main-body">
+<BodyWrapper>
+	<MainBody add_class="blog_slug">
 		<ThemeToggle checked={$theme === 'light-theme'} {toggleTheme} />
 		<BackArrow />
 		<div class="blog-body">
@@ -16,14 +18,11 @@
 			{/if}
 			<slot />
 		</div>
-	</section>
+	</MainBody>
 	<p>want to get in touch? theoryslut@protonmail.com</p>
-</div>
+</BodyWrapper>
 
 <style>
-	.main-body {
-		padding: 1rem;
-	}
 	.blog-body {
 		padding: 0 2em;
 	}

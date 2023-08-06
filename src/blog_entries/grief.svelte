@@ -1,8 +1,8 @@
 <script>
 	import { onMount } from 'svelte';
 
-	import RainbowLink from '$lib/RainbowLink.svelte';
-	import ChainLink from '../lib/ChainLink.svelte';
+	import RainbowLink from '../lib/links/RainbowLink.svelte';
+	import ChainLink from '../lib/links/ChainLink.svelte';
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
 	import footnoteInit from '../lib/footnote/footnoteInit';
@@ -13,6 +13,7 @@
 	import ariana from '../assets/images/ariana.jpg';
 	import dicksize from '../assets/images/dicksize.png';
 	import curious from '../assets/images/weshouldimprove.png';
+	import CenterFlex from '../lib/layout/wrappers/CenterFlex.svelte';
 	onMount(() => {
 		footnoteInit('a.footnote', 'a.bottom');
 	});
@@ -80,10 +81,9 @@
 	charlie. I went home and spent hours researching plants, learning (to my food-insecure, underinsured
 	and sick delight and gratitude) that many of the plants I pulled were edible and medicinal.
 </p>
-<figure class="center-flex">
+<CenterFlex figure={true} figcaption="a picture of horseweed i took on a plant identification app">
 	<img src={horseweed} class="plant image" alt="horseweed" />
-	<figcaption>a picture of horseweed i took on a plant identification app</figcaption>
-</figure>
+</CenterFlex>
 <p>
 	i would walk to class and try to spend 5 seconds, 10 seconds just noticing what and who was around
 	me. on the concrete sidewalk of montgomery avenue, listening to the regional rail line roar past a
@@ -451,18 +451,18 @@
 	earth; in other words, the massive ecosystem changes that have happened to the earth as a result of
 	capitalism.
 </p>
-<figure class="center-flex">
+<CenterFlex
+	figure={true}
+	figcaption="as we all know, just as skull shape can identify race and therefore mark intelligence, so can
+root depth identify plants originally from wherever you currently are and therefore mark
+ecological value. from the national wildlife federation website"
+>
 	<img
 		src={dicksize}
 		alt="diagram with random native plants on the left and nonnative plants on the right, showing that native plants (supposedly) have root systems that go a lot deeper"
 		class="image"
 	/>
-	<figcaption class="caption">
-		as we all know, just as skull shape can identify race and therefore mark intelligence, so can
-		root depth identify plants originally from wherever you currently are and therefore mark
-		ecological value. from the national wildlife federation website
-	</figcaption>
-</figure>
+</CenterFlex>
 <p>
 	I'd like to quote an essay I read while writing this piece at length, because it fucks and says it
 	better than I can. In "The Discord of Invasion Ecology," author Calyx is talking about the effect
@@ -521,13 +521,13 @@
 	do we really understand the long-scale implications of them being here. But! I want my gddm tree
 	of heaven gone! and the lantern flies with it!
 </p>
-<div class="center-flex">
+<CenterFlex>
 	<img
 		src={my_pretty}
 		alt="the wizard of oz witch with caption ill get you my ailanthus and your little spotted landternfly too"
 		class="image"
 	/>
-</div>
+</CenterFlex>
 <h4>so, what would it take to get them gone?</h4>
 <p>
 	Most of the plants that are thriving in impossibly damaged ecosystems are <i>tough</i>. The only
@@ -784,26 +784,26 @@
 		>economists?</i
 	>
 </p>
-<div class="center-flex">
+<CenterFlex>
 	<img
 		src={ariana}
 		alt="meme 3 pixel wide jpg of ariana grandes face w text 'rlly' on top"
 		class="image"
 	/>
-</div>
+</CenterFlex>
 <p>
 	as a result of these very noticeable new bugs combined with the propaganda put out by the
 	government & university ag depts and amplified by local news,<SuperScript id="bloodthirsty" /> there's
 	been a relatively widespread understanding that these bugs are "bad" and should be killed on sight.
 	here's a collage i made of a bunch of stickers i found on the internet (mostly on etsy)
 </p>
-<div class="center-flex">
+<CenterFlex>
 	<img
 		src={slf}
 		class="image"
 		alt="collage of stickers saying things such as 'kill me' and 'see it stomp it' and 'die you beautiful bitch' superimposed on illustrations of spotted lantern flies"
 	/>
-</div>
+</CenterFlex>
 <p>yeah.</p>
 <p>
 	this isn't to like demonize people stomping on SLFs lol. ive stomped em too. i also don't want the
@@ -1123,22 +1123,20 @@
 	sort of person who either says "nature is self-healing, so we shouldn't intervene," or who says
 	"well, we can't know everything, so the best thing is to do nothing at all." if there is one
 	takeaway i had from reading capital volume one lol, it is that we are a part of the natural world.
-	capitalism is a natural phenomenon. it's a natural system, currently on the boom part of its boom
-	bust curve. the ways we can fight it, too, are natural, part of the natural world. and those
-	fights <i>generally aren't won</i> in separating ourselves from our communities and contexts and
-	trying to make it all out from a safe distance. all that you touch you change. all that you change
-	changes you. there is no safe "outside" from which to watch the climate catastrophe occur. we are
-	part of the great open wound of industrialization. and we will be part of its self-healing.<SuperScript
-		id="death"
-	/>
+	capitalism is a natural phenomenon. the ways we can fight it, too, are natural, part of the
+	natural world. and those fights <i>generally aren't won</i> in separating ourselves from our
+	communities and contexts and trying to make it all out from a safe distance. all that you touch
+	you change. all that you change changes you. there is no safe "outside" from which to watch the
+	climate catastrophe occur. we are part of the great open wound of industrialization. and we will
+	be part of its self-healing.<SuperScript id="death" />
 </p>
-<div class="center-flex">
+<CenterFlex>
 	<img
 		src={curious}
 		class="image"
 		alt="the meme where one illustrated feudal peasant goes 'we should improve society somewhat' and the other goes 'yet you participate in society. curious! i am very intelligent.' "
 	/>
-</div>
+</CenterFlex>
 <p>
 	i said this earlier but it's been a long journey thru the diasporic weeds so i'll reiterate: this
 	really isn't a criticism of specific behaviors. i drive to my job in my car guzzling gasoline and
@@ -1167,13 +1165,13 @@
 </p>
 <p>
 	this perspective among plant people, a perspective whose insight has been really central to the
-	writing of this piece, generally gets credited as part of traditional indigenous knowledgeways. i
-	want to be clear about that the roots of this knowledge system, both in my own work and in the
-	world at large, are found in traditional indigenous / ecologically integrated cultures, not the
-	white, industrialized, professional plant world. but i also wanna be clear that everything i'm
-	wondering about in the rest of this piece is just that -- my own uninformed wonderings, from the
-	perspective of a person involved in the white, professionalized, industrialized plant world. what
-	follows is things <i>i'm</i>
+	writing of this piece, generally gets credited as part of indigenous knowledgeways / traditional
+	ecological knowledge. i want to be clear about that the roots of this knowledge system, both in my
+	own work and in the world at large, are found in indigenous / ecologically integrated cultures,
+	not the white, industrialized, professional plant world. but i also wanna be clear that everything
+	i'm wondering about in the rest of this piece is just that -- my own uninformed wonderings, from
+	the perspective of a person involved in the white, professionalized, industrialized plant world.
+	what follows is things <i>i'm</i>
 	wondering about as i do this work day to day, not information that should be relied upon blindly. i
 	particularly don't want to make out my halfassed thoughts on all this to be coming from any storied
 	indigenous tradition rather than me, and my well-storied ass.
@@ -1757,15 +1755,6 @@
 </div>
 
 <style>
-	figure {
-		margin: 0;
-		padding: 0;
-	}
-
-	.caption {
-		max-width: 70%;
-	}
-
 	.image {
 		max-height: 700px;
 		max-width: 90%;

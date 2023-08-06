@@ -1,17 +1,18 @@
 <script>
 	import { base } from '$app/paths';
-	import AllPosts from '../lib/layout/wrappers/AllPosts.svelte';
-	import PageWrapper from '../lib/layout/wrappers/PageWrapper.svelte';
+
+	import AllPosts from '../../lib/layout/wrappers/AllPosts.svelte';
+	import PageWrapper from '../../lib/layout/wrappers/PageWrapper.svelte';
 
 	export let data;
 </script>
 
 <svelte:head>
-	<title>theoryslut</title>
+	<title>theoryslut | log</title>
 </svelte:head>
 
-<PageWrapper header_text="post theory, slut">
-	<AllPosts>
+<PageWrapper header_text="no polish lo stakes Posts">
+	<AllPosts added_class="left-margin">
 		<ul>
 			{#each data.entries as entry}
 				<li class="li-box">
@@ -30,7 +31,7 @@
 					<span class="entry-spacer"> {`  `}</span>
 					<span>{new Date(entry.published).toDateString().split(' ').slice(1).join(' ')}</span>
 					<span class="entry-spacer"> {`    `}</span>
-					<a href={`${base}/blog/${entry.slug}`} class="entry-title">{entry.title}</a>
+					<a href={`${base}/log/${entry.slug}`} class="entry-title">{entry.title}</a>
 				</li>
 			{/each}
 		</ul>

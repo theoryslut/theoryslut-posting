@@ -1,27 +1,22 @@
 <script>
-  import {theme, toggleTheme} from '../stores/global_theme'
-  import ThemeToggle from "../lib/ThemeToggle.svelte";
+	import { theme, toggleTheme } from '../stores/global_theme';
+	import ThemeToggle from '../lib/icons/ThemeToggle.svelte';
 	import { page } from '$app/stores';
-	import BackArrow from '../lib/back_arrow.svelte';
-
+	import BackArrow from '../lib/icons/BackArrow.svelte';
+	import BodyWrapper from '../lib/layout/wrappers/BodyWrapper.svelte';
+	import MainBody from '../lib/layout/wrappers/MainBody.svelte';
 </script>
 
-<div class="body-wrapper {$theme}">
-  <div class="main-body">
-    <ThemeToggle checked={$theme === "light-theme"} {toggleTheme} />
-    <BackArrow />
-    <h1>{$page.status} {$page.error.message}</h1>
-
-  </div>
-</div>
+<BodyWrapper>
+	<MainBody add_class="error">
+		<ThemeToggle checked={$theme === 'light-theme'} {toggleTheme} />
+		<BackArrow />
+		<h1>{$page.status} {$page.error.message}</h1>
+	</MainBody>
+</BodyWrapper>
 
 <style>
-  
-  .main-body {
-    padding: 1rem;
-
-  }
-  h1 {
-    text-align: center;
-  }
+	h1 {
+		text-align: center;
+	}
 </style>

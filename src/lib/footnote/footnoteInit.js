@@ -23,7 +23,7 @@ const add_color_cue = (body, footer) => {
 		footnote.addEventListener('click', () => {
 			const paired_body_anchor = document.querySelector(id);
 			paired_body_anchor.classList.add('pulse');
-			setTimeout(() => paired_body_anchor.classList.remove('pulse'), 5000);
+			setTimeout(() => paired_body_anchor.classList.remove('pulse'), 1600);
 		});
 	});
 
@@ -37,7 +37,7 @@ const add_color_cue = (body, footer) => {
 			}
 
 			paired_footnote.classList.add('pulse');
-			setTimeout(() => paired_footnote.classList.remove('pulse'), 5000);
+			setTimeout(() => paired_footnote.classList.remove('pulse'), 1600);
 		});
 	});
 };

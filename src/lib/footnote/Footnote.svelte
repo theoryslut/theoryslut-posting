@@ -1,6 +1,6 @@
 <script>
 	export let id;
-	export let isFocused;
+	export let isFocused = false;
 </script>
 
 <p>
