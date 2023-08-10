@@ -1,11 +1,8 @@
 <script>
-	import { onMount } from 'svelte';
-
 	import RainbowLink from '../lib/links/RainbowLink.svelte';
 	import ChainLink from '../lib/links/ChainLink.svelte';
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
-	import footnoteInit from '../lib/footnote/footnoteInit';
 
 	import horseweed from '../assets/images/horseweed.jpeg';
 	import my_pretty from '../assets/images/my_pretty.jpeg';
@@ -14,9 +11,6 @@
 	import dicksize from '../assets/images/dicksize.png';
 	import curious from '../assets/images/weshouldimprove.png';
 	import CenterFlex from '../lib/layout/wrappers/CenterFlex.svelte';
-	onMount(() => {
-		footnoteInit('a.footnote', 'a.bottom');
-	});
 </script>
 
 <svelte:head>

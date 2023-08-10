@@ -1,17 +1,19 @@
 <script>
+	export let src = '';
+	export let alt = '';
 	export let figure = false;
 	export let figcaption = '';
 	export let added_class = '';
 </script>
 
 {#if figure}
-	<figure class="center-flex {added_class}">
-		<slot />
+	<figure class="center-flex">
+		<img {src} class="image {added_class}" {alt} />
 		<figcaption class="caption">{figcaption}</figcaption>
 	</figure>
 {:else}
 	<div class="center-flex {added_class}">
-		<slot />
+		<img {src} class="image {added_class}" {alt} />
 	</div>
 {/if}
 

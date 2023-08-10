@@ -1,19 +1,11 @@
 <script>
-	import { onMount } from 'svelte';
-
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
 	import RainbowLink from '../lib/links/RainbowLink.svelte';
 
-	import footnoteInit from '../lib/footnote/footnoteInit';
-
 	import sue_meme from '../assets/images/glee.png';
 	import go_piss_girl from '../assets/images/gopissgirl.jpg';
 	import CenterFlex from '../lib/layout/wrappers/CenterFlex.svelte';
-
-	onMount(() => {
-		footnoteInit('a.footnote', 'a.bottom');
-	});
 </script>
 
 <svelte:head>

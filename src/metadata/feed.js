@@ -9,11 +9,11 @@ export const metadata = {
 			tags: ['meta']
 		}
 		// {
-		// 	slug: 'latour1',
+		// 	slug: 'rectum',
 		// 	content: '',
-		// 	published: 'August 5, 2023 19:51:00',
+		// 	published: 'August 8, 2023 23:19:00',
 		// 	custom: true,
-		// 	tags: ['latour', 'theory', 'modernity']
+		// 	tags: ['theory', 'leobersani', 'rectum', 'abjection']
 		// }
 	]
 };

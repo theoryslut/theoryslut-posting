@@ -10,7 +10,7 @@
 	<title>theoryslut</title>
 </svelte:head>
 
-<PageWrapper header_text="post theory, slut">
+<PageWrapper header_text="extended thoughts">
 	<AllPosts>
 		<ul>
 			{#each data.entries as entry}
