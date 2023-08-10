@@ -16,7 +16,7 @@
 </svelte:head>
 
 <h1>On: Hegel, Marx and the Enlightenment: an Interim Report (an interim report)</h1>
-<h2>07 August 2023</h2>
+<h2>10 August 2023</h2>
 <h4>WIP! If you've ended up here and your name isn't Steph, something has gone horribly wrong!</h4>
 <p>
 	so, i was reading latour's <i>we have never been modern,</i> and he brought up "marx and the twin
