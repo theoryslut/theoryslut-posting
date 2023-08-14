@@ -7,13 +7,13 @@ export const metadata = {
 			published: 'August 5, 2023 18:37:00',
 			custom: false,
 			tags: ['meta']
+		},
+		{
+			slug: 'faggot_for_sale',
+			content: '',
+			published: 'August 14, 2023 00:05:00',
+			custom: true,
+			tags: ['clothes', 'hemingway']
 		}
-		// {
-		// 	slug: 'rectum',
-		// 	content: '',
-		// 	published: 'August 8, 2023 23:19:00',
-		// 	custom: true,
-		// 	tags: ['theory', 'leobersani', 'rectum', 'abjection']
-		// }
 	]
 };
