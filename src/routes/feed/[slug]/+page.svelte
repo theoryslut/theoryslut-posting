@@ -1,7 +1,4 @@
 <script>
-	import ThemeToggle from '../../../lib/icons/ThemeToggle.svelte';
-	import { theme, toggleTheme } from '../../../stores/global_theme';
-
 	import { page } from '$app/stores';
 
 	import Card from '../../../lib/layout/Card.svelte';
