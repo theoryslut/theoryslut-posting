@@ -11,6 +11,12 @@ export const metadata = {
 			title: 'grief on land',
 			description: 'grief on land',
 			published: 'June 26, 2023 00:00:00'
+		},
+		{
+			slug: 'ldorvador',
+			title: "berakhot 62a:1-3 // l'dor vador for gay sluts",
+			description: "berakhot 62a:1-3 // l'dor vador for gay sluts",
+			published: 'October 30, 2023 00:00:00'
 		}
 		// {
 		// 	slug: 'crisis',
