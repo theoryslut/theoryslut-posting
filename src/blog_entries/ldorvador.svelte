@@ -1,4 +1,6 @@
 <script>
+	import { base } from '$app/paths';
+
 	import RainbowLink from '../lib/links/RainbowLink.svelte';
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
@@ -289,7 +291,7 @@
 		<i>modesty</i> in this one. Fuckin cmon man
 	</Footnote>
 	<Footnote id="bathroom"
-		>as you'll remember from <RainbowLink href="/blog/chitty/"
+		>as you'll remember from <RainbowLink href={`${base}/blog/chitty`}
 			>other posts on this site,</RainbowLink
 		>
 		a classic cruising venue and site of homoeroticism in general --- public yet private, etc etc.</Footnote
