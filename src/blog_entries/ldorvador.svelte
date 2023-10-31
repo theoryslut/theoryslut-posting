@@ -302,24 +302,12 @@
 	<Footnote id="supposedly">according to some lol</Footnote>
 	<Footnote id="autofellatio"
 		>like, it's probably unlikely that Rav Abba is autofellating, i do think his wife is genuinely
-		implied here though not mentioneberakhot 62:1-3 l'dor vador for gay sluts 20 October 2023d. i
-		havent read any premodern commentary on this section if u find someone being like 'ya he was
-		giving himself head' pls do @ me
+		implied here though not mentioned. i havent read any premodern commentary on this section if u
+		find someone being like 'ya he was giving himself head' pls do @ me
 	</Footnote>
 	<Footnote id="cmon">see footnote 1</Footnote>
 	<Footnote id="ofc">of COURSE it's engels</Footnote>
 </div>
-
-<!-- 
-<h2>graveyard</h2>
-<p>
-	Reproductive sex, of course, is the paradigmatic act that causes "generations" to occur and
-	therefore the chain of Jewish cultural transmission to endure. The rabbis are obviously quite
-	aware of this and anxious about its implications for sex/reproduction.<SuperScript
-		id="fruitful"
-	/>
-</p>
-<Footnote id="fruitful">see all the "be fruitful and multiply" discourse</Footnote> -->
 
 <style>
 	.hebrew {
