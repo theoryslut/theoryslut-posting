@@ -2,8 +2,21 @@
 @import './catppuccin-frappe-highlight-js.css';
 @import './theme.css';
 
+@font-face {
+	font-family: 'DM Serif Display';
+	src: url('../assets/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('woff2'),
+		url('../assets/fonts/DM_Serif_Display/DMSerifDisplay-Regular.ttf') format('woff');
+}
+
+@font-face {
+	font-family: 'Noto Serif';
+	src: url('../assets/fonts/Noto_Serif/NotoSerif-VariableFont_wdth_wght.ttf') format('woff2'),
+		url('../assets/fonts/Noto_Serif/NotoSerif-VariableFont_wdth_wght.ttf') format('woff');
+}
+
 :root {
 	font-size: 20px;
+	font-family: 'Noto Serif', serif;
 }
 
 @media screen and (max-width: 768px) {
@@ -51,8 +64,10 @@ h2,
 h3,
 h4,
 h5,
-h6 {
+h6,
+nav * {
 	margin: 1em 0em;
+	font-family: 'DM Serif Display', serif;
 }
 
 h1 {
