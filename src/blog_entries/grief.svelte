@@ -37,7 +37,7 @@
 
 <p>
 	i've recently gone back to freelancing / part-timing / desperately-cobbling-together land-based
-	work. gardening, farming, landscaping, etc. i joked to one of my bosses the other day that i
+	work. gardening, farming, landscaping, etc. i joked to one of my coworkers the other day that i
 	should be adding "mugwort murderer" and "precision mulch sweeper" to my resume, to give you a
 	sense of the full miscellany of what i end up doing for pay.
 </p>
