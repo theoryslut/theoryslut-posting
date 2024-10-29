@@ -5,7 +5,7 @@ export const metadata = {
 			content: 'reader: it did not',
 			published: 'October 28, 2024 00:00:00',
 			custom: false,
-			tags: ['meta', 'bestlaidplans', 'blineder']
+			tags: ['meta', 'blineder']
 		},
 		{
 			slug: 'hello_world',
