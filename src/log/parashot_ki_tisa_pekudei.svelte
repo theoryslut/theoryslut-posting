@@ -163,8 +163,4 @@
 	>
 </div>
 
-<style>
-	.parentblock {
-		color: var(--teal);
-	}
-</style>
+

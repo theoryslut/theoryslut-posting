@@ -23,6 +23,12 @@ export const metadata = {
 			title: 'parashot ki tisa & pekudei',
 			description: 'parashot ki tisa & pekudei',
 			published: 'October 28, 2024 00:00:00'
+		},
+		{
+			slug: 'ki_teitzei',
+			title: 'parsha ki teitzei',
+			description: 'parsha ki teitzei',
+			published: 'October 29, 2024 00:00:00'
 		}
 	]
 };

@@ -40,16 +40,24 @@ body {
 
 a:link {
 	color: var(--blue);
-} /* normal link */
+}
+
+/* normal link */
 a:visited {
 	color: var(--mauve);
-} /* visited link */
+}
+
+/* visited link */
 a:active {
 	color: var(--pink);
-} /* clicked link */
+}
+
+/* clicked link */
 a:hover {
 	color: var(--rosewater);
-} /* mouse over link */
+}
+
+/* mouse over link */
 
 b {
 	color: var(--teal);
@@ -153,6 +161,7 @@ html {
 		scroll-behavior: auto;
 	}
 }
+
 /* footnote animation */
 /* used for both footnote and superscript components */
 .pulse {
@@ -171,4 +180,8 @@ html {
 	100% {
 		scale: 1;
 	}
+}
+
+.parentblock {
+	color: var(--teal);
 }
