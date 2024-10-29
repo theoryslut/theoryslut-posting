@@ -1,6 +1,13 @@
 export const metadata = {
 	posts: [
 		{
+			slug: 'it_didnt',
+			content: 'reader: it did not',
+			published: 'October 28, 2024 00:00:00',
+			custom: false,
+			tags: ['meta', 'bestlaidplans', 'blineder']
+		},
+		{
 			slug: 'hello_world',
 			content:
 				'finally got a twitter style feed up and running. hoping this will lower the barrier to putting thoughts up on a more regular basis!',

@@ -4,6 +4,9 @@
 	import RainbowLink from '../lib/links/RainbowLink.svelte';
 	import Footnote from '../lib/footnote/Footnote.svelte';
 	import SuperScript from '../lib/footnote/SuperScript.svelte';
+	import Hebrew from '../lib/hebrew/hebrew.svelte';
+	import Translation from '../lib/hebrew/translation.svelte';
+	import Disclaimer from '../lib/hebrew/disclaimer.svelte';
 </script>
 
 <svelte:head>
@@ -27,10 +30,10 @@
 </p>
 <p>to these people, i say! y'all don't know gay erotica when you see it</p>
 <h3>gay erotica when you see it</h3>
-<p>bear with me i PROMISE there's enough kink here to make it worth ur time</p>
+<p>bear with me i PROMISE there's enough here to make it worth ur time</p>
 <p>
 	there's this section at the top of berakhot 62a about one rabbi following another to the bathroom
-	with the line at the end "it is torah, and i must learn." Classic section
+	with the line at the end "it is torah, and i must learn." Classic section!
 </p>
 <h4>
 	setting the pattern: <RainbowLink href="https://www.sefaria.org/Berakhot.62a?lang=bi"
@@ -43,14 +46,14 @@
 		(non-italic/bold english text is parenthetical in the hebrew, ie, implied. all text +
 		translation direct from sefaria)
 	</h6>
-	<p class="hebrew">
+	<Hebrew>
 		תַּנְיָא, אָמַר רַבִּי עֲקִיבָא: פַּעַם אַחַת נִכְנַסְתִּי אַחַר רַבִּי יְהוֹשֻׁעַ לְבֵית
 		הַכִּסֵּא, וְלָמַדְתִּי מִמֶּנּוּ שְׁלֹשָׁה דְּבָרִים: לָמַדְתִּי שֶׁאֵין נִפְנִין מִזְרָח
 		וּמַעֲרָב אֶלָּא צָפוֹן וְדָרוֹם, וְלָמַדְתִּי שֶׁאֵין נִפְרָעִין מְעוּמָּד אֶלָּא מְיוּשָּׁב,
 		וְלָמַדְתִּי שֶׁאֵין מְקַנְּחִין בְּיָמִין אֶלָּא בִּשְׂמֹאל. אָמַר לוֹ בֶּן עַזַּאי: עַד כָּאן
 		הֵעַזְתָּ פָּנֶיךָ בְּרַבְּךָ?! אָמַר לוֹ תּוֹרָה הִיא, וְלִלְמוֹד אֲנִי צָרִיךְ
-	</p>
-	<p class="translation">
+	</Hebrew>
+	<Translation>
 		<b>It was taught</b> in a <i>baraita</i> in tractate <i>Derekh Eretz</i> that
 		<b>Rabbi Akiva said: I once entered the bathroom after</b>
 		my teacher
@@ -66,7 +69,7 @@
 		a student of Rabbi Akiva,
 		<b>said to him: You were impertinent to your teacher to that extent</b>
 		that you observed that much? <b>He replied: It is Torah, and I must learn.</b>
-	</p>
+	</Translation>
 </blockquote>
 <p>
 	So, we've got here the the skeleton of a joke. One rabbi following another to the bathroom and
@@ -103,17 +106,14 @@
 	>
 </h4>
 <blockquote>
-	<h6>
-		(non-italic/bold english text is parenthetical/implied in the hebrew, not literal. all text +
-		translation direct from sefaria)
-	</h6>
-	<p class="hebrew">
+	<Disclaimer />
+	<Hebrew>
 		רַב כָּהֲנָא עָל, גְּנָא תּוּתֵיהּ פּוּרְיֵיהּ דְּרַב. שַׁמְעֵיהּ דְּשָׂח וְשָׂחַק וְעָשָׂה
 		צְרָכָיו. אֲמַר לֵיהּ: דָּמֵי פּוּמֵּיהּ דְּאַבָּא כִּדְלָא שָׂרֵיף תַּבְשִׁילָא. אֲמַר לֵיהּ:
 		כָּהֲנָא, הָכָא אַתְּ? פּוּק, דְּלָאו אֹרַח אַרְעָא. אֲמַר לֵיהּ: תּוֹרָה הִיא, וְלִלְמוֹד אֲנִי
 		צָרִיךְ
-	</p>
-	<p class="translation">
+	</Hebrew>
+	<Translation>
 		On a similar note, the Gemara relates that <b
 			>Rav Kahana entered and lay beneath Rav’s bed. He heard</b
 		>
@@ -129,7 +129,7 @@
 		<b>said to him: Kahana, you are here? Leave, as</b>
 		this <b>is an undesirable mode of behavior.</b>
 		Rav Kahana <b>said to him: It is Torah, and I must learn.</b>
-	</p>
+	</Translation>
 </blockquote>
 <p>
 	So this is a joke, right! That rav kahana is like, not understanding the point because this is
@@ -159,13 +159,11 @@
 	the pale! except. . . it isn't, because rav kahana literally tries it.
 </p>
 <p>
-	I also want to draw attention to the spacial play. There's a visual pun here: one rabbi under
+	I also want to draw attention to the spatial play. There's a visual pun here: one rabbi under
 	another rabbi's bed can be read as a spatial representation of the chain of transmission, one
 	generation's insights being subsumed into the next's. but it is also a vertical display, a sexual
-	scene: one rabbi, the student, literally underneath the bed of another rabbi, the teacher.<SuperScript
-		id="top"
-	/> this doubling of the power dynamic, sexual and generational at once, is clearly drawing attention
-	to
+	scene: one rabbi, the student, literally underneath the bed of another rabbi, the teacher. this
+	doubling of the power dynamic, sexual and generational at once, is clearly drawing attention to
 </p>
 <h6>social power (and the chain of transmission)</h6>
 <p>
@@ -191,25 +189,26 @@
 	rabbis,<SuperScript id="autofellatio" /> but is not actually explicitly made clear in the text. There's
 	a woman here --- has to be a woman here for the joke to be about reproduction/transmission --- but
 	she's parenthetical to even the joke at hand, referenced only obliquely through the conversation of
-	two rabbis. She acts as the diffuser of the erotic tension evident in the presence of one rabbi underneath
-	another's bed; she also acts as the carrier of the continuity of the l'dor vador motif, referencing
-	sexual activity as a reproductive and generational act.
+	the two rabbis. She acts as the diffuser of the erotic tension evident in the presence of one rabbi
+	underneath another's bed; she also acts as the carrier of the continuity of the l'dor vador motif,
+	referencing sexual activity as a reproductive and generational act.
 </p>
 <p>
 	and the woman's presence-through-absence in the punchline draws attention to her total absence in
 	the first two bits. after all, who teaches one to properly wipe their ass, if not their mother?
 	the rabbis here, as talmudists throughout time, are discussing and debating down to the finest
 	details of daily life. but they're also intimately aware, and occasionally hint to, how minute
-	their influence actually is over, say, how many Jews take their shits facing South.
+	their influence actually is over, say, how many Jews take their shits facing South --- or for that
+	matter, what they get up to (and with whom!) within the confines of private bedrooms.
 </p>
 <p>
-	the historical consensus around the rabbis of the talmud is that they were actually a pretty
-	insular crowd talking mostly amongst themselves, and certainly not the mainstream authority of
-	their time. the legal rulings in the talmud (when they do rule rather than record a dispute!) are
-	generally understood as legal fantasies in a time when Jews were subject to Roman courts under
-	Roman rule. to extend this understanding, i think we can see this sugya as fantasizing about a
-	level of rabbinic control and insight into daily, intimate, sexual, and women's life that simply
-	did not exist at the time.
+	the historical consensus around the rabbis of the talmud is AFAIK that they were a pretty insular
+	crowd talking largely amongst themselves, and certainly not the mainstream legal authorities of
+	their (various) times. the legal rulings in the talmud (when they do rule rather than record a
+	dispute!) are generally understood as legal fantasies in a time when Jews were subject to Roman
+	courts under Roman rule. to extend this understanding, i think we can see this sugya as
+	fantasizing about a level of rabbinic control and insight into daily, intimate, (homo)sexual, and
+	women's life that simply did not exist at the time.
 </p>
 <h4>erotica! it's erotica!</h4>
 <p>
@@ -228,17 +227,15 @@
 	rabbis. who clearly knew Exactly what shit they were about
 </p>
 <h3>wait what about that fanfic tho</h3>
+<p>yeah okay here's your sacrilege you've read far enough</p>
 <p>
-	Anyway I think it would be hot to write fanfic of the wife in this scenario where rav kahana
-	convinces rav abba to teach him about sex through his wife who he never actually refers to as an
-	extant person with agency and a sexuality. Like imagine being halfway through getting head from ur
-	man and suddenly his hot 22yr old student pops out and is like "wow, great job man, u got any
-	pointers on this" and then they slowly fuck you and each other without once acknowledging you as
-	an active participant because in their eyes you're not? Fucking hot. I'm TBH much more interested
-	in the wife's experience than the rabbis' lol, so i don't think i'd write it as slash. It's such a
-	potent little scene that would offer a really good opportunity to explore what it's like to be at
-	the center of the image of sex but barred from its experience (aka, a woman). And also it's simply
-	hotter to write from the perspective of the person getting raped
+	she's not even mentioned but i'm Dying for some drash on rav's wife here. like, imagine being
+	halfway through getting head from ur man and suddenly his hot young student pops out and is like
+	"wow, great job man, u got any pointers on this" and then they slowly fuck you and each other
+	without once acknowledging you as an active participant because in their eyes you're not? Fucking
+	hot. (Fucking terrifying.) It's such a potent little scene that would offer a really good
+	opportunity to explore literarily what it's like to be at the center of the image of sex but
+	somehow + through that symbolically barred from its experience (aka, a woman).
 </p>
 <h3>bonus</h3>
 <p>
@@ -261,7 +258,7 @@
 		for females.
 	</blockquote>
 	The contempt is clear, but also their own ironic play at lagging behind the coming queer revolution,
-	contem- plating the neglect of their own behinds.
+	contemplating the neglect of their own behinds.
 </blockquote>
 <p>
 	it's. so fucking funny. frontside people. . . imagining themselves too old to be cruised. . . the
@@ -296,29 +293,17 @@
 		>
 		a classic cruising venue and site of homoeroticism in general --- public yet private, etc etc.</Footnote
 	>
-	<Footnote id="top"
-		>yes i am arguing there is a top and a bottom so it's simply gay lol sue me</Footnote
-	>
 	<Footnote id="supposedly">according to some lol</Footnote>
 	<Footnote id="autofellatio"
 		>like, it's probably unlikely that Rav Abba is autofellating, i do think his wife is genuinely
 		implied here though not mentioned. i havent read any premodern commentary on this section if u
-		find someone being like 'ya he was giving himself head' pls do @ me
+		find someone being like 'ya we Do know what he was up to here' pls do @ me
 	</Footnote>
 	<Footnote id="cmon">see footnote 1</Footnote>
 	<Footnote id="ofc">of COURSE it's engels</Footnote>
 </div>
 
 <style>
-	.hebrew {
-		font-size: 1.5rem;
-		text-align: right;
-	}
-
-	.translation {
-		color: var(--text);
-	}
-
 	.parentblock {
 		color: var(--teal);
 	}
